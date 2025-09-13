@@ -1,0 +1,245 @@
+id	label	RNA-path	meth-path	mirna-path
+0078b0c4-68a9-483b-9aab-61156d263213	TCGA-GBM	/content/TCGA1/TCGA-GBM/0078b0c4-68a9-483b-9aab-61156d263213/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/0078b0c4-68a9-483b-9aab-61156d263213/DNA-methylation.parquet	
+01a92062-967a-4900-8dc7-a5ecd3b3f8e2	TCGA-GBM	/content/TCGA1/TCGA-GBM/01a92062-967a-4900-8dc7-a5ecd3b3f8e2/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/01a92062-967a-4900-8dc7-a5ecd3b3f8e2/DNA-methylation.parquet	
+0389b35b-651b-4776-b12a-d315a100f47c	TCGA-GBM	/content/TCGA1/TCGA-GBM/0389b35b-651b-4776-b12a-d315a100f47c/RNA-seq.parquet		
+0456a66b-c9b3-4eb1-9872-424a7ea712a2	TCGA-GBM	/content/TCGA1/TCGA-GBM/0456a66b-c9b3-4eb1-9872-424a7ea712a2/RNA-seq.parquet		
+054f472f-98cb-4559-b2e2-b5f800fc8eef	TCGA-GBM	/content/TCGA1/TCGA-GBM/054f472f-98cb-4559-b2e2-b5f800fc8eef/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/054f472f-98cb-4559-b2e2-b5f800fc8eef/DNA-methylation.parquet	
+05944575-8473-4ed0-9de8-8091018001c2	TCGA-GBM		/content/TCGA1/TCGA-GBM/05944575-8473-4ed0-9de8-8091018001c2/DNA-methylation.parquet	
+0628cb4a-c480-4b2f-bd2e-bb33e6994302	TCGA-GBM		/content/TCGA1/TCGA-GBM/0628cb4a-c480-4b2f-bd2e-bb33e6994302/DNA-methylation.parquet	
+0a211ae1-a48c-4989-9379-04d59500d94d	TCGA-GBM		/content/TCGA1/TCGA-GBM/0a211ae1-a48c-4989-9379-04d59500d94d/DNA-methylation.parquet	
+0ca72ebd-ff33-45b8-a97c-3f1435603d71	TCGA-GBM		/content/TCGA1/TCGA-GBM/0ca72ebd-ff33-45b8-a97c-3f1435603d71/DNA-methylation.parquet	
+0fc32169-8eb9-405f-becc-ed38d7064a58	TCGA-GBM		/content/TCGA1/TCGA-GBM/0fc32169-8eb9-405f-becc-ed38d7064a58/DNA-methylation.parquet	
+1030a6b9-0df8-4d60-b69f-2a36e630a6ad	TCGA-GBM	/content/TCGA1/TCGA-GBM/1030a6b9-0df8-4d60-b69f-2a36e630a6ad/RNA-seq.parquet		
+10efeb3c-ef55-4227-91b9-8c2bb4ff43d5	TCGA-GBM		/content/TCGA1/TCGA-GBM/10efeb3c-ef55-4227-91b9-8c2bb4ff43d5/DNA-methylation.parquet	
+13429a31-a193-4180-a8b2-cceaa21ecbfd	TCGA-GBM		/content/TCGA1/TCGA-GBM/13429a31-a193-4180-a8b2-cceaa21ecbfd/DNA-methylation.parquet	
+13b4d676-ee9b-499b-94bb-2365830fb37e	TCGA-GBM		/content/TCGA1/TCGA-GBM/13b4d676-ee9b-499b-94bb-2365830fb37e/DNA-methylation.parquet	
+149be735-d5db-43b6-80b7-d40e3a84500b	TCGA-GBM	/content/TCGA1/TCGA-GBM/149be735-d5db-43b6-80b7-d40e3a84500b/RNA-seq.parquet		
+153c2442-ea61-4b5e-8c5c-c71d287c6055	TCGA-GBM	/content/TCGA1/TCGA-GBM/153c2442-ea61-4b5e-8c5c-c71d287c6055/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/153c2442-ea61-4b5e-8c5c-c71d287c6055/DNA-methylation.parquet	
+159e0318-6173-440f-be07-8d956086e99d	TCGA-GBM	/content/TCGA1/TCGA-GBM/159e0318-6173-440f-be07-8d956086e99d/RNA-seq.parquet		
+15e058e8-2f33-4fb4-92af-3d9dea1fa906	TCGA-GBM	/content/TCGA1/TCGA-GBM/15e058e8-2f33-4fb4-92af-3d9dea1fa906/RNA-seq.parquet		
+18e04edc-04a3-4d1c-b536-3797e1924f48	TCGA-GBM		/content/TCGA1/TCGA-GBM/18e04edc-04a3-4d1c-b536-3797e1924f48/DNA-methylation.parquet	
+1974470e-ec23-4dfc-8907-2e4052c2a0fc	TCGA-GBM		/content/TCGA1/TCGA-GBM/1974470e-ec23-4dfc-8907-2e4052c2a0fc/DNA-methylation.parquet	
+19dd2c8f-05ca-44e8-8c19-bac0327f2ea9	TCGA-GBM		/content/TCGA1/TCGA-GBM/19dd2c8f-05ca-44e8-8c19-bac0327f2ea9/DNA-methylation.parquet	
+1b25795e-69ad-47fd-bb2f-94ff0910fae1	TCGA-GBM	/content/TCGA1/TCGA-GBM/1b25795e-69ad-47fd-bb2f-94ff0910fae1/RNA-seq.parquet		
+1e80ccf6-ef81-4662-bf5e-392f092c1e67	TCGA-GBM	/content/TCGA1/TCGA-GBM/1e80ccf6-ef81-4662-bf5e-392f092c1e67/RNA-seq.parquet		
+1f48f010-98fe-4b5a-b96a-14fb25eff23f	TCGA-GBM	/content/TCGA1/TCGA-GBM/1f48f010-98fe-4b5a-b96a-14fb25eff23f/RNA-seq.parquet		
+20bad0d5-3135-49a4-a119-fa7a1e56fd1b	TCGA-GBM	/content/TCGA1/TCGA-GBM/20bad0d5-3135-49a4-a119-fa7a1e56fd1b/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/20bad0d5-3135-49a4-a119-fa7a1e56fd1b/DNA-methylation.parquet	
+2188c194-dfe4-4471-9b8b-050db1a1062c	TCGA-GBM	/content/TCGA1/TCGA-GBM/2188c194-dfe4-4471-9b8b-050db1a1062c/RNA-seq.parquet		
+224235c1-5b6e-48d5-a5d1-777dfede0f1e	TCGA-GBM	/content/TCGA1/TCGA-GBM/224235c1-5b6e-48d5-a5d1-777dfede0f1e/RNA-seq.parquet		
+225f3689-221d-4296-8472-d8c21eedaf8d	TCGA-GBM		/content/TCGA1/TCGA-GBM/225f3689-221d-4296-8472-d8c21eedaf8d/DNA-methylation.parquet	
+22b5cbba-cc78-4377-a08c-a9413294c3bf	TCGA-GBM		/content/TCGA1/TCGA-GBM/22b5cbba-cc78-4377-a08c-a9413294c3bf/DNA-methylation.parquet	
+22e0c3ea-9f6d-4d73-9282-17ee4553f436	TCGA-GBM	/content/TCGA1/TCGA-GBM/22e0c3ea-9f6d-4d73-9282-17ee4553f436/RNA-seq.parquet		
+25f41de3-9d70-45df-913f-4fb3e5f0f7d6	TCGA-GBM	/content/TCGA1/TCGA-GBM/25f41de3-9d70-45df-913f-4fb3e5f0f7d6/RNA-seq.parquet		
+28629bf9-f447-4650-8fc2-53f1e938ab71	TCGA-GBM		/content/TCGA1/TCGA-GBM/28629bf9-f447-4650-8fc2-53f1e938ab71/DNA-methylation.parquet	
+28da11ec-f46a-4abc-b4c8-bbb784419c71	TCGA-GBM	/content/TCGA1/TCGA-GBM/28da11ec-f46a-4abc-b4c8-bbb784419c71/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/28da11ec-f46a-4abc-b4c8-bbb784419c71/DNA-methylation.parquet	
+2b82e941-1b16-444e-af41-24dbc0a7e8b5	TCGA-GBM	/content/TCGA1/TCGA-GBM/2b82e941-1b16-444e-af41-24dbc0a7e8b5/RNA-seq.parquet		
+2c5fa2d4-8e35-42e4-8bca-9fb3371a19c8	TCGA-GBM	/content/TCGA1/TCGA-GBM/2c5fa2d4-8e35-42e4-8bca-9fb3371a19c8/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/2c5fa2d4-8e35-42e4-8bca-9fb3371a19c8/DNA-methylation.parquet	
+2f4a127f-101a-4192-b3e8-f9be2c8648bc	TCGA-GBM	/content/TCGA1/TCGA-GBM/2f4a127f-101a-4192-b3e8-f9be2c8648bc/RNA-seq.parquet		
+2f61ea6b-a3f2-477f-ab98-47ed07b3b2cd	TCGA-GBM	/content/TCGA1/TCGA-GBM/2f61ea6b-a3f2-477f-ab98-47ed07b3b2cd/RNA-seq.parquet		
+30011f30-2926-47f2-a8f3-4f1b58ffa227	TCGA-GBM	/content/TCGA1/TCGA-GBM/30011f30-2926-47f2-a8f3-4f1b58ffa227/RNA-seq.parquet		
+30256f61-7be9-4d47-8afd-afafa7a079c0	TCGA-GBM	/content/TCGA1/TCGA-GBM/30256f61-7be9-4d47-8afd-afafa7a079c0/RNA-seq.parquet		
+309005a2-93a8-4566-b8d3-6b9310144266	TCGA-GBM	/content/TCGA1/TCGA-GBM/309005a2-93a8-4566-b8d3-6b9310144266/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/309005a2-93a8-4566-b8d3-6b9310144266/DNA-methylation.parquet	
+314d9188-c8fd-43fc-905d-b6889de542c8	TCGA-GBM	/content/TCGA1/TCGA-GBM/314d9188-c8fd-43fc-905d-b6889de542c8/RNA-seq.parquet		
+31b21dcf-7e13-4522-8b34-a5eb6c0e5d1d	TCGA-GBM		/content/TCGA1/TCGA-GBM/31b21dcf-7e13-4522-8b34-a5eb6c0e5d1d/DNA-methylation.parquet	
+34f216fb-09dc-48af-9e09-7d12cc07c1f7	TCGA-GBM	/content/TCGA1/TCGA-GBM/34f216fb-09dc-48af-9e09-7d12cc07c1f7/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/34f216fb-09dc-48af-9e09-7d12cc07c1f7/DNA-methylation.parquet	
+350232cb-b9ba-465b-be9a-81afbc6a92e9	TCGA-GBM	/content/TCGA1/TCGA-GBM/350232cb-b9ba-465b-be9a-81afbc6a92e9/RNA-seq.parquet		
+352768f9-3ce1-419c-beef-6515c78f5d7a	TCGA-GBM	/content/TCGA1/TCGA-GBM/352768f9-3ce1-419c-beef-6515c78f5d7a/RNA-seq.parquet		
+35a7e49e-747b-45ce-9a07-3a5faba0ca94	TCGA-GBM	/content/TCGA1/TCGA-GBM/35a7e49e-747b-45ce-9a07-3a5faba0ca94/RNA-seq.parquet		
+3763b815-308f-4b64-a3a7-56822079765f	TCGA-GBM		/content/TCGA1/TCGA-GBM/3763b815-308f-4b64-a3a7-56822079765f/DNA-methylation.parquet	
+386b629e-fab1-4033-b088-45d6eeb4a13e	TCGA-GBM	/content/TCGA1/TCGA-GBM/386b629e-fab1-4033-b088-45d6eeb4a13e/RNA-seq.parquet		
+3a3fc890-1985-4353-861b-dc3abfb364b1	TCGA-GBM	/content/TCGA1/TCGA-GBM/3a3fc890-1985-4353-861b-dc3abfb364b1/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/3a3fc890-1985-4353-861b-dc3abfb364b1/DNA-methylation.parquet	
+3caf009f-d9e0-4c57-b1d9-8eb59fc833bd	TCGA-GBM	/content/TCGA1/TCGA-GBM/3caf009f-d9e0-4c57-b1d9-8eb59fc833bd/RNA-seq.parquet		
+3dddfc44-7bb1-4974-8a65-a84fd4bac484	TCGA-GBM		/content/TCGA1/TCGA-GBM/3dddfc44-7bb1-4974-8a65-a84fd4bac484/DNA-methylation.parquet	
+3ed101b5-0007-4957-a25d-4cf43bde08b6	TCGA-GBM		/content/TCGA1/TCGA-GBM/3ed101b5-0007-4957-a25d-4cf43bde08b6/DNA-methylation.parquet	
+3f960d3b-a58c-43d0-a8a4-f3555b399c9d	TCGA-GBM	/content/TCGA1/TCGA-GBM/3f960d3b-a58c-43d0-a8a4-f3555b399c9d/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/3f960d3b-a58c-43d0-a8a4-f3555b399c9d/DNA-methylation.parquet	
+41685c5a-a548-483a-8a20-305ad8d61771	TCGA-GBM		/content/TCGA1/TCGA-GBM/41685c5a-a548-483a-8a20-305ad8d61771/DNA-methylation.parquet	
+42e92d73-29eb-4508-a653-9b77f36021c0	TCGA-GBM		/content/TCGA1/TCGA-GBM/42e92d73-29eb-4508-a653-9b77f36021c0/DNA-methylation.parquet	
+43d98306-8b1f-4840-a1a0-146ba0c36400	TCGA-GBM	/content/TCGA1/TCGA-GBM/43d98306-8b1f-4840-a1a0-146ba0c36400/RNA-seq.parquet		
+44ef426e-b67d-4b49-80a3-86681b9abf1a	TCGA-GBM	/content/TCGA1/TCGA-GBM/44ef426e-b67d-4b49-80a3-86681b9abf1a/RNA-seq.parquet		
+456bcab3-165d-456f-94e3-f34f81a61d2e	TCGA-GBM	/content/TCGA1/TCGA-GBM/456bcab3-165d-456f-94e3-f34f81a61d2e/RNA-seq.parquet		
+4644a15f-3115-4f27-86b2-b092419431e1	TCGA-GBM	/content/TCGA1/TCGA-GBM/4644a15f-3115-4f27-86b2-b092419431e1/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/4644a15f-3115-4f27-86b2-b092419431e1/DNA-methylation.parquet	
+46bfebf4-0ef6-4348-81dc-d7d3cb52c08f	TCGA-GBM	/content/TCGA1/TCGA-GBM/46bfebf4-0ef6-4348-81dc-d7d3cb52c08f/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/46bfebf4-0ef6-4348-81dc-d7d3cb52c08f/DNA-methylation.parquet	
+4776b959-d5f5-41ad-ab39-dba6031f6884	TCGA-GBM	/content/TCGA1/TCGA-GBM/4776b959-d5f5-41ad-ab39-dba6031f6884/RNA-seq.parquet		
+47a4161c-9c61-48f5-b9bc-a6d1acad4e5a	TCGA-GBM	/content/TCGA1/TCGA-GBM/47a4161c-9c61-48f5-b9bc-a6d1acad4e5a/RNA-seq.parquet		
+47fd9c51-298c-41ad-9996-135c8a03d691	TCGA-GBM		/content/TCGA1/TCGA-GBM/47fd9c51-298c-41ad-9996-135c8a03d691/DNA-methylation.parquet	
+4b43da9d-60ee-4269-b44d-d92c034b844c	TCGA-GBM	/content/TCGA1/TCGA-GBM/4b43da9d-60ee-4269-b44d-d92c034b844c/RNA-seq.parquet		
+4b606edf-07fc-4665-a7cd-a794004e5aca	TCGA-GBM		/content/TCGA1/TCGA-GBM/4b606edf-07fc-4665-a7cd-a794004e5aca/DNA-methylation.parquet	
+4c42dc4e-66b7-40bf-9fbe-b92543248198	TCGA-GBM	/content/TCGA1/TCGA-GBM/4c42dc4e-66b7-40bf-9fbe-b92543248198/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/4c42dc4e-66b7-40bf-9fbe-b92543248198/DNA-methylation.parquet	
+4dee170b-175c-4e08-83f4-af1317b07209	TCGA-GBM		/content/TCGA1/TCGA-GBM/4dee170b-175c-4e08-83f4-af1317b07209/DNA-methylation.parquet	
+50603cc6-42e6-412f-ab07-4805f728e6b6	TCGA-GBM	/content/TCGA1/TCGA-GBM/50603cc6-42e6-412f-ab07-4805f728e6b6/RNA-seq.parquet		
+50d1d4af-7d62-4c48-88c1-890bb2370353	TCGA-GBM		/content/TCGA1/TCGA-GBM/50d1d4af-7d62-4c48-88c1-890bb2370353/DNA-methylation.parquet	
+51c3409d-5df7-4720-83db-0e6de065f82c	TCGA-GBM	/content/TCGA1/TCGA-GBM/51c3409d-5df7-4720-83db-0e6de065f82c/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/51c3409d-5df7-4720-83db-0e6de065f82c/DNA-methylation.parquet	
+521ea765-1bd1-423d-a75d-091243df37a9	TCGA-GBM	/content/TCGA1/TCGA-GBM/521ea765-1bd1-423d-a75d-091243df37a9/RNA-seq.parquet		
+522808a2-f19d-4fab-b67e-0c31ec54b757	TCGA-GBM		/content/TCGA1/TCGA-GBM/522808a2-f19d-4fab-b67e-0c31ec54b757/DNA-methylation.parquet	
+52408d9f-2637-4952-9b90-cb607a860f23	TCGA-GBM	/content/TCGA1/TCGA-GBM/52408d9f-2637-4952-9b90-cb607a860f23/RNA-seq.parquet		
+5252c0b7-be05-4c0c-a8ac-afe9ad459489	TCGA-GBM	/content/TCGA1/TCGA-GBM/5252c0b7-be05-4c0c-a8ac-afe9ad459489/RNA-seq.parquet		
+5327e899-a20d-4571-8236-98454bad574e	TCGA-GBM	/content/TCGA1/TCGA-GBM/5327e899-a20d-4571-8236-98454bad574e/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/5327e899-a20d-4571-8236-98454bad574e/DNA-methylation.parquet	
+53abce1d-7e33-4ebd-832f-f3789f67377f	TCGA-GBM	/content/TCGA1/TCGA-GBM/53abce1d-7e33-4ebd-832f-f3789f67377f/RNA-seq.parquet		
+543c0a7d-ccd7-4b8d-98fb-eabec806231d	TCGA-GBM	/content/TCGA1/TCGA-GBM/543c0a7d-ccd7-4b8d-98fb-eabec806231d/RNA-seq.parquet		
+55a063b0-98ad-4700-b3ce-61bfe364fec8	TCGA-GBM	/content/TCGA1/TCGA-GBM/55a063b0-98ad-4700-b3ce-61bfe364fec8/RNA-seq.parquet		
+5613f5f6-086d-470b-8f77-6dcb7f8625b7	TCGA-GBM	/content/TCGA1/TCGA-GBM/5613f5f6-086d-470b-8f77-6dcb7f8625b7/RNA-seq.parquet		
+567a8bf1-3793-46bc-9943-16302df056ce	TCGA-GBM		/content/TCGA1/TCGA-GBM/567a8bf1-3793-46bc-9943-16302df056ce/DNA-methylation.parquet	
+5a86d9f1-d38d-4b78-9a23-c7855a20ca2d	TCGA-GBM	/content/TCGA1/TCGA-GBM/5a86d9f1-d38d-4b78-9a23-c7855a20ca2d/RNA-seq.parquet		
+5bbeb8a7-3ac2-4ef1-bd48-6f83bc994a75	TCGA-GBM	/content/TCGA1/TCGA-GBM/5bbeb8a7-3ac2-4ef1-bd48-6f83bc994a75/RNA-seq.parquet		
+5c984433-33cf-42fc-b3ba-511efcdcab19	TCGA-GBM	/content/TCGA1/TCGA-GBM/5c984433-33cf-42fc-b3ba-511efcdcab19/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/5c984433-33cf-42fc-b3ba-511efcdcab19/DNA-methylation.parquet	
+5ef9486a-aeff-421d-b620-03ef119d85a5	TCGA-GBM	/content/TCGA1/TCGA-GBM/5ef9486a-aeff-421d-b620-03ef119d85a5/RNA-seq.parquet		
+5f9baf9b-6d2d-495a-83a1-77f7e4cb9ccd	TCGA-GBM		/content/TCGA1/TCGA-GBM/5f9baf9b-6d2d-495a-83a1-77f7e4cb9ccd/DNA-methylation.parquet	
+603d2b61-b636-4054-ac95-ab66dabb3b48	TCGA-GBM		/content/TCGA1/TCGA-GBM/603d2b61-b636-4054-ac95-ab66dabb3b48/DNA-methylation.parquet	
+60e69f41-571e-4a1b-ae75-9d49eed620ca	TCGA-GBM		/content/TCGA1/TCGA-GBM/60e69f41-571e-4a1b-ae75-9d49eed620ca/DNA-methylation.parquet	
+61e00782-b709-43b1-a164-ee7f89c867e4	TCGA-GBM		/content/TCGA1/TCGA-GBM/61e00782-b709-43b1-a164-ee7f89c867e4/DNA-methylation.parquet	
+620282f9-f932-4335-9c7d-ece53dcaf7a1	TCGA-GBM	/content/TCGA1/TCGA-GBM/620282f9-f932-4335-9c7d-ece53dcaf7a1/RNA-seq.parquet		
+652a39f0-c539-4303-bedc-f0d7f4669d9f	TCGA-GBM	/content/TCGA1/TCGA-GBM/652a39f0-c539-4303-bedc-f0d7f4669d9f/RNA-seq.parquet		
+66a03e91-77c7-4aef-a825-6deef805640c	TCGA-GBM		/content/TCGA1/TCGA-GBM/66a03e91-77c7-4aef-a825-6deef805640c/DNA-methylation.parquet	
+66afd908-0c76-469e-abc3-89563de338c6	TCGA-GBM	/content/TCGA1/TCGA-GBM/66afd908-0c76-469e-abc3-89563de338c6/RNA-seq.parquet		
+66bd4c9e-2ebd-4092-a2b0-69027e8af5b8	TCGA-GBM	/content/TCGA1/TCGA-GBM/66bd4c9e-2ebd-4092-a2b0-69027e8af5b8/RNA-seq.parquet		
+66f3c936-272e-4a1e-8567-f609af411329	TCGA-GBM	/content/TCGA1/TCGA-GBM/66f3c936-272e-4a1e-8567-f609af411329/RNA-seq.parquet		
+68749001-c4c2-415d-830c-07e39c3a504a	TCGA-GBM		/content/TCGA1/TCGA-GBM/68749001-c4c2-415d-830c-07e39c3a504a/DNA-methylation.parquet	
+69d0a566-5fbf-45f6-a240-649b06868e27	TCGA-GBM	/content/TCGA1/TCGA-GBM/69d0a566-5fbf-45f6-a240-649b06868e27/RNA-seq.parquet		
+69d56f2d-6924-409b-9d1e-c8d69b400270	TCGA-GBM	/content/TCGA1/TCGA-GBM/69d56f2d-6924-409b-9d1e-c8d69b400270/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/69d56f2d-6924-409b-9d1e-c8d69b400270/DNA-methylation.parquet	
+6c28f086-6a25-40b6-93eb-bba0014acda6	TCGA-GBM	/content/TCGA1/TCGA-GBM/6c28f086-6a25-40b6-93eb-bba0014acda6/RNA-seq.parquet		
+6c5154d2-af36-492f-b520-d925528824e4	TCGA-GBM	/content/TCGA1/TCGA-GBM/6c5154d2-af36-492f-b520-d925528824e4/RNA-seq.parquet		
+6ccc0eda-96f8-475c-9d8c-016b26fdd81d	TCGA-GBM		/content/TCGA1/TCGA-GBM/6ccc0eda-96f8-475c-9d8c-016b26fdd81d/DNA-methylation.parquet	
+6ccd57e5-9215-46fa-b3be-e408a0f424dc	TCGA-GBM	/content/TCGA1/TCGA-GBM/6ccd57e5-9215-46fa-b3be-e408a0f424dc/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/6ccd57e5-9215-46fa-b3be-e408a0f424dc/DNA-methylation.parquet	
+6e72d2e2-96fe-4fbb-9fe6-39ec28753eb6	TCGA-GBM	/content/TCGA1/TCGA-GBM/6e72d2e2-96fe-4fbb-9fe6-39ec28753eb6/RNA-seq.parquet		
+6f1b1011-d7a4-4a05-b6ff-288183e7254b	TCGA-GBM		/content/TCGA1/TCGA-GBM/6f1b1011-d7a4-4a05-b6ff-288183e7254b/DNA-methylation.parquet	
+6ff96a7e-1b96-4530-b8a8-7f2e9e541955	TCGA-GBM	/content/TCGA1/TCGA-GBM/6ff96a7e-1b96-4530-b8a8-7f2e9e541955/RNA-seq.parquet		
+70c887ce-43e1-4093-9a2f-a9d3dc62da78	TCGA-GBM		/content/TCGA1/TCGA-GBM/70c887ce-43e1-4093-9a2f-a9d3dc62da78/DNA-methylation.parquet	
+713190ed-c6c1-4695-814b-85ca9b95e6a0	TCGA-GBM	/content/TCGA1/TCGA-GBM/713190ed-c6c1-4695-814b-85ca9b95e6a0/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/713190ed-c6c1-4695-814b-85ca9b95e6a0/DNA-methylation.parquet	
+722f462d-f939-4bc1-aae4-8f78b1335a87	TCGA-GBM	/content/TCGA1/TCGA-GBM/722f462d-f939-4bc1-aae4-8f78b1335a87/RNA-seq.parquet		
+72f88d18-03be-4b51-9f4a-1151521b7292	TCGA-GBM	/content/TCGA1/TCGA-GBM/72f88d18-03be-4b51-9f4a-1151521b7292/RNA-seq.parquet		
+7338e476-10ff-444a-a16f-429d28355f65	TCGA-GBM	/content/TCGA1/TCGA-GBM/7338e476-10ff-444a-a16f-429d28355f65/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/7338e476-10ff-444a-a16f-429d28355f65/DNA-methylation.parquet	
+7340f325-579f-4b90-96aa-3a7b362129ca	TCGA-GBM	/content/TCGA1/TCGA-GBM/7340f325-579f-4b90-96aa-3a7b362129ca/RNA-seq.parquet		
+737b35e1-d668-4fce-9b6e-76946c7952b6	TCGA-GBM	/content/TCGA1/TCGA-GBM/737b35e1-d668-4fce-9b6e-76946c7952b6/RNA-seq.parquet		
+74139255-a635-4c87-814d-3dd04ed630a8	TCGA-GBM	/content/TCGA1/TCGA-GBM/74139255-a635-4c87-814d-3dd04ed630a8/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/74139255-a635-4c87-814d-3dd04ed630a8/DNA-methylation.parquet	
+74331114-65b1-4697-abc4-4769ff377528	TCGA-GBM		/content/TCGA1/TCGA-GBM/74331114-65b1-4697-abc4-4769ff377528/DNA-methylation.parquet	
+74ce7e7f-e214-4b6e-8551-114a153ab7fb	TCGA-GBM	/content/TCGA1/TCGA-GBM/74ce7e7f-e214-4b6e-8551-114a153ab7fb/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/74ce7e7f-e214-4b6e-8551-114a153ab7fb/DNA-methylation.parquet	
+752a6e21-9a91-417f-beba-bfdf331d5cac	TCGA-GBM	/content/TCGA1/TCGA-GBM/752a6e21-9a91-417f-beba-bfdf331d5cac/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/752a6e21-9a91-417f-beba-bfdf331d5cac/DNA-methylation.parquet	
+7638e294-2dcf-4c03-b238-24e40491c2ad	TCGA-GBM		/content/TCGA1/TCGA-GBM/7638e294-2dcf-4c03-b238-24e40491c2ad/DNA-methylation.parquet	
+770aa1ee-aed9-4219-900e-63523cdf312f	TCGA-GBM		/content/TCGA1/TCGA-GBM/770aa1ee-aed9-4219-900e-63523cdf312f/DNA-methylation.parquet	
+79a68b32-29a3-47bf-9b2b-643ec7323d73	TCGA-GBM	/content/TCGA1/TCGA-GBM/79a68b32-29a3-47bf-9b2b-643ec7323d73/RNA-seq.parquet		
+7a4c0a14-ac97-4c2b-a9cc-68cb561b2494	TCGA-GBM		/content/TCGA1/TCGA-GBM/7a4c0a14-ac97-4c2b-a9cc-68cb561b2494/DNA-methylation.parquet	
+7a650a2c-bc3f-4e0c-820e-4f492977107b	TCGA-GBM	/content/TCGA1/TCGA-GBM/7a650a2c-bc3f-4e0c-820e-4f492977107b/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/7a650a2c-bc3f-4e0c-820e-4f492977107b/DNA-methylation.parquet	
+7a8d2e13-315e-4512-85ce-b018d11c3bd3	TCGA-GBM		/content/TCGA1/TCGA-GBM/7a8d2e13-315e-4512-85ce-b018d11c3bd3/DNA-methylation.parquet	
+7cada85b-00b1-41e5-9924-e09eb077ad56	TCGA-GBM	/content/TCGA1/TCGA-GBM/7cada85b-00b1-41e5-9924-e09eb077ad56/RNA-seq.parquet		
+7cbabf1d-ec38-4048-ae1c-7d0f3001691b	TCGA-GBM	/content/TCGA1/TCGA-GBM/7cbabf1d-ec38-4048-ae1c-7d0f3001691b/RNA-seq.parquet		
+7e70a318-3acc-42f3-8287-158a2199f0bc	TCGA-GBM		/content/TCGA1/TCGA-GBM/7e70a318-3acc-42f3-8287-158a2199f0bc/DNA-methylation.parquet	
+7eb1d526-923d-4b31-b8be-27d83b3dd025	TCGA-GBM		/content/TCGA1/TCGA-GBM/7eb1d526-923d-4b31-b8be-27d83b3dd025/DNA-methylation.parquet	
+7fe37feb-e205-4524-8c98-1f9ac5fe0700	TCGA-GBM	/content/TCGA1/TCGA-GBM/7fe37feb-e205-4524-8c98-1f9ac5fe0700/RNA-seq.parquet		
+81622677-9742-40ea-ad60-5f9b2a624ea7	TCGA-GBM		/content/TCGA1/TCGA-GBM/81622677-9742-40ea-ad60-5f9b2a624ea7/DNA-methylation.parquet	
+81648978-a543-4eae-8848-98ddf1cb832b	TCGA-GBM		/content/TCGA1/TCGA-GBM/81648978-a543-4eae-8848-98ddf1cb832b/DNA-methylation.parquet	
+820aea32-8f1c-478b-ab56-8171425cd76b	TCGA-GBM		/content/TCGA1/TCGA-GBM/820aea32-8f1c-478b-ab56-8171425cd76b/DNA-methylation.parquet	
+82ecf2ce-0782-4238-be0a-668a2b22c57c	TCGA-GBM		/content/TCGA1/TCGA-GBM/82ecf2ce-0782-4238-be0a-668a2b22c57c/DNA-methylation.parquet	
+863d58e7-91c2-4602-98ed-c6c6e0859566	TCGA-GBM		/content/TCGA1/TCGA-GBM/863d58e7-91c2-4602-98ed-c6c6e0859566/DNA-methylation.parquet	
+872abc8a-6c1f-4114-b993-7d0327fb38bd	TCGA-GBM	/content/TCGA1/TCGA-GBM/872abc8a-6c1f-4114-b993-7d0327fb38bd/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/872abc8a-6c1f-4114-b993-7d0327fb38bd/DNA-methylation.parquet	
+878584ad-e6b6-493a-9f7f-3e284f5d9f68	TCGA-GBM	/content/TCGA1/TCGA-GBM/878584ad-e6b6-493a-9f7f-3e284f5d9f68/RNA-seq.parquet		
+8820ca5f-4f6b-4389-ba86-9015d0bcec1d	TCGA-GBM		/content/TCGA1/TCGA-GBM/8820ca5f-4f6b-4389-ba86-9015d0bcec1d/DNA-methylation.parquet	
+884f867b-4a8b-4b67-8fe4-ab3f068be84e	TCGA-GBM	/content/TCGA1/TCGA-GBM/884f867b-4a8b-4b67-8fe4-ab3f068be84e/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/884f867b-4a8b-4b67-8fe4-ab3f068be84e/DNA-methylation.parquet	
+8c3b2851-fced-473c-9c11-731eb66d8f3e	TCGA-GBM		/content/TCGA1/TCGA-GBM/8c3b2851-fced-473c-9c11-731eb66d8f3e/DNA-methylation.parquet	
+8d0d7a7e-8fae-437d-9b39-f2f17d0f5e4f	TCGA-GBM		/content/TCGA1/TCGA-GBM/8d0d7a7e-8fae-437d-9b39-f2f17d0f5e4f/DNA-methylation.parquet	
+8d2e88d9-d8d0-4c42-8aa2-205a788dea58	TCGA-GBM	/content/TCGA1/TCGA-GBM/8d2e88d9-d8d0-4c42-8aa2-205a788dea58/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/8d2e88d9-d8d0-4c42-8aa2-205a788dea58/DNA-methylation.parquet	
+8da3103e-3e6c-4176-a583-d5fe5e60601e	TCGA-GBM	/content/TCGA1/TCGA-GBM/8da3103e-3e6c-4176-a583-d5fe5e60601e/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/8da3103e-3e6c-4176-a583-d5fe5e60601e/DNA-methylation.parquet	
+8df94420-c736-4a36-b001-5dbe3dff17f0	TCGA-GBM	/content/TCGA1/TCGA-GBM/8df94420-c736-4a36-b001-5dbe3dff17f0/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/8df94420-c736-4a36-b001-5dbe3dff17f0/DNA-methylation.parquet	
+8e6b9705-e9d2-4fbc-ac03-35c1a5115eef	TCGA-GBM	/content/TCGA1/TCGA-GBM/8e6b9705-e9d2-4fbc-ac03-35c1a5115eef/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/8e6b9705-e9d2-4fbc-ac03-35c1a5115eef/DNA-methylation.parquet	
+8ff9f921-f9e9-41c1-a5d4-891fd4cfe979	TCGA-GBM	/content/TCGA1/TCGA-GBM/8ff9f921-f9e9-41c1-a5d4-891fd4cfe979/RNA-seq.parquet		
+92f323c8-dae4-4fdc-a108-148ddc238d1a	TCGA-GBM		/content/TCGA1/TCGA-GBM/92f323c8-dae4-4fdc-a108-148ddc238d1a/DNA-methylation.parquet	
+933b9daf-a5bf-46cf-92b6-5ddd8279919c	TCGA-GBM		/content/TCGA1/TCGA-GBM/933b9daf-a5bf-46cf-92b6-5ddd8279919c/DNA-methylation.parquet	
+9348e446-0e43-4210-b07e-c534980cbf62	TCGA-GBM	/content/TCGA1/TCGA-GBM/9348e446-0e43-4210-b07e-c534980cbf62/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/9348e446-0e43-4210-b07e-c534980cbf62/DNA-methylation.parquet	
+93ed7a2b-b0cb-4a84-871f-5c34a0b6a640	TCGA-GBM	/content/TCGA1/TCGA-GBM/93ed7a2b-b0cb-4a84-871f-5c34a0b6a640/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/93ed7a2b-b0cb-4a84-871f-5c34a0b6a640/DNA-methylation.parquet	
+97b4eeec-7230-446b-b376-6742fae6f6ab	TCGA-GBM		/content/TCGA1/TCGA-GBM/97b4eeec-7230-446b-b376-6742fae6f6ab/DNA-methylation.parquet	
+9848f14b-8eab-4ac9-89b0-99a5ebf14696	TCGA-GBM		/content/TCGA1/TCGA-GBM/9848f14b-8eab-4ac9-89b0-99a5ebf14696/DNA-methylation.parquet	
+987cb702-057b-4198-8ef3-9cf6a9c51989	TCGA-GBM	/content/TCGA1/TCGA-GBM/987cb702-057b-4198-8ef3-9cf6a9c51989/RNA-seq.parquet		
+9888bf87-d0d1-474b-960d-d76b13352e7c	TCGA-GBM		/content/TCGA1/TCGA-GBM/9888bf87-d0d1-474b-960d-d76b13352e7c/DNA-methylation.parquet	
+98e2f2ec-bdcd-490a-bf45-600e3b6c7491	TCGA-GBM	/content/TCGA1/TCGA-GBM/98e2f2ec-bdcd-490a-bf45-600e3b6c7491/RNA-seq.parquet		
+998c8517-89c1-43b2-84e4-b60905787bf6	TCGA-GBM		/content/TCGA1/TCGA-GBM/998c8517-89c1-43b2-84e4-b60905787bf6/DNA-methylation.parquet	
+9ad6c241-ccc5-4532-a6ac-098271b13b5f	TCGA-GBM	/content/TCGA1/TCGA-GBM/9ad6c241-ccc5-4532-a6ac-098271b13b5f/RNA-seq.parquet		
+9b9654c9-5a64-4a8e-b1f0-987437e6012e	TCGA-GBM	/content/TCGA1/TCGA-GBM/9b9654c9-5a64-4a8e-b1f0-987437e6012e/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/9b9654c9-5a64-4a8e-b1f0-987437e6012e/DNA-methylation.parquet	
+9d1d9ae5-4640-4060-a207-c9c5b0e905e1	TCGA-GBM	/content/TCGA1/TCGA-GBM/9d1d9ae5-4640-4060-a207-c9c5b0e905e1/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/9d1d9ae5-4640-4060-a207-c9c5b0e905e1/DNA-methylation.parquet	
+9e2efb07-826f-4efc-8c69-8625cbc708a6	TCGA-GBM		/content/TCGA1/TCGA-GBM/9e2efb07-826f-4efc-8c69-8625cbc708a6/DNA-methylation.parquet	
+a0339182-2fd6-459d-9703-422474222e76	TCGA-GBM		/content/TCGA1/TCGA-GBM/a0339182-2fd6-459d-9703-422474222e76/DNA-methylation.parquet	
+a2338b30-f511-4163-af3b-1e4a40ff00e1	TCGA-GBM	/content/TCGA1/TCGA-GBM/a2338b30-f511-4163-af3b-1e4a40ff00e1/RNA-seq.parquet		
+a262928c-e20a-4c02-8114-1227e05c43e1	TCGA-GBM	/content/TCGA1/TCGA-GBM/a262928c-e20a-4c02-8114-1227e05c43e1/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/a262928c-e20a-4c02-8114-1227e05c43e1/DNA-methylation.parquet	
+a28b256e-e085-467d-bdba-5c39718012d7	TCGA-GBM	/content/TCGA1/TCGA-GBM/a28b256e-e085-467d-bdba-5c39718012d7/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/a28b256e-e085-467d-bdba-5c39718012d7/DNA-methylation.parquet	
+a2ac9937-f351-4d78-9261-264bf6c21e0c	TCGA-GBM	/content/TCGA1/TCGA-GBM/a2ac9937-f351-4d78-9261-264bf6c21e0c/RNA-seq.parquet		
+a515cf2d-e918-4958-9bf6-e611b425a97e	TCGA-GBM	/content/TCGA1/TCGA-GBM/a515cf2d-e918-4958-9bf6-e611b425a97e/RNA-seq.parquet		
+a589e2dc-7649-492c-9569-592698acaa6f	TCGA-GBM	/content/TCGA1/TCGA-GBM/a589e2dc-7649-492c-9569-592698acaa6f/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/a589e2dc-7649-492c-9569-592698acaa6f/DNA-methylation.parquet	
+a597bfa8-8c4d-4f8e-9d85-8a9fdc2c56ff	TCGA-GBM	/content/TCGA1/TCGA-GBM/a597bfa8-8c4d-4f8e-9d85-8a9fdc2c56ff/RNA-seq.parquet		
+a63ce9ac-24a4-484e-8bcc-717cd7aa92df	TCGA-GBM		/content/TCGA1/TCGA-GBM/a63ce9ac-24a4-484e-8bcc-717cd7aa92df/DNA-methylation.parquet	
+a6cda2a0-21d9-4b72-a4c5-de1142d7ddb8	TCGA-GBM		/content/TCGA1/TCGA-GBM/a6cda2a0-21d9-4b72-a4c5-de1142d7ddb8/DNA-methylation.parquet	
+a8d708ab-6388-4d42-bc6e-05a8a718ecff	TCGA-GBM		/content/TCGA1/TCGA-GBM/a8d708ab-6388-4d42-bc6e-05a8a718ecff/DNA-methylation.parquet	
+aa15f655-c1e9-4f4a-acee-2fb76ec82858	TCGA-GBM		/content/TCGA1/TCGA-GBM/aa15f655-c1e9-4f4a-acee-2fb76ec82858/DNA-methylation.parquet	
+aa703529-7153-4f74-8577-2601876e3374	TCGA-GBM		/content/TCGA1/TCGA-GBM/aa703529-7153-4f74-8577-2601876e3374/DNA-methylation.parquet	
+aa7ad106-eadc-489e-83b2-5698652434ea	TCGA-GBM	/content/TCGA1/TCGA-GBM/aa7ad106-eadc-489e-83b2-5698652434ea/RNA-seq.parquet		
+ad7a6a27-c517-49ef-a9f9-518dccda23b4	TCGA-GBM		/content/TCGA1/TCGA-GBM/ad7a6a27-c517-49ef-a9f9-518dccda23b4/DNA-methylation.parquet	
+af055b98-be6a-4012-ac64-f1b6539b23d0	TCGA-GBM	/content/TCGA1/TCGA-GBM/af055b98-be6a-4012-ac64-f1b6539b23d0/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/af055b98-be6a-4012-ac64-f1b6539b23d0/DNA-methylation.parquet	
+b0406065-73bd-4370-8133-7a1c7c11eac6	TCGA-GBM		/content/TCGA1/TCGA-GBM/b0406065-73bd-4370-8133-7a1c7c11eac6/DNA-methylation.parquet	
+b1c4579c-72fa-4974-830c-b6a81ace45f4	TCGA-GBM	/content/TCGA1/TCGA-GBM/b1c4579c-72fa-4974-830c-b6a81ace45f4/RNA-seq.parquet		
+b28b3575-8097-4a97-b32a-5f0eeff64863	TCGA-GBM		/content/TCGA1/TCGA-GBM/b28b3575-8097-4a97-b32a-5f0eeff64863/DNA-methylation.parquet	
+b37d944c-c65c-46d6-bb8b-3eb37cb85b68	TCGA-GBM	/content/TCGA1/TCGA-GBM/b37d944c-c65c-46d6-bb8b-3eb37cb85b68/RNA-seq.parquet		
+b478c37b-6856-4aad-a417-63acb0748cb2	TCGA-GBM		/content/TCGA1/TCGA-GBM/b478c37b-6856-4aad-a417-63acb0748cb2/DNA-methylation.parquet	
+b98184b9-6190-4e95-a1cf-8cffb44b9963	TCGA-GBM	/content/TCGA1/TCGA-GBM/b98184b9-6190-4e95-a1cf-8cffb44b9963/RNA-seq.parquet		
+ba383ea6-c885-49f0-bddc-e00be0230a6b	TCGA-GBM	/content/TCGA1/TCGA-GBM/ba383ea6-c885-49f0-bddc-e00be0230a6b/RNA-seq.parquet		
+bc316a17-9d73-4ef3-97e9-c4ac5516b75a	TCGA-GBM	/content/TCGA1/TCGA-GBM/bc316a17-9d73-4ef3-97e9-c4ac5516b75a/RNA-seq.parquet		
+bc7a0c8f-c1c1-447c-8019-389e52525081	TCGA-GBM	/content/TCGA1/TCGA-GBM/bc7a0c8f-c1c1-447c-8019-389e52525081/RNA-seq.parquet		
+bde84ea9-55c9-4d6d-be86-58fd9222c1d6	TCGA-GBM	/content/TCGA1/TCGA-GBM/bde84ea9-55c9-4d6d-be86-58fd9222c1d6/RNA-seq.parquet		
+be3a7ef3-34ed-40e1-9d9c-187940596b26	TCGA-GBM	/content/TCGA1/TCGA-GBM/be3a7ef3-34ed-40e1-9d9c-187940596b26/RNA-seq.parquet		
+bf339349-062f-4ea9-a0b2-d87d3a21099e	TCGA-GBM	/content/TCGA1/TCGA-GBM/bf339349-062f-4ea9-a0b2-d87d3a21099e/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/bf339349-062f-4ea9-a0b2-d87d3a21099e/DNA-methylation.parquet	
+c04657d2-b71b-4402-82fa-02747cce331d	TCGA-GBM	/content/TCGA1/TCGA-GBM/c04657d2-b71b-4402-82fa-02747cce331d/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/c04657d2-b71b-4402-82fa-02747cce331d/DNA-methylation.parquet	
+c129c34a-8d40-4d98-b9ad-a10d3f7b3ee0	TCGA-GBM		/content/TCGA1/TCGA-GBM/c129c34a-8d40-4d98-b9ad-a10d3f7b3ee0/DNA-methylation.parquet	
+c184c3ca-7ad3-4202-b108-cb9fd5f5d947	TCGA-GBM	/content/TCGA1/TCGA-GBM/c184c3ca-7ad3-4202-b108-cb9fd5f5d947/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/c184c3ca-7ad3-4202-b108-cb9fd5f5d947/DNA-methylation.parquet	
+c29d73c0-c885-4105-bf74-38e9178e71c9	TCGA-GBM	/content/TCGA1/TCGA-GBM/c29d73c0-c885-4105-bf74-38e9178e71c9/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/c29d73c0-c885-4105-bf74-38e9178e71c9/DNA-methylation.parquet	
+c2f7f72f-13ae-4efc-9cda-69ca037b4498	TCGA-GBM	/content/TCGA1/TCGA-GBM/c2f7f72f-13ae-4efc-9cda-69ca037b4498/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/c2f7f72f-13ae-4efc-9cda-69ca037b4498/DNA-methylation.parquet	
+c34760a2-f70e-48c4-a7c2-eb359f8aeb71	TCGA-GBM	/content/TCGA1/TCGA-GBM/c34760a2-f70e-48c4-a7c2-eb359f8aeb71/RNA-seq.parquet		
+c472482e-225d-4ab0-8ba5-b659e7ff3e89	TCGA-GBM		/content/TCGA1/TCGA-GBM/c472482e-225d-4ab0-8ba5-b659e7ff3e89/DNA-methylation.parquet	
+c7b4fd72-b45d-4524-8424-983120abfec0	TCGA-GBM	/content/TCGA1/TCGA-GBM/c7b4fd72-b45d-4524-8424-983120abfec0/RNA-seq.parquet		
+c931f3bd-74c5-4ebd-bc0f-c7c6becd25ab	TCGA-GBM	/content/TCGA1/TCGA-GBM/c931f3bd-74c5-4ebd-bc0f-c7c6becd25ab/RNA-seq.parquet		
+c970240f-03e2-4395-85be-5eb81a69b710	TCGA-GBM	/content/TCGA1/TCGA-GBM/c970240f-03e2-4395-85be-5eb81a69b710/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/c970240f-03e2-4395-85be-5eb81a69b710/DNA-methylation.parquet	
+c9e4f0bf-48fc-4600-9e03-314bc575273f	TCGA-GBM	/content/TCGA1/TCGA-GBM/c9e4f0bf-48fc-4600-9e03-314bc575273f/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/c9e4f0bf-48fc-4600-9e03-314bc575273f/DNA-methylation.parquet	
+ca893d12-3d6c-4e6f-b0e7-7f4eb8bb724b	TCGA-GBM	/content/TCGA1/TCGA-GBM/ca893d12-3d6c-4e6f-b0e7-7f4eb8bb724b/RNA-seq.parquet		
+cb4f4617-8260-475d-a650-2f049474b001	TCGA-GBM		/content/TCGA1/TCGA-GBM/cb4f4617-8260-475d-a650-2f049474b001/DNA-methylation.parquet	
+cd73f38a-f6ff-4e7b-bd43-ec7b82dbe7df	TCGA-GBM	/content/TCGA1/TCGA-GBM/cd73f38a-f6ff-4e7b-bd43-ec7b82dbe7df/RNA-seq.parquet		
+cdfcf14d-ed6c-419f-88f5-e7dee96fcaf6	TCGA-GBM	/content/TCGA1/TCGA-GBM/cdfcf14d-ed6c-419f-88f5-e7dee96fcaf6/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/cdfcf14d-ed6c-419f-88f5-e7dee96fcaf6/DNA-methylation.parquet	
+cf286533-5c8a-40f3-9c69-f46264c7893b	TCGA-GBM	/content/TCGA1/TCGA-GBM/cf286533-5c8a-40f3-9c69-f46264c7893b/RNA-seq.parquet		
+cf6689b9-d0fa-4461-a6b7-db477629e258	TCGA-GBM		/content/TCGA1/TCGA-GBM/cf6689b9-d0fa-4461-a6b7-db477629e258/DNA-methylation.parquet	
+d1547b99-3c96-4c62-8261-5111bcf860a9	TCGA-GBM	/content/TCGA1/TCGA-GBM/d1547b99-3c96-4c62-8261-5111bcf860a9/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/d1547b99-3c96-4c62-8261-5111bcf860a9/DNA-methylation.parquet	
+d1fcd53b-6c55-42b0-9b24-492f8286f5bc	TCGA-GBM		/content/TCGA1/TCGA-GBM/d1fcd53b-6c55-42b0-9b24-492f8286f5bc/DNA-methylation.parquet	
+d27a7f17-fdc9-4325-b98b-ad6839cc88f5	TCGA-GBM		/content/TCGA1/TCGA-GBM/d27a7f17-fdc9-4325-b98b-ad6839cc88f5/DNA-methylation.parquet	
+d558203d-3f70-42d4-accb-008ace280f48	TCGA-GBM	/content/TCGA1/TCGA-GBM/d558203d-3f70-42d4-accb-008ace280f48/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/d558203d-3f70-42d4-accb-008ace280f48/DNA-methylation.parquet	
+d59ffef5-f39b-4627-a7c7-6920b99c2408	TCGA-GBM	/content/TCGA1/TCGA-GBM/d59ffef5-f39b-4627-a7c7-6920b99c2408/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/d59ffef5-f39b-4627-a7c7-6920b99c2408/DNA-methylation.parquet	
+d6a48eb1-7c20-4ae3-ae35-b6b641238ef1	TCGA-GBM	/content/TCGA1/TCGA-GBM/d6a48eb1-7c20-4ae3-ae35-b6b641238ef1/RNA-seq.parquet		
+d6de8d1c-e5ff-45cd-b53e-f943d2578713	TCGA-GBM	/content/TCGA1/TCGA-GBM/d6de8d1c-e5ff-45cd-b53e-f943d2578713/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/d6de8d1c-e5ff-45cd-b53e-f943d2578713/DNA-methylation.parquet	
+d73ca945-b60b-4b5c-ac53-7ef2602a4951	TCGA-GBM	/content/TCGA1/TCGA-GBM/d73ca945-b60b-4b5c-ac53-7ef2602a4951/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/d73ca945-b60b-4b5c-ac53-7ef2602a4951/DNA-methylation.parquet	
+d8628d35-c4c6-443f-9da2-8517a157f137	TCGA-GBM		/content/TCGA1/TCGA-GBM/d8628d35-c4c6-443f-9da2-8517a157f137/DNA-methylation.parquet	
+d88b35a3-a291-457a-b15b-a314859b25c5	TCGA-GBM	/content/TCGA1/TCGA-GBM/d88b35a3-a291-457a-b15b-a314859b25c5/RNA-seq.parquet		
+d9cae674-1100-44a4-8c61-2f15ea1b6214	TCGA-GBM		/content/TCGA1/TCGA-GBM/d9cae674-1100-44a4-8c61-2f15ea1b6214/DNA-methylation.parquet	
+d9fcf27f-48e3-43fd-a8cf-3db246cf4221	TCGA-GBM	/content/TCGA1/TCGA-GBM/d9fcf27f-48e3-43fd-a8cf-3db246cf4221/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/d9fcf27f-48e3-43fd-a8cf-3db246cf4221/DNA-methylation.parquet	
+da5f6940-e8ee-4fd1-a8da-4cd68e02e59c	TCGA-GBM	/content/TCGA1/TCGA-GBM/da5f6940-e8ee-4fd1-a8da-4cd68e02e59c/RNA-seq.parquet		
+dd76930a-1678-4b70-9864-730534174d41	TCGA-GBM	/content/TCGA1/TCGA-GBM/dd76930a-1678-4b70-9864-730534174d41/RNA-seq.parquet		
+de7b7cac-f094-4d59-8651-e991e34ea093	TCGA-GBM	/content/TCGA1/TCGA-GBM/de7b7cac-f094-4d59-8651-e991e34ea093/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/de7b7cac-f094-4d59-8651-e991e34ea093/DNA-methylation.parquet	
+dfa3ef71-7006-4c6d-81c4-e0c0c7b75c26	TCGA-GBM	/content/TCGA1/TCGA-GBM/dfa3ef71-7006-4c6d-81c4-e0c0c7b75c26/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/dfa3ef71-7006-4c6d-81c4-e0c0c7b75c26/DNA-methylation.parquet	
+e0e1b5b3-6e3c-4b79-aa2a-32b320c3e45a	TCGA-GBM	/content/TCGA1/TCGA-GBM/e0e1b5b3-6e3c-4b79-aa2a-32b320c3e45a/RNA-seq.parquet		
+e17a6048-7a72-42c0-ad3f-97cbff02bc9f	TCGA-GBM	/content/TCGA1/TCGA-GBM/e17a6048-7a72-42c0-ad3f-97cbff02bc9f/RNA-seq.parquet		
+e2e83064-7d1c-4dd5-993f-cc7a5ee228ed	TCGA-GBM	/content/TCGA1/TCGA-GBM/e2e83064-7d1c-4dd5-993f-cc7a5ee228ed/RNA-seq.parquet		
+e3251837-f6f3-4dad-856f-108e20d03dad	TCGA-GBM	/content/TCGA1/TCGA-GBM/e3251837-f6f3-4dad-856f-108e20d03dad/RNA-seq.parquet		
+e3953994-0299-4e04-9423-6153b142fb8e	TCGA-GBM		/content/TCGA1/TCGA-GBM/e3953994-0299-4e04-9423-6153b142fb8e/DNA-methylation.parquet	
+e5c9b14e-3bc7-4892-bd51-4cd1599819ec	TCGA-GBM		/content/TCGA1/TCGA-GBM/e5c9b14e-3bc7-4892-bd51-4cd1599819ec/DNA-methylation.parquet	
+e6e2d4c3-d37c-4de3-ac68-b301800770f0	TCGA-GBM	/content/TCGA1/TCGA-GBM/e6e2d4c3-d37c-4de3-ac68-b301800770f0/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/e6e2d4c3-d37c-4de3-ac68-b301800770f0/DNA-methylation.parquet	
+e876dd29-68b0-4bf1-83d1-488c40068a35	TCGA-GBM	/content/TCGA1/TCGA-GBM/e876dd29-68b0-4bf1-83d1-488c40068a35/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/e876dd29-68b0-4bf1-83d1-488c40068a35/DNA-methylation.parquet	
+e921772f-f81a-49bc-b35e-3354c94447c0	TCGA-GBM	/content/TCGA1/TCGA-GBM/e921772f-f81a-49bc-b35e-3354c94447c0/RNA-seq.parquet		
+ea3b5da2-6a12-400c-bf0f-e442f5ec1132	TCGA-GBM	/content/TCGA1/TCGA-GBM/ea3b5da2-6a12-400c-bf0f-e442f5ec1132/RNA-seq.parquet		
+ea82c1da-eada-4108-80ec-77ce891d82a7	TCGA-GBM	/content/TCGA1/TCGA-GBM/ea82c1da-eada-4108-80ec-77ce891d82a7/RNA-seq.parquet		
+eae44c1c-1628-4b58-8b90-d3372e3577d5	TCGA-GBM	/content/TCGA1/TCGA-GBM/eae44c1c-1628-4b58-8b90-d3372e3577d5/RNA-seq.parquet		
+ec56b685-022b-44b4-8051-d8bbbcc17ee0	TCGA-GBM		/content/TCGA1/TCGA-GBM/ec56b685-022b-44b4-8051-d8bbbcc17ee0/DNA-methylation.parquet	
+ed879063-e603-4151-bf5e-22a4ee210281	TCGA-GBM		/content/TCGA1/TCGA-GBM/ed879063-e603-4151-bf5e-22a4ee210281/DNA-methylation.parquet	
+edcfac32-adb4-4fe7-86a0-309d3c6430e5	TCGA-GBM	/content/TCGA1/TCGA-GBM/edcfac32-adb4-4fe7-86a0-309d3c6430e5/RNA-seq.parquet		
+eddbca7a-d668-4c5d-9843-340d7f18e30e	TCGA-GBM	/content/TCGA1/TCGA-GBM/eddbca7a-d668-4c5d-9843-340d7f18e30e/RNA-seq.parquet		
+ee3fc631-1e88-4f70-ab31-335851b38640	TCGA-GBM	/content/TCGA1/TCGA-GBM/ee3fc631-1e88-4f70-ab31-335851b38640/RNA-seq.parquet		
+ef36cbd1-5d7d-4756-a628-b5339d41e228	TCGA-GBM		/content/TCGA1/TCGA-GBM/ef36cbd1-5d7d-4756-a628-b5339d41e228/DNA-methylation.parquet	
+f19850cb-50c4-4f3a-ba80-b1464958ffa8	TCGA-GBM	/content/TCGA1/TCGA-GBM/f19850cb-50c4-4f3a-ba80-b1464958ffa8/RNA-seq.parquet		
+f2de4316-026c-4c2d-b091-47bc0ec8612a	TCGA-GBM	/content/TCGA1/TCGA-GBM/f2de4316-026c-4c2d-b091-47bc0ec8612a/RNA-seq.parquet		
+f2ec3b94-cb92-4335-bdf9-02c046130bab	TCGA-GBM		/content/TCGA1/TCGA-GBM/f2ec3b94-cb92-4335-bdf9-02c046130bab/DNA-methylation.parquet	
+f45f4a30-6b4c-4f15-9140-959d6a25a45f	TCGA-GBM	/content/TCGA1/TCGA-GBM/f45f4a30-6b4c-4f15-9140-959d6a25a45f/RNA-seq.parquet		
+f4fe7c02-be19-4929-8638-960e5776494c	TCGA-GBM	/content/TCGA1/TCGA-GBM/f4fe7c02-be19-4929-8638-960e5776494c/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/f4fe7c02-be19-4929-8638-960e5776494c/DNA-methylation.parquet	
+f55a023c-84b8-4f7d-87db-7a9939733c59	TCGA-GBM		/content/TCGA1/TCGA-GBM/f55a023c-84b8-4f7d-87db-7a9939733c59/DNA-methylation.parquet	
+f5bc5d97-e054-4e53-992d-71b896bd97d5	TCGA-GBM	/content/TCGA1/TCGA-GBM/f5bc5d97-e054-4e53-992d-71b896bd97d5/RNA-seq.parquet	/content/TCGA1/TCGA-GBM/f5bc5d97-e054-4e53-992d-71b896bd97d5/DNA-methylation.parquet	
+f6b2f52b-284d-4bde-9a3d-a0f458d07f08	TCGA-GBM	/content/TCGA1/TCGA-GBM/f6b2f52b-284d-4bde-9a3d-a0f458d07f08/RNA-seq.parquet		
+f7ba48c8-46cf-40a9-8826-7e1f67d57171	TCGA-GBM	/content/TCGA1/TCGA-GBM/f7ba48c8-46cf-40a9-8826-7e1f67d57171/RNA-seq.parquet		
