@@ -1,0 +1,493 @@
+id	label	RNA-path	meth-path	mirna-path
+005a6517-2e5a-4ea3-ab36-531522723607	TCGA-OV	/content/TCGA6/TCGA-OV/005a6517-2e5a-4ea3-ab36-531522723607/RNA-seq.parquet		/content/TCGA6/TCGA-OV/005a6517-2e5a-4ea3-ab36-531522723607/mirna-seq.parquet
+00630714-7ab3-44e1-afff-186300edae44	TCGA-OV			/content/TCGA6/TCGA-OV/00630714-7ab3-44e1-afff-186300edae44/mirna-seq.parquet
+01ea6354-137b-47f3-9021-a01a382b1147	TCGA-OV	/content/TCGA6/TCGA-OV/01ea6354-137b-47f3-9021-a01a382b1147/RNA-seq.parquet		/content/TCGA6/TCGA-OV/01ea6354-137b-47f3-9021-a01a382b1147/mirna-seq.parquet
+02594e5e-8751-47c1-9245-90c66984b665	TCGA-OV	/content/TCGA6/TCGA-OV/02594e5e-8751-47c1-9245-90c66984b665/RNA-seq.parquet		/content/TCGA6/TCGA-OV/02594e5e-8751-47c1-9245-90c66984b665/mirna-seq.parquet
+02d9aa2e-b16a-48ea-a420-5daed9fd51a6	TCGA-OV	/content/TCGA6/TCGA-OV/02d9aa2e-b16a-48ea-a420-5daed9fd51a6/RNA-seq.parquet		/content/TCGA6/TCGA-OV/02d9aa2e-b16a-48ea-a420-5daed9fd51a6/mirna-seq.parquet
+0484a929-7a7f-4926-8d25-470ddab082ec	TCGA-OV	/content/TCGA6/TCGA-OV/0484a929-7a7f-4926-8d25-470ddab082ec/RNA-seq.parquet		/content/TCGA6/TCGA-OV/0484a929-7a7f-4926-8d25-470ddab082ec/mirna-seq.parquet
+04ecaf38-0232-4dcd-9242-308a22cc1331	TCGA-OV	/content/TCGA6/TCGA-OV/04ecaf38-0232-4dcd-9242-308a22cc1331/RNA-seq.parquet		/content/TCGA6/TCGA-OV/04ecaf38-0232-4dcd-9242-308a22cc1331/mirna-seq.parquet
+05019013-7ea5-4905-ac79-901146ba2ee2	TCGA-OV	/content/TCGA6/TCGA-OV/05019013-7ea5-4905-ac79-901146ba2ee2/RNA-seq.parquet		/content/TCGA6/TCGA-OV/05019013-7ea5-4905-ac79-901146ba2ee2/mirna-seq.parquet
+05263959-c4f5-4540-b6d2-d8c8a128861f	TCGA-OV	/content/TCGA6/TCGA-OV/05263959-c4f5-4540-b6d2-d8c8a128861f/RNA-seq.parquet		/content/TCGA6/TCGA-OV/05263959-c4f5-4540-b6d2-d8c8a128861f/mirna-seq.parquet
+05ba5839-e00a-4a9e-8ba3-ecb490781e62	TCGA-OV	/content/TCGA6/TCGA-OV/05ba5839-e00a-4a9e-8ba3-ecb490781e62/RNA-seq.parquet		/content/TCGA6/TCGA-OV/05ba5839-e00a-4a9e-8ba3-ecb490781e62/mirna-seq.parquet
+062982f8-9f49-425a-99e9-008af5ed9040	TCGA-OV	/content/TCGA6/TCGA-OV/062982f8-9f49-425a-99e9-008af5ed9040/RNA-seq.parquet		/content/TCGA6/TCGA-OV/062982f8-9f49-425a-99e9-008af5ed9040/mirna-seq.parquet
+0724f800-e873-45d0-bc56-809d0ec4f6e9	TCGA-OV	/content/TCGA6/TCGA-OV/0724f800-e873-45d0-bc56-809d0ec4f6e9/RNA-seq.parquet		/content/TCGA6/TCGA-OV/0724f800-e873-45d0-bc56-809d0ec4f6e9/mirna-seq.parquet
+0740321b-f8a5-4e1d-b390-ca6187598fac	TCGA-OV	/content/TCGA6/TCGA-OV/0740321b-f8a5-4e1d-b390-ca6187598fac/RNA-seq.parquet		/content/TCGA6/TCGA-OV/0740321b-f8a5-4e1d-b390-ca6187598fac/mirna-seq.parquet
+077079c3-6877-467b-b9cc-5c650aae4f07	TCGA-OV	/content/TCGA6/TCGA-OV/077079c3-6877-467b-b9cc-5c650aae4f07/RNA-seq.parquet		/content/TCGA6/TCGA-OV/077079c3-6877-467b-b9cc-5c650aae4f07/mirna-seq.parquet
+07a859fc-6f78-4905-9035-90e2403dbe8d	TCGA-OV	/content/TCGA6/TCGA-OV/07a859fc-6f78-4905-9035-90e2403dbe8d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/07a859fc-6f78-4905-9035-90e2403dbe8d/mirna-seq.parquet
+07fbdb3c-8337-4319-8255-f2363f8a031e	TCGA-OV	/content/TCGA6/TCGA-OV/07fbdb3c-8337-4319-8255-f2363f8a031e/RNA-seq.parquet		/content/TCGA6/TCGA-OV/07fbdb3c-8337-4319-8255-f2363f8a031e/mirna-seq.parquet
+08c64000-d320-4e4d-974b-da503d48890c	TCGA-OV	/content/TCGA6/TCGA-OV/08c64000-d320-4e4d-974b-da503d48890c/RNA-seq.parquet		/content/TCGA6/TCGA-OV/08c64000-d320-4e4d-974b-da503d48890c/mirna-seq.parquet
+09820a33-80b1-42d0-8366-a0ddaf94b122	TCGA-OV	/content/TCGA6/TCGA-OV/09820a33-80b1-42d0-8366-a0ddaf94b122/RNA-seq.parquet		/content/TCGA6/TCGA-OV/09820a33-80b1-42d0-8366-a0ddaf94b122/mirna-seq.parquet
+098acb76-0bf5-44e5-bcae-f919cf5fa5e5	TCGA-OV			/content/TCGA6/TCGA-OV/098acb76-0bf5-44e5-bcae-f919cf5fa5e5/mirna-seq.parquet
+09c77947-a333-4392-b18d-a6c1f08764a1	TCGA-OV	/content/TCGA6/TCGA-OV/09c77947-a333-4392-b18d-a6c1f08764a1/RNA-seq.parquet		/content/TCGA6/TCGA-OV/09c77947-a333-4392-b18d-a6c1f08764a1/mirna-seq.parquet
+0a2d29de-869a-4dc8-ad11-6ee0d0a3a895	TCGA-OV	/content/TCGA6/TCGA-OV/0a2d29de-869a-4dc8-ad11-6ee0d0a3a895/RNA-seq.parquet		/content/TCGA6/TCGA-OV/0a2d29de-869a-4dc8-ad11-6ee0d0a3a895/mirna-seq.parquet
+0a48873a-092a-4b25-822b-b0b3c18c08a8	TCGA-OV	/content/TCGA6/TCGA-OV/0a48873a-092a-4b25-822b-b0b3c18c08a8/RNA-seq.parquet		/content/TCGA6/TCGA-OV/0a48873a-092a-4b25-822b-b0b3c18c08a8/mirna-seq.parquet
+0aa020cb-69d2-4235-a609-c279a133d8bb	TCGA-OV	/content/TCGA6/TCGA-OV/0aa020cb-69d2-4235-a609-c279a133d8bb/RNA-seq.parquet		/content/TCGA6/TCGA-OV/0aa020cb-69d2-4235-a609-c279a133d8bb/mirna-seq.parquet
+0adadf17-c4b6-48b0-a326-21450de3e144	TCGA-OV			/content/TCGA6/TCGA-OV/0adadf17-c4b6-48b0-a326-21450de3e144/mirna-seq.parquet
+0b2ea4b7-98bb-4190-b682-2c75b447c90a	TCGA-OV	/content/TCGA6/TCGA-OV/0b2ea4b7-98bb-4190-b682-2c75b447c90a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/0b2ea4b7-98bb-4190-b682-2c75b447c90a/mirna-seq.parquet
+0b519c08-9f23-4ceb-9a13-e16509ca55d7	TCGA-OV			/content/TCGA6/TCGA-OV/0b519c08-9f23-4ceb-9a13-e16509ca55d7/mirna-seq.parquet
+0ba7b6cc-e5f5-47d7-859a-24e31aa336ab	TCGA-OV	/content/TCGA6/TCGA-OV/0ba7b6cc-e5f5-47d7-859a-24e31aa336ab/RNA-seq.parquet		/content/TCGA6/TCGA-OV/0ba7b6cc-e5f5-47d7-859a-24e31aa336ab/mirna-seq.parquet
+0c1a2e7d-e7e4-481e-a012-ef214c444497	TCGA-OV	/content/TCGA6/TCGA-OV/0c1a2e7d-e7e4-481e-a012-ef214c444497/RNA-seq.parquet		/content/TCGA6/TCGA-OV/0c1a2e7d-e7e4-481e-a012-ef214c444497/mirna-seq.parquet
+0d23fa5b-95f8-4626-a4d2-c72ad3cc553b	TCGA-OV	/content/TCGA6/TCGA-OV/0d23fa5b-95f8-4626-a4d2-c72ad3cc553b/RNA-seq.parquet		/content/TCGA6/TCGA-OV/0d23fa5b-95f8-4626-a4d2-c72ad3cc553b/mirna-seq.parquet
+0d5e232d-5aa2-4f6f-be58-ffd5f15ee0b8	TCGA-OV	/content/TCGA6/TCGA-OV/0d5e232d-5aa2-4f6f-be58-ffd5f15ee0b8/RNA-seq.parquet		/content/TCGA6/TCGA-OV/0d5e232d-5aa2-4f6f-be58-ffd5f15ee0b8/mirna-seq.parquet
+0dd95368-0713-45f0-84f4-c91af9cbba74	TCGA-OV			/content/TCGA6/TCGA-OV/0dd95368-0713-45f0-84f4-c91af9cbba74/mirna-seq.parquet
+0de910b1-edaf-47e4-a265-727ee12ac1c3	TCGA-OV	/content/TCGA6/TCGA-OV/0de910b1-edaf-47e4-a265-727ee12ac1c3/RNA-seq.parquet		/content/TCGA6/TCGA-OV/0de910b1-edaf-47e4-a265-727ee12ac1c3/mirna-seq.parquet
+0e1598d8-cbe5-4113-95f1-4bcda061239b	TCGA-OV	/content/TCGA6/TCGA-OV/0e1598d8-cbe5-4113-95f1-4bcda061239b/RNA-seq.parquet		/content/TCGA6/TCGA-OV/0e1598d8-cbe5-4113-95f1-4bcda061239b/mirna-seq.parquet
+0e475b3d-be3c-431a-ab12-5a867ea8f6cd	TCGA-OV	/content/TCGA6/TCGA-OV/0e475b3d-be3c-431a-ab12-5a867ea8f6cd/RNA-seq.parquet		/content/TCGA6/TCGA-OV/0e475b3d-be3c-431a-ab12-5a867ea8f6cd/mirna-seq.parquet
+0f4a4ad1-e394-45c4-9aa9-aadf2bff0628	TCGA-OV	/content/TCGA6/TCGA-OV/0f4a4ad1-e394-45c4-9aa9-aadf2bff0628/RNA-seq.parquet		/content/TCGA6/TCGA-OV/0f4a4ad1-e394-45c4-9aa9-aadf2bff0628/mirna-seq.parquet
+0f530b3e-5b6d-4892-9ebd-9138d76fdca7	TCGA-OV	/content/TCGA6/TCGA-OV/0f530b3e-5b6d-4892-9ebd-9138d76fdca7/RNA-seq.parquet		/content/TCGA6/TCGA-OV/0f530b3e-5b6d-4892-9ebd-9138d76fdca7/mirna-seq.parquet
+0f7ac6ca-7806-4b2a-9d37-94ff74fcd010	TCGA-OV		/content/TCGA6/TCGA-OV/0f7ac6ca-7806-4b2a-9d37-94ff74fcd010/DNA-methylation.parquet	/content/TCGA6/TCGA-OV/0f7ac6ca-7806-4b2a-9d37-94ff74fcd010/mirna-seq.parquet
+12581634-eebb-4841-8498-71dc9d78c546	TCGA-OV	/content/TCGA6/TCGA-OV/12581634-eebb-4841-8498-71dc9d78c546/RNA-seq.parquet		/content/TCGA6/TCGA-OV/12581634-eebb-4841-8498-71dc9d78c546/mirna-seq.parquet
+13319c20-02f6-4b5f-b24f-3d8f4084094c	TCGA-OV	/content/TCGA6/TCGA-OV/13319c20-02f6-4b5f-b24f-3d8f4084094c/RNA-seq.parquet		/content/TCGA6/TCGA-OV/13319c20-02f6-4b5f-b24f-3d8f4084094c/mirna-seq.parquet
+13f5814c-1f99-4ffa-84a4-3bbd8979faae	TCGA-OV	/content/TCGA6/TCGA-OV/13f5814c-1f99-4ffa-84a4-3bbd8979faae/RNA-seq.parquet		/content/TCGA6/TCGA-OV/13f5814c-1f99-4ffa-84a4-3bbd8979faae/mirna-seq.parquet
+14c58def-60ee-48e0-a74b-da4eb77ef344	TCGA-OV	/content/TCGA6/TCGA-OV/14c58def-60ee-48e0-a74b-da4eb77ef344/RNA-seq.parquet		/content/TCGA6/TCGA-OV/14c58def-60ee-48e0-a74b-da4eb77ef344/mirna-seq.parquet
+15170c7f-5880-4fb6-82ce-68d3df0dfb68	TCGA-OV	/content/TCGA6/TCGA-OV/15170c7f-5880-4fb6-82ce-68d3df0dfb68/RNA-seq.parquet		/content/TCGA6/TCGA-OV/15170c7f-5880-4fb6-82ce-68d3df0dfb68/mirna-seq.parquet
+15556b28-c6bd-455a-87b6-4b7b3e33d0e4	TCGA-OV	/content/TCGA6/TCGA-OV/15556b28-c6bd-455a-87b6-4b7b3e33d0e4/RNA-seq.parquet		/content/TCGA6/TCGA-OV/15556b28-c6bd-455a-87b6-4b7b3e33d0e4/mirna-seq.parquet
+1592af8e-8d11-4325-8a2b-e0c690b15b58	TCGA-OV			/content/TCGA6/TCGA-OV/1592af8e-8d11-4325-8a2b-e0c690b15b58/mirna-seq.parquet
+15c84da3-16e5-4909-aea9-cb5894b0f8af	TCGA-OV			/content/TCGA6/TCGA-OV/15c84da3-16e5-4909-aea9-cb5894b0f8af/mirna-seq.parquet
+15f1a992-0724-4d76-a71a-702ac7753a41	TCGA-OV	/content/TCGA6/TCGA-OV/15f1a992-0724-4d76-a71a-702ac7753a41/RNA-seq.parquet		/content/TCGA6/TCGA-OV/15f1a992-0724-4d76-a71a-702ac7753a41/mirna-seq.parquet
+15fc17cd-d073-4f81-a4a2-2db3cb9d7069	TCGA-OV	/content/TCGA6/TCGA-OV/15fc17cd-d073-4f81-a4a2-2db3cb9d7069/RNA-seq.parquet		/content/TCGA6/TCGA-OV/15fc17cd-d073-4f81-a4a2-2db3cb9d7069/mirna-seq.parquet
+16829472-5666-4fba-9bf9-360ec1689aa0	TCGA-OV	/content/TCGA6/TCGA-OV/16829472-5666-4fba-9bf9-360ec1689aa0/RNA-seq.parquet		/content/TCGA6/TCGA-OV/16829472-5666-4fba-9bf9-360ec1689aa0/mirna-seq.parquet
+16ced1b8-64d5-4498-82df-4d37bfe5b310	TCGA-OV	/content/TCGA6/TCGA-OV/16ced1b8-64d5-4498-82df-4d37bfe5b310/RNA-seq.parquet		/content/TCGA6/TCGA-OV/16ced1b8-64d5-4498-82df-4d37bfe5b310/mirna-seq.parquet
+17181157-c9e2-4bd6-8653-f5dce56f9053	TCGA-OV	/content/TCGA6/TCGA-OV/17181157-c9e2-4bd6-8653-f5dce56f9053/RNA-seq.parquet		/content/TCGA6/TCGA-OV/17181157-c9e2-4bd6-8653-f5dce56f9053/mirna-seq.parquet
+171f7917-69eb-4a3f-9cc0-0e1dffd412c1	TCGA-OV	/content/TCGA6/TCGA-OV/171f7917-69eb-4a3f-9cc0-0e1dffd412c1/RNA-seq.parquet		/content/TCGA6/TCGA-OV/171f7917-69eb-4a3f-9cc0-0e1dffd412c1/mirna-seq.parquet
+184aac07-44c1-47f1-8adf-50acbcc1762c	TCGA-OV	/content/TCGA6/TCGA-OV/184aac07-44c1-47f1-8adf-50acbcc1762c/RNA-seq.parquet		/content/TCGA6/TCGA-OV/184aac07-44c1-47f1-8adf-50acbcc1762c/mirna-seq.parquet
+1858b58f-fdf4-413c-9c29-96ae85b88a74	TCGA-OV	/content/TCGA6/TCGA-OV/1858b58f-fdf4-413c-9c29-96ae85b88a74/RNA-seq.parquet		/content/TCGA6/TCGA-OV/1858b58f-fdf4-413c-9c29-96ae85b88a74/mirna-seq.parquet
+186d40cd-624c-4016-a497-b30c892d393c	TCGA-OV	/content/TCGA6/TCGA-OV/186d40cd-624c-4016-a497-b30c892d393c/RNA-seq.parquet		/content/TCGA6/TCGA-OV/186d40cd-624c-4016-a497-b30c892d393c/mirna-seq.parquet
+18d21132-a795-4551-83ba-66483de423a2	TCGA-OV	/content/TCGA6/TCGA-OV/18d21132-a795-4551-83ba-66483de423a2/RNA-seq.parquet		/content/TCGA6/TCGA-OV/18d21132-a795-4551-83ba-66483de423a2/mirna-seq.parquet
+18e0e996-8f23-4f53-94a5-dde38b550863	TCGA-OV	/content/TCGA6/TCGA-OV/18e0e996-8f23-4f53-94a5-dde38b550863/RNA-seq.parquet		/content/TCGA6/TCGA-OV/18e0e996-8f23-4f53-94a5-dde38b550863/mirna-seq.parquet
+19427350-619b-4b9c-a3ba-37f667bb2843	TCGA-OV	/content/TCGA6/TCGA-OV/19427350-619b-4b9c-a3ba-37f667bb2843/RNA-seq.parquet		/content/TCGA6/TCGA-OV/19427350-619b-4b9c-a3ba-37f667bb2843/mirna-seq.parquet
+195ecf43-06bd-4ffe-8d8b-a766f3f7179b	TCGA-OV	/content/TCGA6/TCGA-OV/195ecf43-06bd-4ffe-8d8b-a766f3f7179b/RNA-seq.parquet		/content/TCGA6/TCGA-OV/195ecf43-06bd-4ffe-8d8b-a766f3f7179b/mirna-seq.parquet
+196f4600-b6c9-4652-9f77-65c92883f8c1	TCGA-OV	/content/TCGA6/TCGA-OV/196f4600-b6c9-4652-9f77-65c92883f8c1/RNA-seq.parquet		/content/TCGA6/TCGA-OV/196f4600-b6c9-4652-9f77-65c92883f8c1/mirna-seq.parquet
+1aea3c25-d2bc-4ff5-bc27-32e939944e9d	TCGA-OV	/content/TCGA6/TCGA-OV/1aea3c25-d2bc-4ff5-bc27-32e939944e9d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/1aea3c25-d2bc-4ff5-bc27-32e939944e9d/mirna-seq.parquet
+1c0318d9-0472-4840-add4-46bb9f914a30	TCGA-OV	/content/TCGA6/TCGA-OV/1c0318d9-0472-4840-add4-46bb9f914a30/RNA-seq.parquet		/content/TCGA6/TCGA-OV/1c0318d9-0472-4840-add4-46bb9f914a30/mirna-seq.parquet
+1cc02c64-a34e-46ae-9bc7-5d50f2fefb31	TCGA-OV	/content/TCGA6/TCGA-OV/1cc02c64-a34e-46ae-9bc7-5d50f2fefb31/RNA-seq.parquet		/content/TCGA6/TCGA-OV/1cc02c64-a34e-46ae-9bc7-5d50f2fefb31/mirna-seq.parquet
+1d0225b5-f515-4197-bba7-3dc17e502b88	TCGA-OV	/content/TCGA6/TCGA-OV/1d0225b5-f515-4197-bba7-3dc17e502b88/RNA-seq.parquet		/content/TCGA6/TCGA-OV/1d0225b5-f515-4197-bba7-3dc17e502b88/mirna-seq.parquet
+1d192835-524e-429d-bf74-3c4727acb446	TCGA-OV	/content/TCGA6/TCGA-OV/1d192835-524e-429d-bf74-3c4727acb446/RNA-seq.parquet		/content/TCGA6/TCGA-OV/1d192835-524e-429d-bf74-3c4727acb446/mirna-seq.parquet
+1d9893c8-0de3-4b07-b0ba-a53019b23eb4	TCGA-OV	/content/TCGA6/TCGA-OV/1d9893c8-0de3-4b07-b0ba-a53019b23eb4/RNA-seq.parquet		
+1db60f09-7f5a-4f21-8003-06a6abc781db	TCGA-OV	/content/TCGA6/TCGA-OV/1db60f09-7f5a-4f21-8003-06a6abc781db/RNA-seq.parquet		/content/TCGA6/TCGA-OV/1db60f09-7f5a-4f21-8003-06a6abc781db/mirna-seq.parquet
+1e14f098-17b2-4f54-8e4f-e38088008df7	TCGA-OV	/content/TCGA6/TCGA-OV/1e14f098-17b2-4f54-8e4f-e38088008df7/RNA-seq.parquet		/content/TCGA6/TCGA-OV/1e14f098-17b2-4f54-8e4f-e38088008df7/mirna-seq.parquet
+1ede8063-e0e9-466d-891c-ac8916f1b5fa	TCGA-OV	/content/TCGA6/TCGA-OV/1ede8063-e0e9-466d-891c-ac8916f1b5fa/RNA-seq.parquet		/content/TCGA6/TCGA-OV/1ede8063-e0e9-466d-891c-ac8916f1b5fa/mirna-seq.parquet
+1fe19c6b-71d0-4b07-923b-74ea32210db0	TCGA-OV	/content/TCGA6/TCGA-OV/1fe19c6b-71d0-4b07-923b-74ea32210db0/RNA-seq.parquet		/content/TCGA6/TCGA-OV/1fe19c6b-71d0-4b07-923b-74ea32210db0/mirna-seq.parquet
+20336269-5a5b-4ba7-8fe8-665a1f9af738	TCGA-OV	/content/TCGA6/TCGA-OV/20336269-5a5b-4ba7-8fe8-665a1f9af738/RNA-seq.parquet		/content/TCGA6/TCGA-OV/20336269-5a5b-4ba7-8fe8-665a1f9af738/mirna-seq.parquet
+2038fd65-d8f1-4b16-af90-b1c8f9a379a7	TCGA-OV	/content/TCGA6/TCGA-OV/2038fd65-d8f1-4b16-af90-b1c8f9a379a7/RNA-seq.parquet		/content/TCGA6/TCGA-OV/2038fd65-d8f1-4b16-af90-b1c8f9a379a7/mirna-seq.parquet
+206ce0ed-36a4-47ab-ac8e-f6fca6ac5c18	TCGA-OV	/content/TCGA6/TCGA-OV/206ce0ed-36a4-47ab-ac8e-f6fca6ac5c18/RNA-seq.parquet		/content/TCGA6/TCGA-OV/206ce0ed-36a4-47ab-ac8e-f6fca6ac5c18/mirna-seq.parquet
+20c6be4d-7baf-4ea0-93e2-a5212f2e9b9c	TCGA-OV	/content/TCGA6/TCGA-OV/20c6be4d-7baf-4ea0-93e2-a5212f2e9b9c/RNA-seq.parquet		/content/TCGA6/TCGA-OV/20c6be4d-7baf-4ea0-93e2-a5212f2e9b9c/mirna-seq.parquet
+20cf00ea-d7da-42bb-bce7-f005f0b952eb	TCGA-OV	/content/TCGA6/TCGA-OV/20cf00ea-d7da-42bb-bce7-f005f0b952eb/RNA-seq.parquet		/content/TCGA6/TCGA-OV/20cf00ea-d7da-42bb-bce7-f005f0b952eb/mirna-seq.parquet
+21966708-4e66-4211-add0-f1515b09e362	TCGA-OV	/content/TCGA6/TCGA-OV/21966708-4e66-4211-add0-f1515b09e362/RNA-seq.parquet		/content/TCGA6/TCGA-OV/21966708-4e66-4211-add0-f1515b09e362/mirna-seq.parquet
+219f54ef-4235-482d-b799-f2fa9930105c	TCGA-OV	/content/TCGA6/TCGA-OV/219f54ef-4235-482d-b799-f2fa9930105c/RNA-seq.parquet		/content/TCGA6/TCGA-OV/219f54ef-4235-482d-b799-f2fa9930105c/mirna-seq.parquet
+21f6bf91-dfc6-4a59-8b76-88a0f95c7b47	TCGA-OV	/content/TCGA6/TCGA-OV/21f6bf91-dfc6-4a59-8b76-88a0f95c7b47/RNA-seq.parquet		/content/TCGA6/TCGA-OV/21f6bf91-dfc6-4a59-8b76-88a0f95c7b47/mirna-seq.parquet
+22178c3c-6b04-46d8-8041-dc83fa195029	TCGA-OV	/content/TCGA6/TCGA-OV/22178c3c-6b04-46d8-8041-dc83fa195029/RNA-seq.parquet		/content/TCGA6/TCGA-OV/22178c3c-6b04-46d8-8041-dc83fa195029/mirna-seq.parquet
+230edb1a-dd49-43be-9877-d2041c32fe77	TCGA-OV			/content/TCGA6/TCGA-OV/230edb1a-dd49-43be-9877-d2041c32fe77/mirna-seq.parquet
+23771dab-2aab-4d2b-95e2-9af7092cee6b	TCGA-OV	/content/TCGA6/TCGA-OV/23771dab-2aab-4d2b-95e2-9af7092cee6b/RNA-seq.parquet		/content/TCGA6/TCGA-OV/23771dab-2aab-4d2b-95e2-9af7092cee6b/mirna-seq.parquet
+23d32627-9fd2-4312-bcda-ee7409e3983f	TCGA-OV	/content/TCGA6/TCGA-OV/23d32627-9fd2-4312-bcda-ee7409e3983f/RNA-seq.parquet		/content/TCGA6/TCGA-OV/23d32627-9fd2-4312-bcda-ee7409e3983f/mirna-seq.parquet
+242943fe-1fa0-4a12-8f7e-9c6c4af1194d	TCGA-OV	/content/TCGA6/TCGA-OV/242943fe-1fa0-4a12-8f7e-9c6c4af1194d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/242943fe-1fa0-4a12-8f7e-9c6c4af1194d/mirna-seq.parquet
+242da7d0-8c6a-4395-9a0d-aa36e7c25ce6	TCGA-OV	/content/TCGA6/TCGA-OV/242da7d0-8c6a-4395-9a0d-aa36e7c25ce6/RNA-seq.parquet		/content/TCGA6/TCGA-OV/242da7d0-8c6a-4395-9a0d-aa36e7c25ce6/mirna-seq.parquet
+2517ca7a-6057-4c19-b7e1-f6d078e9881a	TCGA-OV	/content/TCGA6/TCGA-OV/2517ca7a-6057-4c19-b7e1-f6d078e9881a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/2517ca7a-6057-4c19-b7e1-f6d078e9881a/mirna-seq.parquet
+25a0a9e6-4f5b-45d8-8f34-abfd31d5ff1b	TCGA-OV			/content/TCGA6/TCGA-OV/25a0a9e6-4f5b-45d8-8f34-abfd31d5ff1b/mirna-seq.parquet
+260723bf-9620-450d-bf31-f3a45543f9db	TCGA-OV	/content/TCGA6/TCGA-OV/260723bf-9620-450d-bf31-f3a45543f9db/RNA-seq.parquet	/content/TCGA6/TCGA-OV/260723bf-9620-450d-bf31-f3a45543f9db/DNA-methylation.parquet	/content/TCGA6/TCGA-OV/260723bf-9620-450d-bf31-f3a45543f9db/mirna-seq.parquet
+263e85e2-7b6f-453f-8fd0-e5ea1409fece	TCGA-OV	/content/TCGA6/TCGA-OV/263e85e2-7b6f-453f-8fd0-e5ea1409fece/RNA-seq.parquet		/content/TCGA6/TCGA-OV/263e85e2-7b6f-453f-8fd0-e5ea1409fece/mirna-seq.parquet
+26558703-a659-43f2-86cb-0695989bc14e	TCGA-OV	/content/TCGA6/TCGA-OV/26558703-a659-43f2-86cb-0695989bc14e/RNA-seq.parquet		/content/TCGA6/TCGA-OV/26558703-a659-43f2-86cb-0695989bc14e/mirna-seq.parquet
+27920e1e-b9ab-4587-970a-0cba7025becb	TCGA-OV	/content/TCGA6/TCGA-OV/27920e1e-b9ab-4587-970a-0cba7025becb/RNA-seq.parquet		/content/TCGA6/TCGA-OV/27920e1e-b9ab-4587-970a-0cba7025becb/mirna-seq.parquet
+28ed2d42-5b4c-4bca-b2b2-6b2a6d3c42cf	TCGA-OV	/content/TCGA6/TCGA-OV/28ed2d42-5b4c-4bca-b2b2-6b2a6d3c42cf/RNA-seq.parquet		/content/TCGA6/TCGA-OV/28ed2d42-5b4c-4bca-b2b2-6b2a6d3c42cf/mirna-seq.parquet
+2956e414-f167-438f-8747-a46fe0723622	TCGA-OV			/content/TCGA6/TCGA-OV/2956e414-f167-438f-8747-a46fe0723622/mirna-seq.parquet
+29949b65-2913-4c86-bbd7-b85c5df6f15e	TCGA-OV	/content/TCGA6/TCGA-OV/29949b65-2913-4c86-bbd7-b85c5df6f15e/RNA-seq.parquet		/content/TCGA6/TCGA-OV/29949b65-2913-4c86-bbd7-b85c5df6f15e/mirna-seq.parquet
+29d26e7e-f4ae-4476-9a3f-27d5ec2ccb8a	TCGA-OV	/content/TCGA6/TCGA-OV/29d26e7e-f4ae-4476-9a3f-27d5ec2ccb8a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/29d26e7e-f4ae-4476-9a3f-27d5ec2ccb8a/mirna-seq.parquet
+29dccd25-4c4a-463b-a353-38a193337f38	TCGA-OV	/content/TCGA6/TCGA-OV/29dccd25-4c4a-463b-a353-38a193337f38/RNA-seq.parquet		/content/TCGA6/TCGA-OV/29dccd25-4c4a-463b-a353-38a193337f38/mirna-seq.parquet
+2a3a6222-f477-4198-ab9e-cdf527c1a6cf	TCGA-OV			/content/TCGA6/TCGA-OV/2a3a6222-f477-4198-ab9e-cdf527c1a6cf/mirna-seq.parquet
+2a924999-1fbf-470a-97bd-fd2276a9a366	TCGA-OV	/content/TCGA6/TCGA-OV/2a924999-1fbf-470a-97bd-fd2276a9a366/RNA-seq.parquet		/content/TCGA6/TCGA-OV/2a924999-1fbf-470a-97bd-fd2276a9a366/mirna-seq.parquet
+2ab32e11-80d6-4ed0-a42e-da612219bbdd	TCGA-OV	/content/TCGA6/TCGA-OV/2ab32e11-80d6-4ed0-a42e-da612219bbdd/RNA-seq.parquet		/content/TCGA6/TCGA-OV/2ab32e11-80d6-4ed0-a42e-da612219bbdd/mirna-seq.parquet
+2ae65a06-df0f-4de1-a536-537cae0cc260	TCGA-OV	/content/TCGA6/TCGA-OV/2ae65a06-df0f-4de1-a536-537cae0cc260/RNA-seq.parquet		/content/TCGA6/TCGA-OV/2ae65a06-df0f-4de1-a536-537cae0cc260/mirna-seq.parquet
+2b14123b-8fcd-402c-9399-4e7c47f20252	TCGA-OV	/content/TCGA6/TCGA-OV/2b14123b-8fcd-402c-9399-4e7c47f20252/RNA-seq.parquet		/content/TCGA6/TCGA-OV/2b14123b-8fcd-402c-9399-4e7c47f20252/mirna-seq.parquet
+2bb96e1e-6992-434d-83e5-2f03713b3911	TCGA-OV			/content/TCGA6/TCGA-OV/2bb96e1e-6992-434d-83e5-2f03713b3911/mirna-seq.parquet
+2c69f3a4-c26c-4fbb-a1c0-b1f57554c43a	TCGA-OV			/content/TCGA6/TCGA-OV/2c69f3a4-c26c-4fbb-a1c0-b1f57554c43a/mirna-seq.parquet
+2cb50c2d-e749-4172-b101-d975507435c5	TCGA-OV	/content/TCGA6/TCGA-OV/2cb50c2d-e749-4172-b101-d975507435c5/RNA-seq.parquet		/content/TCGA6/TCGA-OV/2cb50c2d-e749-4172-b101-d975507435c5/mirna-seq.parquet
+2cb82948-7cbe-4b6c-8414-c02f662de2d0	TCGA-OV	/content/TCGA6/TCGA-OV/2cb82948-7cbe-4b6c-8414-c02f662de2d0/RNA-seq.parquet		/content/TCGA6/TCGA-OV/2cb82948-7cbe-4b6c-8414-c02f662de2d0/mirna-seq.parquet
+2dfd8a0e-e642-49b3-abd7-f0334927eebb	TCGA-OV	/content/TCGA6/TCGA-OV/2dfd8a0e-e642-49b3-abd7-f0334927eebb/RNA-seq.parquet		/content/TCGA6/TCGA-OV/2dfd8a0e-e642-49b3-abd7-f0334927eebb/mirna-seq.parquet
+2ebb738c-4829-4720-931a-96c0fd117e2a	TCGA-OV	/content/TCGA6/TCGA-OV/2ebb738c-4829-4720-931a-96c0fd117e2a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/2ebb738c-4829-4720-931a-96c0fd117e2a/mirna-seq.parquet
+2ee36d9d-128b-4761-aa1a-a637da106f3d	TCGA-OV	/content/TCGA6/TCGA-OV/2ee36d9d-128b-4761-aa1a-a637da106f3d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/2ee36d9d-128b-4761-aa1a-a637da106f3d/mirna-seq.parquet
+3018efe7-13a1-47ae-a726-8fc967c73841	TCGA-OV	/content/TCGA6/TCGA-OV/3018efe7-13a1-47ae-a726-8fc967c73841/RNA-seq.parquet		/content/TCGA6/TCGA-OV/3018efe7-13a1-47ae-a726-8fc967c73841/mirna-seq.parquet
+30b8f4cd-9245-4496-a8a8-c3e59093bc0a	TCGA-OV			/content/TCGA6/TCGA-OV/30b8f4cd-9245-4496-a8a8-c3e59093bc0a/mirna-seq.parquet
+314e446d-3a57-4c91-ac2e-4fc211456ee6	TCGA-OV			/content/TCGA6/TCGA-OV/314e446d-3a57-4c91-ac2e-4fc211456ee6/mirna-seq.parquet
+31872f6a-d225-4f91-b38d-4505d19e406c	TCGA-OV	/content/TCGA6/TCGA-OV/31872f6a-d225-4f91-b38d-4505d19e406c/RNA-seq.parquet		
+31b997dd-aaea-4003-a64d-11d3e19b0bbc	TCGA-OV			/content/TCGA6/TCGA-OV/31b997dd-aaea-4003-a64d-11d3e19b0bbc/mirna-seq.parquet
+32960bc7-839a-42c5-9460-3917fa578ffc	TCGA-OV	/content/TCGA6/TCGA-OV/32960bc7-839a-42c5-9460-3917fa578ffc/RNA-seq.parquet		/content/TCGA6/TCGA-OV/32960bc7-839a-42c5-9460-3917fa578ffc/mirna-seq.parquet
+32d4d200-1fdf-44ed-b81f-1954a9c93926	TCGA-OV	/content/TCGA6/TCGA-OV/32d4d200-1fdf-44ed-b81f-1954a9c93926/RNA-seq.parquet		/content/TCGA6/TCGA-OV/32d4d200-1fdf-44ed-b81f-1954a9c93926/mirna-seq.parquet
+33d36b64-4688-40a7-9a4f-7cd3d4cc683d	TCGA-OV	/content/TCGA6/TCGA-OV/33d36b64-4688-40a7-9a4f-7cd3d4cc683d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/33d36b64-4688-40a7-9a4f-7cd3d4cc683d/mirna-seq.parquet
+33dc48d8-2e01-482b-944c-ac10da727ec9	TCGA-OV	/content/TCGA6/TCGA-OV/33dc48d8-2e01-482b-944c-ac10da727ec9/RNA-seq.parquet		/content/TCGA6/TCGA-OV/33dc48d8-2e01-482b-944c-ac10da727ec9/mirna-seq.parquet
+3445c524-5a37-40b6-8614-956d76eed939	TCGA-OV	/content/TCGA6/TCGA-OV/3445c524-5a37-40b6-8614-956d76eed939/RNA-seq.parquet		/content/TCGA6/TCGA-OV/3445c524-5a37-40b6-8614-956d76eed939/mirna-seq.parquet
+3491d67a-4f83-4f67-8085-bbb9fe942be5	TCGA-OV	/content/TCGA6/TCGA-OV/3491d67a-4f83-4f67-8085-bbb9fe942be5/RNA-seq.parquet		/content/TCGA6/TCGA-OV/3491d67a-4f83-4f67-8085-bbb9fe942be5/mirna-seq.parquet
+34f285ab-6c31-4865-a0a7-a57af3567df0	TCGA-OV	/content/TCGA6/TCGA-OV/34f285ab-6c31-4865-a0a7-a57af3567df0/RNA-seq.parquet		/content/TCGA6/TCGA-OV/34f285ab-6c31-4865-a0a7-a57af3567df0/mirna-seq.parquet
+34f545ab-d420-4dd2-8db4-3159896efd23	TCGA-OV	/content/TCGA6/TCGA-OV/34f545ab-d420-4dd2-8db4-3159896efd23/RNA-seq.parquet		/content/TCGA6/TCGA-OV/34f545ab-d420-4dd2-8db4-3159896efd23/mirna-seq.parquet
+35916942-e7aa-45db-ad27-03cba67d4d5b	TCGA-OV	/content/TCGA6/TCGA-OV/35916942-e7aa-45db-ad27-03cba67d4d5b/RNA-seq.parquet		/content/TCGA6/TCGA-OV/35916942-e7aa-45db-ad27-03cba67d4d5b/mirna-seq.parquet
+35b1bb47-b32b-4acd-8e5e-fe6bd56c0289	TCGA-OV			/content/TCGA6/TCGA-OV/35b1bb47-b32b-4acd-8e5e-fe6bd56c0289/mirna-seq.parquet
+36595b52-2b5f-4e87-80eb-37c29109e92a	TCGA-OV	/content/TCGA6/TCGA-OV/36595b52-2b5f-4e87-80eb-37c29109e92a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/36595b52-2b5f-4e87-80eb-37c29109e92a/mirna-seq.parquet
+374ea8df-ecc4-44b0-b519-33efa5078018	TCGA-OV	/content/TCGA6/TCGA-OV/374ea8df-ecc4-44b0-b519-33efa5078018/RNA-seq.parquet		/content/TCGA6/TCGA-OV/374ea8df-ecc4-44b0-b519-33efa5078018/mirna-seq.parquet
+3768d34f-1527-40db-b116-cd80cee5ec3a	TCGA-OV	/content/TCGA6/TCGA-OV/3768d34f-1527-40db-b116-cd80cee5ec3a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/3768d34f-1527-40db-b116-cd80cee5ec3a/mirna-seq.parquet
+378f7ea2-86b4-4072-80b8-e12d67193106	TCGA-OV	/content/TCGA6/TCGA-OV/378f7ea2-86b4-4072-80b8-e12d67193106/RNA-seq.parquet		/content/TCGA6/TCGA-OV/378f7ea2-86b4-4072-80b8-e12d67193106/mirna-seq.parquet
+384170fc-e8be-426a-a54e-bf1ca61f2986	TCGA-OV	/content/TCGA6/TCGA-OV/384170fc-e8be-426a-a54e-bf1ca61f2986/RNA-seq.parquet		/content/TCGA6/TCGA-OV/384170fc-e8be-426a-a54e-bf1ca61f2986/mirna-seq.parquet
+390eed6b-50af-48a9-9fd6-3a68a2bbb7f9	TCGA-OV	/content/TCGA6/TCGA-OV/390eed6b-50af-48a9-9fd6-3a68a2bbb7f9/RNA-seq.parquet		/content/TCGA6/TCGA-OV/390eed6b-50af-48a9-9fd6-3a68a2bbb7f9/mirna-seq.parquet
+3ac45a71-c463-4f0f-b030-58c475a34418	TCGA-OV	/content/TCGA6/TCGA-OV/3ac45a71-c463-4f0f-b030-58c475a34418/RNA-seq.parquet		/content/TCGA6/TCGA-OV/3ac45a71-c463-4f0f-b030-58c475a34418/mirna-seq.parquet
+3b81ec7c-0934-4649-9231-9919dd26dd15	TCGA-OV	/content/TCGA6/TCGA-OV/3b81ec7c-0934-4649-9231-9919dd26dd15/RNA-seq.parquet		/content/TCGA6/TCGA-OV/3b81ec7c-0934-4649-9231-9919dd26dd15/mirna-seq.parquet
+3bc8a74f-49bd-46b6-a3a4-68ca838e83c6	TCGA-OV	/content/TCGA6/TCGA-OV/3bc8a74f-49bd-46b6-a3a4-68ca838e83c6/RNA-seq.parquet		/content/TCGA6/TCGA-OV/3bc8a74f-49bd-46b6-a3a4-68ca838e83c6/mirna-seq.parquet
+3c037acf-f453-4513-a6dd-129163ddde2a	TCGA-OV			/content/TCGA6/TCGA-OV/3c037acf-f453-4513-a6dd-129163ddde2a/mirna-seq.parquet
+3c8b5986-f9d5-4e7e-9dd4-3ad301451279	TCGA-OV			/content/TCGA6/TCGA-OV/3c8b5986-f9d5-4e7e-9dd4-3ad301451279/mirna-seq.parquet
+3e8a51bf-7e1f-4eab-af83-3c60d04db1bf	TCGA-OV	/content/TCGA6/TCGA-OV/3e8a51bf-7e1f-4eab-af83-3c60d04db1bf/RNA-seq.parquet		/content/TCGA6/TCGA-OV/3e8a51bf-7e1f-4eab-af83-3c60d04db1bf/mirna-seq.parquet
+3f917550-89a6-404b-94df-938c99121411	TCGA-OV	/content/TCGA6/TCGA-OV/3f917550-89a6-404b-94df-938c99121411/RNA-seq.parquet		/content/TCGA6/TCGA-OV/3f917550-89a6-404b-94df-938c99121411/mirna-seq.parquet
+3fc8f799-5bd3-4f48-baf0-c458ce86ab7e	TCGA-OV	/content/TCGA6/TCGA-OV/3fc8f799-5bd3-4f48-baf0-c458ce86ab7e/RNA-seq.parquet		/content/TCGA6/TCGA-OV/3fc8f799-5bd3-4f48-baf0-c458ce86ab7e/mirna-seq.parquet
+40635bf3-d8ba-4833-b623-547e55e5d07e	TCGA-OV	/content/TCGA6/TCGA-OV/40635bf3-d8ba-4833-b623-547e55e5d07e/RNA-seq.parquet		/content/TCGA6/TCGA-OV/40635bf3-d8ba-4833-b623-547e55e5d07e/mirna-seq.parquet
+41178cbc-db73-4007-b5d8-febebf7f578d	TCGA-OV	/content/TCGA6/TCGA-OV/41178cbc-db73-4007-b5d8-febebf7f578d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/41178cbc-db73-4007-b5d8-febebf7f578d/mirna-seq.parquet
+4160e048-f0b0-40f5-805b-e277a5893a3b	TCGA-OV	/content/TCGA6/TCGA-OV/4160e048-f0b0-40f5-805b-e277a5893a3b/RNA-seq.parquet		/content/TCGA6/TCGA-OV/4160e048-f0b0-40f5-805b-e277a5893a3b/mirna-seq.parquet
+4261267c-7042-4c6e-83ed-12fb401003fc	TCGA-OV	/content/TCGA6/TCGA-OV/4261267c-7042-4c6e-83ed-12fb401003fc/RNA-seq.parquet		/content/TCGA6/TCGA-OV/4261267c-7042-4c6e-83ed-12fb401003fc/mirna-seq.parquet
+42b3dfa3-152f-4ab7-ac9f-988c7f473bea	TCGA-OV	/content/TCGA6/TCGA-OV/42b3dfa3-152f-4ab7-ac9f-988c7f473bea/RNA-seq.parquet		/content/TCGA6/TCGA-OV/42b3dfa3-152f-4ab7-ac9f-988c7f473bea/mirna-seq.parquet
+42ebd30b-175e-4ece-a806-e55cb7e40e96	TCGA-OV	/content/TCGA6/TCGA-OV/42ebd30b-175e-4ece-a806-e55cb7e40e96/RNA-seq.parquet		/content/TCGA6/TCGA-OV/42ebd30b-175e-4ece-a806-e55cb7e40e96/mirna-seq.parquet
+44493c23-82e9-4d9f-8e3c-7b3f9ae44970	TCGA-OV			/content/TCGA6/TCGA-OV/44493c23-82e9-4d9f-8e3c-7b3f9ae44970/mirna-seq.parquet
+446ce2a3-d328-443c-a419-3344baad0e16	TCGA-OV	/content/TCGA6/TCGA-OV/446ce2a3-d328-443c-a419-3344baad0e16/RNA-seq.parquet		/content/TCGA6/TCGA-OV/446ce2a3-d328-443c-a419-3344baad0e16/mirna-seq.parquet
+44e840c9-ea54-4dba-9b2a-264ef1f2c304	TCGA-OV	/content/TCGA6/TCGA-OV/44e840c9-ea54-4dba-9b2a-264ef1f2c304/RNA-seq.parquet		/content/TCGA6/TCGA-OV/44e840c9-ea54-4dba-9b2a-264ef1f2c304/mirna-seq.parquet
+45957be6-e4df-4245-acf8-39dfc118ee19	TCGA-OV	/content/TCGA6/TCGA-OV/45957be6-e4df-4245-acf8-39dfc118ee19/RNA-seq.parquet		/content/TCGA6/TCGA-OV/45957be6-e4df-4245-acf8-39dfc118ee19/mirna-seq.parquet
+45baebac-32ae-4093-9eba-488b95c1a58d	TCGA-OV	/content/TCGA6/TCGA-OV/45baebac-32ae-4093-9eba-488b95c1a58d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/45baebac-32ae-4093-9eba-488b95c1a58d/mirna-seq.parquet
+45f6d94b-6f45-4890-a418-0f891b3d9e12	TCGA-OV			/content/TCGA6/TCGA-OV/45f6d94b-6f45-4890-a418-0f891b3d9e12/mirna-seq.parquet
+460616ec-f66f-483b-88c1-757edd86261d	TCGA-OV	/content/TCGA6/TCGA-OV/460616ec-f66f-483b-88c1-757edd86261d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/460616ec-f66f-483b-88c1-757edd86261d/mirna-seq.parquet
+46395c3d-5e51-477f-946e-e58b87cc7baa	TCGA-OV	/content/TCGA6/TCGA-OV/46395c3d-5e51-477f-946e-e58b87cc7baa/RNA-seq.parquet		/content/TCGA6/TCGA-OV/46395c3d-5e51-477f-946e-e58b87cc7baa/mirna-seq.parquet
+47681e4b-01e8-4779-b966-ce57aff4b712	TCGA-OV	/content/TCGA6/TCGA-OV/47681e4b-01e8-4779-b966-ce57aff4b712/RNA-seq.parquet		/content/TCGA6/TCGA-OV/47681e4b-01e8-4779-b966-ce57aff4b712/mirna-seq.parquet
+48e66676-dbed-48a4-9a7f-a6d247b15c17	TCGA-OV	/content/TCGA6/TCGA-OV/48e66676-dbed-48a4-9a7f-a6d247b15c17/RNA-seq.parquet		/content/TCGA6/TCGA-OV/48e66676-dbed-48a4-9a7f-a6d247b15c17/mirna-seq.parquet
+48f831b0-5d91-44ae-bc4e-db57ca84fe46	TCGA-OV	/content/TCGA6/TCGA-OV/48f831b0-5d91-44ae-bc4e-db57ca84fe46/RNA-seq.parquet		/content/TCGA6/TCGA-OV/48f831b0-5d91-44ae-bc4e-db57ca84fe46/mirna-seq.parquet
+499a9b57-ee1a-4012-bbab-c6ad955b5e0a	TCGA-OV	/content/TCGA6/TCGA-OV/499a9b57-ee1a-4012-bbab-c6ad955b5e0a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/499a9b57-ee1a-4012-bbab-c6ad955b5e0a/mirna-seq.parquet
+49bfd0fe-48ce-49db-9f76-ce2310410950	TCGA-OV	/content/TCGA6/TCGA-OV/49bfd0fe-48ce-49db-9f76-ce2310410950/RNA-seq.parquet		/content/TCGA6/TCGA-OV/49bfd0fe-48ce-49db-9f76-ce2310410950/mirna-seq.parquet
+49d2c0cf-a3f3-4519-a755-0a5f769df2ea	TCGA-OV	/content/TCGA6/TCGA-OV/49d2c0cf-a3f3-4519-a755-0a5f769df2ea/RNA-seq.parquet		/content/TCGA6/TCGA-OV/49d2c0cf-a3f3-4519-a755-0a5f769df2ea/mirna-seq.parquet
+4a2ca7b8-729d-4fab-a6f3-a5d1e5d1f4f3	TCGA-OV	/content/TCGA6/TCGA-OV/4a2ca7b8-729d-4fab-a6f3-a5d1e5d1f4f3/RNA-seq.parquet		/content/TCGA6/TCGA-OV/4a2ca7b8-729d-4fab-a6f3-a5d1e5d1f4f3/mirna-seq.parquet
+4b930a10-4b12-4428-84f9-3255b4a3bc4f	TCGA-OV			/content/TCGA6/TCGA-OV/4b930a10-4b12-4428-84f9-3255b4a3bc4f/mirna-seq.parquet
+4c099644-047c-42a3-8187-bfcbfe6662e4	TCGA-OV	/content/TCGA6/TCGA-OV/4c099644-047c-42a3-8187-bfcbfe6662e4/RNA-seq.parquet		/content/TCGA6/TCGA-OV/4c099644-047c-42a3-8187-bfcbfe6662e4/mirna-seq.parquet
+4c18d9cf-4af4-4a86-8b1c-f78795fbbd7e	TCGA-OV	/content/TCGA6/TCGA-OV/4c18d9cf-4af4-4a86-8b1c-f78795fbbd7e/RNA-seq.parquet		/content/TCGA6/TCGA-OV/4c18d9cf-4af4-4a86-8b1c-f78795fbbd7e/mirna-seq.parquet
+4ca9c0e8-75a7-4665-9d88-6dd2bb44b1e1	TCGA-OV	/content/TCGA6/TCGA-OV/4ca9c0e8-75a7-4665-9d88-6dd2bb44b1e1/RNA-seq.parquet		/content/TCGA6/TCGA-OV/4ca9c0e8-75a7-4665-9d88-6dd2bb44b1e1/mirna-seq.parquet
+4d71dd15-cd01-4dae-ad70-6dc325140207	TCGA-OV	/content/TCGA6/TCGA-OV/4d71dd15-cd01-4dae-ad70-6dc325140207/RNA-seq.parquet		/content/TCGA6/TCGA-OV/4d71dd15-cd01-4dae-ad70-6dc325140207/mirna-seq.parquet
+4e6f88de-7624-4719-8234-4c9e5b2e2988	TCGA-OV	/content/TCGA6/TCGA-OV/4e6f88de-7624-4719-8234-4c9e5b2e2988/RNA-seq.parquet		/content/TCGA6/TCGA-OV/4e6f88de-7624-4719-8234-4c9e5b2e2988/mirna-seq.parquet
+4ea50685-3b63-440a-b037-597ef2529e7d	TCGA-OV	/content/TCGA6/TCGA-OV/4ea50685-3b63-440a-b037-597ef2529e7d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/4ea50685-3b63-440a-b037-597ef2529e7d/mirna-seq.parquet
+4eac2c98-86d2-4ee6-a1d3-157d013c78dc	TCGA-OV	/content/TCGA6/TCGA-OV/4eac2c98-86d2-4ee6-a1d3-157d013c78dc/RNA-seq.parquet		/content/TCGA6/TCGA-OV/4eac2c98-86d2-4ee6-a1d3-157d013c78dc/mirna-seq.parquet
+502e8d02-2953-4514-a2e1-6179dd94da73	TCGA-OV	/content/TCGA6/TCGA-OV/502e8d02-2953-4514-a2e1-6179dd94da73/RNA-seq.parquet		/content/TCGA6/TCGA-OV/502e8d02-2953-4514-a2e1-6179dd94da73/mirna-seq.parquet
+512de609-757b-42be-8b30-c414f71af422	TCGA-OV	/content/TCGA6/TCGA-OV/512de609-757b-42be-8b30-c414f71af422/RNA-seq.parquet		/content/TCGA6/TCGA-OV/512de609-757b-42be-8b30-c414f71af422/mirna-seq.parquet
+5201ee13-2aed-4641-9169-4d5ee07a23da	TCGA-OV	/content/TCGA6/TCGA-OV/5201ee13-2aed-4641-9169-4d5ee07a23da/RNA-seq.parquet		/content/TCGA6/TCGA-OV/5201ee13-2aed-4641-9169-4d5ee07a23da/mirna-seq.parquet
+52386f66-2877-4c75-894e-5c1dc03e6ef4	TCGA-OV	/content/TCGA6/TCGA-OV/52386f66-2877-4c75-894e-5c1dc03e6ef4/RNA-seq.parquet		/content/TCGA6/TCGA-OV/52386f66-2877-4c75-894e-5c1dc03e6ef4/mirna-seq.parquet
+533f5ff9-466c-4cdb-9c46-b841c2626775	TCGA-OV	/content/TCGA6/TCGA-OV/533f5ff9-466c-4cdb-9c46-b841c2626775/RNA-seq.parquet		/content/TCGA6/TCGA-OV/533f5ff9-466c-4cdb-9c46-b841c2626775/mirna-seq.parquet
+538acb2a-c4ca-4656-a91c-841a42dbf15f	TCGA-OV			/content/TCGA6/TCGA-OV/538acb2a-c4ca-4656-a91c-841a42dbf15f/mirna-seq.parquet
+5495b18a-10ec-427b-83b8-03ef4b587b13	TCGA-OV	/content/TCGA6/TCGA-OV/5495b18a-10ec-427b-83b8-03ef4b587b13/RNA-seq.parquet		/content/TCGA6/TCGA-OV/5495b18a-10ec-427b-83b8-03ef4b587b13/mirna-seq.parquet
+54cf3bfe-51c0-4cca-9054-bf76b05a9371	TCGA-OV			/content/TCGA6/TCGA-OV/54cf3bfe-51c0-4cca-9054-bf76b05a9371/mirna-seq.parquet
+5503b3a1-7d03-41b2-9ec8-e478c5414d67	TCGA-OV	/content/TCGA6/TCGA-OV/5503b3a1-7d03-41b2-9ec8-e478c5414d67/RNA-seq.parquet		/content/TCGA6/TCGA-OV/5503b3a1-7d03-41b2-9ec8-e478c5414d67/mirna-seq.parquet
+55153632-1673-487a-85c0-f156377db1fc	TCGA-OV	/content/TCGA6/TCGA-OV/55153632-1673-487a-85c0-f156377db1fc/RNA-seq.parquet		/content/TCGA6/TCGA-OV/55153632-1673-487a-85c0-f156377db1fc/mirna-seq.parquet
+561968ce-da9a-4d69-8bc2-bc87b9550f93	TCGA-OV	/content/TCGA6/TCGA-OV/561968ce-da9a-4d69-8bc2-bc87b9550f93/RNA-seq.parquet		/content/TCGA6/TCGA-OV/561968ce-da9a-4d69-8bc2-bc87b9550f93/mirna-seq.parquet
+563853a2-9ac2-48be-adf3-1e547ee2b274	TCGA-OV	/content/TCGA6/TCGA-OV/563853a2-9ac2-48be-adf3-1e547ee2b274/RNA-seq.parquet		/content/TCGA6/TCGA-OV/563853a2-9ac2-48be-adf3-1e547ee2b274/mirna-seq.parquet
+565d06a1-3640-4274-8fb3-8cad7e578876	TCGA-OV	/content/TCGA6/TCGA-OV/565d06a1-3640-4274-8fb3-8cad7e578876/RNA-seq.parquet		/content/TCGA6/TCGA-OV/565d06a1-3640-4274-8fb3-8cad7e578876/mirna-seq.parquet
+56a30462-2819-4c18-95be-8e73880a4921	TCGA-OV	/content/TCGA6/TCGA-OV/56a30462-2819-4c18-95be-8e73880a4921/RNA-seq.parquet		/content/TCGA6/TCGA-OV/56a30462-2819-4c18-95be-8e73880a4921/mirna-seq.parquet
+58427bce-6b81-4083-aeda-25f59e292bbc	TCGA-OV	/content/TCGA6/TCGA-OV/58427bce-6b81-4083-aeda-25f59e292bbc/RNA-seq.parquet		/content/TCGA6/TCGA-OV/58427bce-6b81-4083-aeda-25f59e292bbc/mirna-seq.parquet
+58d34254-4f5b-40a4-9e9f-7160062fb2a4	TCGA-OV			/content/TCGA6/TCGA-OV/58d34254-4f5b-40a4-9e9f-7160062fb2a4/mirna-seq.parquet
+58f5a54e-de50-4cca-afa1-cc331d8b3479	TCGA-OV	/content/TCGA6/TCGA-OV/58f5a54e-de50-4cca-afa1-cc331d8b3479/RNA-seq.parquet		/content/TCGA6/TCGA-OV/58f5a54e-de50-4cca-afa1-cc331d8b3479/mirna-seq.parquet
+59b3fbfe-0b7c-41e5-b756-ee7e23730df5	TCGA-OV	/content/TCGA6/TCGA-OV/59b3fbfe-0b7c-41e5-b756-ee7e23730df5/RNA-seq.parquet		/content/TCGA6/TCGA-OV/59b3fbfe-0b7c-41e5-b756-ee7e23730df5/mirna-seq.parquet
+5abb6d80-fc39-49a4-8db5-3db24543feb6	TCGA-OV	/content/TCGA6/TCGA-OV/5abb6d80-fc39-49a4-8db5-3db24543feb6/RNA-seq.parquet		/content/TCGA6/TCGA-OV/5abb6d80-fc39-49a4-8db5-3db24543feb6/mirna-seq.parquet
+5c127332-5ca0-45f1-a5ac-4876ad94e491	TCGA-OV	/content/TCGA6/TCGA-OV/5c127332-5ca0-45f1-a5ac-4876ad94e491/RNA-seq.parquet		/content/TCGA6/TCGA-OV/5c127332-5ca0-45f1-a5ac-4876ad94e491/mirna-seq.parquet
+5c159ab5-8475-4d93-89b8-b6befed4a5b3	TCGA-OV	/content/TCGA6/TCGA-OV/5c159ab5-8475-4d93-89b8-b6befed4a5b3/RNA-seq.parquet		/content/TCGA6/TCGA-OV/5c159ab5-8475-4d93-89b8-b6befed4a5b3/mirna-seq.parquet
+5c6f3cd4-19c5-418d-b1be-d3fbf63e99db	TCGA-OV	/content/TCGA6/TCGA-OV/5c6f3cd4-19c5-418d-b1be-d3fbf63e99db/RNA-seq.parquet		/content/TCGA6/TCGA-OV/5c6f3cd4-19c5-418d-b1be-d3fbf63e99db/mirna-seq.parquet
+5ced5b58-fab4-4bcd-b706-d6e49ce0cfc5	TCGA-OV	/content/TCGA6/TCGA-OV/5ced5b58-fab4-4bcd-b706-d6e49ce0cfc5/RNA-seq.parquet		/content/TCGA6/TCGA-OV/5ced5b58-fab4-4bcd-b706-d6e49ce0cfc5/mirna-seq.parquet
+5d1a54fe-e0df-4c17-b623-b649a136dc82	TCGA-OV	/content/TCGA6/TCGA-OV/5d1a54fe-e0df-4c17-b623-b649a136dc82/RNA-seq.parquet		/content/TCGA6/TCGA-OV/5d1a54fe-e0df-4c17-b623-b649a136dc82/mirna-seq.parquet
+5d36676e-4140-44b5-aa0e-b2af092b7dc0	TCGA-OV	/content/TCGA6/TCGA-OV/5d36676e-4140-44b5-aa0e-b2af092b7dc0/RNA-seq.parquet		/content/TCGA6/TCGA-OV/5d36676e-4140-44b5-aa0e-b2af092b7dc0/mirna-seq.parquet
+5d603bba-62e6-48fb-b8fc-401109abcaee	TCGA-OV	/content/TCGA6/TCGA-OV/5d603bba-62e6-48fb-b8fc-401109abcaee/RNA-seq.parquet		/content/TCGA6/TCGA-OV/5d603bba-62e6-48fb-b8fc-401109abcaee/mirna-seq.parquet
+5d7027f5-60a0-47ab-a79d-667c9acc0e54	TCGA-OV	/content/TCGA6/TCGA-OV/5d7027f5-60a0-47ab-a79d-667c9acc0e54/RNA-seq.parquet		/content/TCGA6/TCGA-OV/5d7027f5-60a0-47ab-a79d-667c9acc0e54/mirna-seq.parquet
+5e18b17d-4626-4b6d-8ac6-e560cee0376c	TCGA-OV	/content/TCGA6/TCGA-OV/5e18b17d-4626-4b6d-8ac6-e560cee0376c/RNA-seq.parquet		/content/TCGA6/TCGA-OV/5e18b17d-4626-4b6d-8ac6-e560cee0376c/mirna-seq.parquet
+5e90e1ed-cbfd-44ba-a6ff-63ff576b3c73	TCGA-OV			/content/TCGA6/TCGA-OV/5e90e1ed-cbfd-44ba-a6ff-63ff576b3c73/mirna-seq.parquet
+5ed14506-f69a-4da8-9965-72d3270b9f72	TCGA-OV	/content/TCGA6/TCGA-OV/5ed14506-f69a-4da8-9965-72d3270b9f72/RNA-seq.parquet		/content/TCGA6/TCGA-OV/5ed14506-f69a-4da8-9965-72d3270b9f72/mirna-seq.parquet
+5f60bc2d-738f-43fc-a3fb-61ec6e80e3d4	TCGA-OV	/content/TCGA6/TCGA-OV/5f60bc2d-738f-43fc-a3fb-61ec6e80e3d4/RNA-seq.parquet		/content/TCGA6/TCGA-OV/5f60bc2d-738f-43fc-a3fb-61ec6e80e3d4/mirna-seq.parquet
+60014a6e-6a13-4f92-bbfd-eeeee9632f98	TCGA-OV	/content/TCGA6/TCGA-OV/60014a6e-6a13-4f92-bbfd-eeeee9632f98/RNA-seq.parquet		/content/TCGA6/TCGA-OV/60014a6e-6a13-4f92-bbfd-eeeee9632f98/mirna-seq.parquet
+602e2934-223a-44db-8c33-06eb05d72f94	TCGA-OV	/content/TCGA6/TCGA-OV/602e2934-223a-44db-8c33-06eb05d72f94/RNA-seq.parquet		/content/TCGA6/TCGA-OV/602e2934-223a-44db-8c33-06eb05d72f94/mirna-seq.parquet
+60cce7ac-d27d-44a6-9873-ecf91da5e906	TCGA-OV	/content/TCGA6/TCGA-OV/60cce7ac-d27d-44a6-9873-ecf91da5e906/RNA-seq.parquet		/content/TCGA6/TCGA-OV/60cce7ac-d27d-44a6-9873-ecf91da5e906/mirna-seq.parquet
+611600a6-43ec-4029-9682-cd6d6a3312ec	TCGA-OV	/content/TCGA6/TCGA-OV/611600a6-43ec-4029-9682-cd6d6a3312ec/RNA-seq.parquet		/content/TCGA6/TCGA-OV/611600a6-43ec-4029-9682-cd6d6a3312ec/mirna-seq.parquet
+619b14f3-b8cc-4c0a-8304-6719853d592a	TCGA-OV	/content/TCGA6/TCGA-OV/619b14f3-b8cc-4c0a-8304-6719853d592a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/619b14f3-b8cc-4c0a-8304-6719853d592a/mirna-seq.parquet
+61feee94-3ac9-42fe-aaa3-dc6a3efe563c	TCGA-OV	/content/TCGA6/TCGA-OV/61feee94-3ac9-42fe-aaa3-dc6a3efe563c/RNA-seq.parquet		/content/TCGA6/TCGA-OV/61feee94-3ac9-42fe-aaa3-dc6a3efe563c/mirna-seq.parquet
+6209e80d-a115-4f8e-bf0d-18461401a1c6	TCGA-OV	/content/TCGA6/TCGA-OV/6209e80d-a115-4f8e-bf0d-18461401a1c6/RNA-seq.parquet		/content/TCGA6/TCGA-OV/6209e80d-a115-4f8e-bf0d-18461401a1c6/mirna-seq.parquet
+62379be5-13f0-474b-94d3-6f944ec4ee96	TCGA-OV	/content/TCGA6/TCGA-OV/62379be5-13f0-474b-94d3-6f944ec4ee96/RNA-seq.parquet		/content/TCGA6/TCGA-OV/62379be5-13f0-474b-94d3-6f944ec4ee96/mirna-seq.parquet
+6264e699-d40b-4ebc-b443-0a0edcb220dc	TCGA-OV	/content/TCGA6/TCGA-OV/6264e699-d40b-4ebc-b443-0a0edcb220dc/RNA-seq.parquet		/content/TCGA6/TCGA-OV/6264e699-d40b-4ebc-b443-0a0edcb220dc/mirna-seq.parquet
+62efb5ae-43dc-4a4c-a898-6cd9c6dba027	TCGA-OV	/content/TCGA6/TCGA-OV/62efb5ae-43dc-4a4c-a898-6cd9c6dba027/RNA-seq.parquet		/content/TCGA6/TCGA-OV/62efb5ae-43dc-4a4c-a898-6cd9c6dba027/mirna-seq.parquet
+635f5335-b008-428e-b005-615776a6643f	TCGA-OV	/content/TCGA6/TCGA-OV/635f5335-b008-428e-b005-615776a6643f/RNA-seq.parquet		/content/TCGA6/TCGA-OV/635f5335-b008-428e-b005-615776a6643f/mirna-seq.parquet
+63a75e0b-9241-4f0e-9236-01a2e2c05b7e	TCGA-OV	/content/TCGA6/TCGA-OV/63a75e0b-9241-4f0e-9236-01a2e2c05b7e/RNA-seq.parquet		/content/TCGA6/TCGA-OV/63a75e0b-9241-4f0e-9236-01a2e2c05b7e/mirna-seq.parquet
+63c6a89b-b28c-434a-a632-5de6545db731	TCGA-OV	/content/TCGA6/TCGA-OV/63c6a89b-b28c-434a-a632-5de6545db731/RNA-seq.parquet		/content/TCGA6/TCGA-OV/63c6a89b-b28c-434a-a632-5de6545db731/mirna-seq.parquet
+644a88a7-dc56-468a-af5c-60278aab7642	TCGA-OV	/content/TCGA6/TCGA-OV/644a88a7-dc56-468a-af5c-60278aab7642/RNA-seq.parquet		
+6485b68f-caa7-45cd-9bc5-78c2add8191d	TCGA-OV	/content/TCGA6/TCGA-OV/6485b68f-caa7-45cd-9bc5-78c2add8191d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/6485b68f-caa7-45cd-9bc5-78c2add8191d/mirna-seq.parquet
+65435f50-a35d-49e3-a36e-b95d9e274ca0	TCGA-OV	/content/TCGA6/TCGA-OV/65435f50-a35d-49e3-a36e-b95d9e274ca0/RNA-seq.parquet		/content/TCGA6/TCGA-OV/65435f50-a35d-49e3-a36e-b95d9e274ca0/mirna-seq.parquet
+65ddccd2-70a7-48b3-88e1-9d6fd1dcd11b	TCGA-OV	/content/TCGA6/TCGA-OV/65ddccd2-70a7-48b3-88e1-9d6fd1dcd11b/RNA-seq.parquet		/content/TCGA6/TCGA-OV/65ddccd2-70a7-48b3-88e1-9d6fd1dcd11b/mirna-seq.parquet
+662d77d1-1a43-427a-813b-e11edd30868e	TCGA-OV	/content/TCGA6/TCGA-OV/662d77d1-1a43-427a-813b-e11edd30868e/RNA-seq.parquet		/content/TCGA6/TCGA-OV/662d77d1-1a43-427a-813b-e11edd30868e/mirna-seq.parquet
+66c92b9e-de3c-4d1a-bb69-46ffbc6caf33	TCGA-OV	/content/TCGA6/TCGA-OV/66c92b9e-de3c-4d1a-bb69-46ffbc6caf33/RNA-seq.parquet		/content/TCGA6/TCGA-OV/66c92b9e-de3c-4d1a-bb69-46ffbc6caf33/mirna-seq.parquet
+66face4a-f35c-4364-90e5-8f28e6372606	TCGA-OV	/content/TCGA6/TCGA-OV/66face4a-f35c-4364-90e5-8f28e6372606/RNA-seq.parquet		/content/TCGA6/TCGA-OV/66face4a-f35c-4364-90e5-8f28e6372606/mirna-seq.parquet
+6746533a-8d0b-4ebc-87ec-49c8738121a8	TCGA-OV	/content/TCGA6/TCGA-OV/6746533a-8d0b-4ebc-87ec-49c8738121a8/RNA-seq.parquet		/content/TCGA6/TCGA-OV/6746533a-8d0b-4ebc-87ec-49c8738121a8/mirna-seq.parquet
+67f526f1-def5-43b4-bc89-154baae190fc	TCGA-OV	/content/TCGA6/TCGA-OV/67f526f1-def5-43b4-bc89-154baae190fc/RNA-seq.parquet		/content/TCGA6/TCGA-OV/67f526f1-def5-43b4-bc89-154baae190fc/mirna-seq.parquet
+6a1be87b-c4e0-4fd4-b050-50a245b22038	TCGA-OV	/content/TCGA6/TCGA-OV/6a1be87b-c4e0-4fd4-b050-50a245b22038/RNA-seq.parquet		/content/TCGA6/TCGA-OV/6a1be87b-c4e0-4fd4-b050-50a245b22038/mirna-seq.parquet
+6a57948c-0dc5-4ea2-8043-380f26763752	TCGA-OV	/content/TCGA6/TCGA-OV/6a57948c-0dc5-4ea2-8043-380f26763752/RNA-seq.parquet		/content/TCGA6/TCGA-OV/6a57948c-0dc5-4ea2-8043-380f26763752/mirna-seq.parquet
+6ad8bc89-d8e9-48c2-bc25-c8e51f972b4d	TCGA-OV	/content/TCGA6/TCGA-OV/6ad8bc89-d8e9-48c2-bc25-c8e51f972b4d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/6ad8bc89-d8e9-48c2-bc25-c8e51f972b4d/mirna-seq.parquet
+6b06281b-d3a9-440e-a86c-ee7db003352a	TCGA-OV	/content/TCGA6/TCGA-OV/6b06281b-d3a9-440e-a86c-ee7db003352a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/6b06281b-d3a9-440e-a86c-ee7db003352a/mirna-seq.parquet
+6b2a9f9a-fe96-4311-a330-925c4ad36fe7	TCGA-OV	/content/TCGA6/TCGA-OV/6b2a9f9a-fe96-4311-a330-925c4ad36fe7/RNA-seq.parquet		/content/TCGA6/TCGA-OV/6b2a9f9a-fe96-4311-a330-925c4ad36fe7/mirna-seq.parquet
+6cf9f872-2e59-45cf-bb5e-ebd7fa1b3caf	TCGA-OV	/content/TCGA6/TCGA-OV/6cf9f872-2e59-45cf-bb5e-ebd7fa1b3caf/RNA-seq.parquet		/content/TCGA6/TCGA-OV/6cf9f872-2e59-45cf-bb5e-ebd7fa1b3caf/mirna-seq.parquet
+6d10d4ee-6331-4bba-93bc-a7b64cc0b22a	TCGA-OV	/content/TCGA6/TCGA-OV/6d10d4ee-6331-4bba-93bc-a7b64cc0b22a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/6d10d4ee-6331-4bba-93bc-a7b64cc0b22a/mirna-seq.parquet
+6e84e89d-4f35-43b8-b47d-b1343b8c1ab9	TCGA-OV	/content/TCGA6/TCGA-OV/6e84e89d-4f35-43b8-b47d-b1343b8c1ab9/RNA-seq.parquet		/content/TCGA6/TCGA-OV/6e84e89d-4f35-43b8-b47d-b1343b8c1ab9/mirna-seq.parquet
+6ea9877f-eb8d-4ee9-af4c-32a78474d9a6	TCGA-OV	/content/TCGA6/TCGA-OV/6ea9877f-eb8d-4ee9-af4c-32a78474d9a6/RNA-seq.parquet		/content/TCGA6/TCGA-OV/6ea9877f-eb8d-4ee9-af4c-32a78474d9a6/mirna-seq.parquet
+6f25001a-f890-4fd0-a994-e62a9ea5c6f3	TCGA-OV	/content/TCGA6/TCGA-OV/6f25001a-f890-4fd0-a994-e62a9ea5c6f3/RNA-seq.parquet		/content/TCGA6/TCGA-OV/6f25001a-f890-4fd0-a994-e62a9ea5c6f3/mirna-seq.parquet
+6fb71a0c-bc50-48c8-acfa-db94be1e151a	TCGA-OV	/content/TCGA6/TCGA-OV/6fb71a0c-bc50-48c8-acfa-db94be1e151a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/6fb71a0c-bc50-48c8-acfa-db94be1e151a/mirna-seq.parquet
+6fee41dc-b8a9-4347-8085-b7e05f813ad0	TCGA-OV	/content/TCGA6/TCGA-OV/6fee41dc-b8a9-4347-8085-b7e05f813ad0/RNA-seq.parquet		/content/TCGA6/TCGA-OV/6fee41dc-b8a9-4347-8085-b7e05f813ad0/mirna-seq.parquet
+700e91bb-d675-41b2-bbbd-935767c7b447	TCGA-OV	/content/TCGA6/TCGA-OV/700e91bb-d675-41b2-bbbd-935767c7b447/RNA-seq.parquet		/content/TCGA6/TCGA-OV/700e91bb-d675-41b2-bbbd-935767c7b447/mirna-seq.parquet
+7016714b-6af8-45dd-8341-1493927e5515	TCGA-OV	/content/TCGA6/TCGA-OV/7016714b-6af8-45dd-8341-1493927e5515/RNA-seq.parquet		/content/TCGA6/TCGA-OV/7016714b-6af8-45dd-8341-1493927e5515/mirna-seq.parquet
+708eec28-2348-4e15-b98c-8c6f9d057b1e	TCGA-OV	/content/TCGA6/TCGA-OV/708eec28-2348-4e15-b98c-8c6f9d057b1e/RNA-seq.parquet		/content/TCGA6/TCGA-OV/708eec28-2348-4e15-b98c-8c6f9d057b1e/mirna-seq.parquet
+70fe08bd-a0b4-4a88-b82e-813b176f8e40	TCGA-OV	/content/TCGA6/TCGA-OV/70fe08bd-a0b4-4a88-b82e-813b176f8e40/RNA-seq.parquet		/content/TCGA6/TCGA-OV/70fe08bd-a0b4-4a88-b82e-813b176f8e40/mirna-seq.parquet
+71faa2c1-0d5b-4dcc-bdf9-f2405f29907c	TCGA-OV	/content/TCGA6/TCGA-OV/71faa2c1-0d5b-4dcc-bdf9-f2405f29907c/RNA-seq.parquet		/content/TCGA6/TCGA-OV/71faa2c1-0d5b-4dcc-bdf9-f2405f29907c/mirna-seq.parquet
+7248cd60-be22-44bc-bc58-f644db0940a2	TCGA-OV	/content/TCGA6/TCGA-OV/7248cd60-be22-44bc-bc58-f644db0940a2/RNA-seq.parquet		/content/TCGA6/TCGA-OV/7248cd60-be22-44bc-bc58-f644db0940a2/mirna-seq.parquet
+72c40fba-f502-489b-ad87-843f52655894	TCGA-OV	/content/TCGA6/TCGA-OV/72c40fba-f502-489b-ad87-843f52655894/RNA-seq.parquet		/content/TCGA6/TCGA-OV/72c40fba-f502-489b-ad87-843f52655894/mirna-seq.parquet
+7413c891-f74e-456f-bc70-69c83fb53c70	TCGA-OV	/content/TCGA6/TCGA-OV/7413c891-f74e-456f-bc70-69c83fb53c70/RNA-seq.parquet		/content/TCGA6/TCGA-OV/7413c891-f74e-456f-bc70-69c83fb53c70/mirna-seq.parquet
+7472b3ba-9b15-4d97-8708-a2dd82ca0f45	TCGA-OV	/content/TCGA6/TCGA-OV/7472b3ba-9b15-4d97-8708-a2dd82ca0f45/RNA-seq.parquet		/content/TCGA6/TCGA-OV/7472b3ba-9b15-4d97-8708-a2dd82ca0f45/mirna-seq.parquet
+74dcdfb4-a637-4111-9a22-4b4bc7bbc8f7	TCGA-OV	/content/TCGA6/TCGA-OV/74dcdfb4-a637-4111-9a22-4b4bc7bbc8f7/RNA-seq.parquet		/content/TCGA6/TCGA-OV/74dcdfb4-a637-4111-9a22-4b4bc7bbc8f7/mirna-seq.parquet
+756f6768-e69a-4fe9-aa41-7c58aabe4577	TCGA-OV	/content/TCGA6/TCGA-OV/756f6768-e69a-4fe9-aa41-7c58aabe4577/RNA-seq.parquet		/content/TCGA6/TCGA-OV/756f6768-e69a-4fe9-aa41-7c58aabe4577/mirna-seq.parquet
+758e6b52-062e-4ca0-84d1-ea38477414ac	TCGA-OV	/content/TCGA6/TCGA-OV/758e6b52-062e-4ca0-84d1-ea38477414ac/RNA-seq.parquet		/content/TCGA6/TCGA-OV/758e6b52-062e-4ca0-84d1-ea38477414ac/mirna-seq.parquet
+7592a659-7175-486f-a16e-24a4b4365a36	TCGA-OV	/content/TCGA6/TCGA-OV/7592a659-7175-486f-a16e-24a4b4365a36/RNA-seq.parquet		/content/TCGA6/TCGA-OV/7592a659-7175-486f-a16e-24a4b4365a36/mirna-seq.parquet
+75f2d97a-b96c-403f-8055-5c5c8083e856	TCGA-OV	/content/TCGA6/TCGA-OV/75f2d97a-b96c-403f-8055-5c5c8083e856/RNA-seq.parquet		/content/TCGA6/TCGA-OV/75f2d97a-b96c-403f-8055-5c5c8083e856/mirna-seq.parquet
+76cc2d21-eebc-4f09-9bc7-dbf7af0aafa8	TCGA-OV	/content/TCGA6/TCGA-OV/76cc2d21-eebc-4f09-9bc7-dbf7af0aafa8/RNA-seq.parquet		/content/TCGA6/TCGA-OV/76cc2d21-eebc-4f09-9bc7-dbf7af0aafa8/mirna-seq.parquet
+774ce281-96b2-467a-9170-079797ee10f7	TCGA-OV	/content/TCGA6/TCGA-OV/774ce281-96b2-467a-9170-079797ee10f7/RNA-seq.parquet		/content/TCGA6/TCGA-OV/774ce281-96b2-467a-9170-079797ee10f7/mirna-seq.parquet
+778ce436-a825-4689-81c1-b7c965404163	TCGA-OV	/content/TCGA6/TCGA-OV/778ce436-a825-4689-81c1-b7c965404163/RNA-seq.parquet		/content/TCGA6/TCGA-OV/778ce436-a825-4689-81c1-b7c965404163/mirna-seq.parquet
+78777a80-cc6c-46c9-a14a-837ac7943719	TCGA-OV	/content/TCGA6/TCGA-OV/78777a80-cc6c-46c9-a14a-837ac7943719/RNA-seq.parquet		/content/TCGA6/TCGA-OV/78777a80-cc6c-46c9-a14a-837ac7943719/mirna-seq.parquet
+79e6e31c-22a1-481c-903b-ab5499cbd450	TCGA-OV	/content/TCGA6/TCGA-OV/79e6e31c-22a1-481c-903b-ab5499cbd450/RNA-seq.parquet		/content/TCGA6/TCGA-OV/79e6e31c-22a1-481c-903b-ab5499cbd450/mirna-seq.parquet
+79fd602b-3e8e-4353-aa78-4f5f170b607d	TCGA-OV	/content/TCGA6/TCGA-OV/79fd602b-3e8e-4353-aa78-4f5f170b607d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/79fd602b-3e8e-4353-aa78-4f5f170b607d/mirna-seq.parquet
+7a08efd0-f984-430e-a8eb-1881047214b6	TCGA-OV	/content/TCGA6/TCGA-OV/7a08efd0-f984-430e-a8eb-1881047214b6/RNA-seq.parquet		/content/TCGA6/TCGA-OV/7a08efd0-f984-430e-a8eb-1881047214b6/mirna-seq.parquet
+7a75d318-b301-4f77-a97f-4d6784d27216	TCGA-OV			/content/TCGA6/TCGA-OV/7a75d318-b301-4f77-a97f-4d6784d27216/mirna-seq.parquet
+7ab3765f-910a-41c9-86cc-08534d2a4e4b	TCGA-OV	/content/TCGA6/TCGA-OV/7ab3765f-910a-41c9-86cc-08534d2a4e4b/RNA-seq.parquet		/content/TCGA6/TCGA-OV/7ab3765f-910a-41c9-86cc-08534d2a4e4b/mirna-seq.parquet
+7b042fb2-8f53-4fb1-8a44-40cd2128b279	TCGA-OV			/content/TCGA6/TCGA-OV/7b042fb2-8f53-4fb1-8a44-40cd2128b279/mirna-seq.parquet
+7c466a5f-a6b4-4d1a-a0f5-ddcd7ef90ff1	TCGA-OV	/content/TCGA6/TCGA-OV/7c466a5f-a6b4-4d1a-a0f5-ddcd7ef90ff1/RNA-seq.parquet		/content/TCGA6/TCGA-OV/7c466a5f-a6b4-4d1a-a0f5-ddcd7ef90ff1/mirna-seq.parquet
+7ca97692-0bf5-4bbd-81ce-10a051d04bd5	TCGA-OV	/content/TCGA6/TCGA-OV/7ca97692-0bf5-4bbd-81ce-10a051d04bd5/RNA-seq.parquet		/content/TCGA6/TCGA-OV/7ca97692-0bf5-4bbd-81ce-10a051d04bd5/mirna-seq.parquet
+7d03ddb6-f3fe-4b50-8bba-514aa65e7d0e	TCGA-OV	/content/TCGA6/TCGA-OV/7d03ddb6-f3fe-4b50-8bba-514aa65e7d0e/RNA-seq.parquet		/content/TCGA6/TCGA-OV/7d03ddb6-f3fe-4b50-8bba-514aa65e7d0e/mirna-seq.parquet
+7d1e9451-7a6a-4086-af7f-3ed57505daf0	TCGA-OV	/content/TCGA6/TCGA-OV/7d1e9451-7a6a-4086-af7f-3ed57505daf0/RNA-seq.parquet		/content/TCGA6/TCGA-OV/7d1e9451-7a6a-4086-af7f-3ed57505daf0/mirna-seq.parquet
+7d82ce56-32eb-4107-aa5c-c568764805c9	TCGA-OV	/content/TCGA6/TCGA-OV/7d82ce56-32eb-4107-aa5c-c568764805c9/RNA-seq.parquet		/content/TCGA6/TCGA-OV/7d82ce56-32eb-4107-aa5c-c568764805c9/mirna-seq.parquet
+7dcc809b-e33a-4453-b92a-c00786f48cb0	TCGA-OV	/content/TCGA6/TCGA-OV/7dcc809b-e33a-4453-b92a-c00786f48cb0/RNA-seq.parquet		/content/TCGA6/TCGA-OV/7dcc809b-e33a-4453-b92a-c00786f48cb0/mirna-seq.parquet
+7e01f23a-0b0e-46a2-9f30-c3a9d2c779d2	TCGA-OV	/content/TCGA6/TCGA-OV/7e01f23a-0b0e-46a2-9f30-c3a9d2c779d2/RNA-seq.parquet		/content/TCGA6/TCGA-OV/7e01f23a-0b0e-46a2-9f30-c3a9d2c779d2/mirna-seq.parquet
+7e34d3c1-1fab-4326-9a69-4260d2bac558	TCGA-OV	/content/TCGA6/TCGA-OV/7e34d3c1-1fab-4326-9a69-4260d2bac558/RNA-seq.parquet		/content/TCGA6/TCGA-OV/7e34d3c1-1fab-4326-9a69-4260d2bac558/mirna-seq.parquet
+7e4e7914-ec23-4c55-98d6-3c5eecffa8e4	TCGA-OV	/content/TCGA6/TCGA-OV/7e4e7914-ec23-4c55-98d6-3c5eecffa8e4/RNA-seq.parquet		/content/TCGA6/TCGA-OV/7e4e7914-ec23-4c55-98d6-3c5eecffa8e4/mirna-seq.parquet
+7ebc776e-bde1-4563-adb1-8bd441872733	TCGA-OV	/content/TCGA6/TCGA-OV/7ebc776e-bde1-4563-adb1-8bd441872733/RNA-seq.parquet	/content/TCGA6/TCGA-OV/7ebc776e-bde1-4563-adb1-8bd441872733/DNA-methylation.parquet	/content/TCGA6/TCGA-OV/7ebc776e-bde1-4563-adb1-8bd441872733/mirna-seq.parquet
+7fd6ab8a-201e-431d-a886-6ab553b6ca36	TCGA-OV	/content/TCGA6/TCGA-OV/7fd6ab8a-201e-431d-a886-6ab553b6ca36/RNA-seq.parquet		/content/TCGA6/TCGA-OV/7fd6ab8a-201e-431d-a886-6ab553b6ca36/mirna-seq.parquet
+808eb134-9c7d-43bb-b86c-2f3259193954	TCGA-OV	/content/TCGA6/TCGA-OV/808eb134-9c7d-43bb-b86c-2f3259193954/RNA-seq.parquet		/content/TCGA6/TCGA-OV/808eb134-9c7d-43bb-b86c-2f3259193954/mirna-seq.parquet
+80f85c54-e12f-4afa-8fa5-5f3e083b6f95	TCGA-OV	/content/TCGA6/TCGA-OV/80f85c54-e12f-4afa-8fa5-5f3e083b6f95/RNA-seq.parquet		/content/TCGA6/TCGA-OV/80f85c54-e12f-4afa-8fa5-5f3e083b6f95/mirna-seq.parquet
+81005bae-686a-4598-8994-49d90ebac56f	TCGA-OV			/content/TCGA6/TCGA-OV/81005bae-686a-4598-8994-49d90ebac56f/mirna-seq.parquet
+818dc159-aba4-46bc-a4ed-68ee0f8c4461	TCGA-OV	/content/TCGA6/TCGA-OV/818dc159-aba4-46bc-a4ed-68ee0f8c4461/RNA-seq.parquet		/content/TCGA6/TCGA-OV/818dc159-aba4-46bc-a4ed-68ee0f8c4461/mirna-seq.parquet
+82093ed9-a3c8-4e34-931f-4ec7ae745711	TCGA-OV	/content/TCGA6/TCGA-OV/82093ed9-a3c8-4e34-931f-4ec7ae745711/RNA-seq.parquet		/content/TCGA6/TCGA-OV/82093ed9-a3c8-4e34-931f-4ec7ae745711/mirna-seq.parquet
+838693d5-1ae0-4d75-834b-e1b89b96b0ed	TCGA-OV	/content/TCGA6/TCGA-OV/838693d5-1ae0-4d75-834b-e1b89b96b0ed/RNA-seq.parquet		/content/TCGA6/TCGA-OV/838693d5-1ae0-4d75-834b-e1b89b96b0ed/mirna-seq.parquet
+8449955f-42d9-46f6-919a-5cc5d59e6284	TCGA-OV	/content/TCGA6/TCGA-OV/8449955f-42d9-46f6-919a-5cc5d59e6284/RNA-seq.parquet		/content/TCGA6/TCGA-OV/8449955f-42d9-46f6-919a-5cc5d59e6284/mirna-seq.parquet
+8516d4f2-0b98-4847-99c6-4d7269fa4af2	TCGA-OV			/content/TCGA6/TCGA-OV/8516d4f2-0b98-4847-99c6-4d7269fa4af2/mirna-seq.parquet
+85a85a11-7200-4e96-97af-6ba26d680d59	TCGA-OV	/content/TCGA6/TCGA-OV/85a85a11-7200-4e96-97af-6ba26d680d59/RNA-seq.parquet		/content/TCGA6/TCGA-OV/85a85a11-7200-4e96-97af-6ba26d680d59/mirna-seq.parquet
+85bb4987-51e7-40fe-ad59-2aa56754eca9	TCGA-OV	/content/TCGA6/TCGA-OV/85bb4987-51e7-40fe-ad59-2aa56754eca9/RNA-seq.parquet		/content/TCGA6/TCGA-OV/85bb4987-51e7-40fe-ad59-2aa56754eca9/mirna-seq.parquet
+8628f1b2-3763-4ba9-a375-083874bb18f2	TCGA-OV	/content/TCGA6/TCGA-OV/8628f1b2-3763-4ba9-a375-083874bb18f2/RNA-seq.parquet	/content/TCGA6/TCGA-OV/8628f1b2-3763-4ba9-a375-083874bb18f2/DNA-methylation.parquet	/content/TCGA6/TCGA-OV/8628f1b2-3763-4ba9-a375-083874bb18f2/mirna-seq.parquet
+8652ddee-98f4-4584-b450-e6f2f5c9d7ec	TCGA-OV	/content/TCGA6/TCGA-OV/8652ddee-98f4-4584-b450-e6f2f5c9d7ec/RNA-seq.parquet		/content/TCGA6/TCGA-OV/8652ddee-98f4-4584-b450-e6f2f5c9d7ec/mirna-seq.parquet
+867f9563-16c9-45a8-b519-6df61ba1b6b7	TCGA-OV	/content/TCGA6/TCGA-OV/867f9563-16c9-45a8-b519-6df61ba1b6b7/RNA-seq.parquet		/content/TCGA6/TCGA-OV/867f9563-16c9-45a8-b519-6df61ba1b6b7/mirna-seq.parquet
+86b513ba-df09-485d-92d4-fb9e888f7350	TCGA-OV	/content/TCGA6/TCGA-OV/86b513ba-df09-485d-92d4-fb9e888f7350/RNA-seq.parquet		/content/TCGA6/TCGA-OV/86b513ba-df09-485d-92d4-fb9e888f7350/mirna-seq.parquet
+8727855e-120a-4216-a803-8cc6cd1159be	TCGA-OV			/content/TCGA6/TCGA-OV/8727855e-120a-4216-a803-8cc6cd1159be/mirna-seq.parquet
+872d2922-7292-4681-adb7-d3b267eccbe7	TCGA-OV	/content/TCGA6/TCGA-OV/872d2922-7292-4681-adb7-d3b267eccbe7/RNA-seq.parquet		/content/TCGA6/TCGA-OV/872d2922-7292-4681-adb7-d3b267eccbe7/mirna-seq.parquet
+8783e4b0-2b62-45d5-8cd9-f5a71cc0138e	TCGA-OV			/content/TCGA6/TCGA-OV/8783e4b0-2b62-45d5-8cd9-f5a71cc0138e/mirna-seq.parquet
+87cdf9a8-0579-4d3e-b4df-0f8eef63d7f4	TCGA-OV			/content/TCGA6/TCGA-OV/87cdf9a8-0579-4d3e-b4df-0f8eef63d7f4/mirna-seq.parquet
+88180134-710f-46ea-9b06-5e5d860d6d9f	TCGA-OV	/content/TCGA6/TCGA-OV/88180134-710f-46ea-9b06-5e5d860d6d9f/RNA-seq.parquet		/content/TCGA6/TCGA-OV/88180134-710f-46ea-9b06-5e5d860d6d9f/mirna-seq.parquet
+88d61634-913c-435a-8d25-e019c8dab7da	TCGA-OV	/content/TCGA6/TCGA-OV/88d61634-913c-435a-8d25-e019c8dab7da/RNA-seq.parquet		/content/TCGA6/TCGA-OV/88d61634-913c-435a-8d25-e019c8dab7da/mirna-seq.parquet
+8a6d2ce3-cc57-451b-9b07-8263782aa23f	TCGA-OV			/content/TCGA6/TCGA-OV/8a6d2ce3-cc57-451b-9b07-8263782aa23f/mirna-seq.parquet
+8a98a6e6-b763-4824-858b-fd2738e6c9a3	TCGA-OV	/content/TCGA6/TCGA-OV/8a98a6e6-b763-4824-858b-fd2738e6c9a3/RNA-seq.parquet		/content/TCGA6/TCGA-OV/8a98a6e6-b763-4824-858b-fd2738e6c9a3/mirna-seq.parquet
+8ac6ce06-ab50-4ab4-a469-9f8bf01be963	TCGA-OV	/content/TCGA6/TCGA-OV/8ac6ce06-ab50-4ab4-a469-9f8bf01be963/RNA-seq.parquet		/content/TCGA6/TCGA-OV/8ac6ce06-ab50-4ab4-a469-9f8bf01be963/mirna-seq.parquet
+8cad4217-5699-4735-9be3-fc0015a8d262	TCGA-OV	/content/TCGA6/TCGA-OV/8cad4217-5699-4735-9be3-fc0015a8d262/RNA-seq.parquet		/content/TCGA6/TCGA-OV/8cad4217-5699-4735-9be3-fc0015a8d262/mirna-seq.parquet
+8e107f4b-1912-4d3e-814a-b863e2d65ed7	TCGA-OV	/content/TCGA6/TCGA-OV/8e107f4b-1912-4d3e-814a-b863e2d65ed7/RNA-seq.parquet		/content/TCGA6/TCGA-OV/8e107f4b-1912-4d3e-814a-b863e2d65ed7/mirna-seq.parquet
+8e1b8811-1eb2-4337-852c-c19eaa0ee418	TCGA-OV	/content/TCGA6/TCGA-OV/8e1b8811-1eb2-4337-852c-c19eaa0ee418/RNA-seq.parquet		/content/TCGA6/TCGA-OV/8e1b8811-1eb2-4337-852c-c19eaa0ee418/mirna-seq.parquet
+8fac8e40-beac-4059-9d54-7ee530598cfd	TCGA-OV	/content/TCGA6/TCGA-OV/8fac8e40-beac-4059-9d54-7ee530598cfd/RNA-seq.parquet		/content/TCGA6/TCGA-OV/8fac8e40-beac-4059-9d54-7ee530598cfd/mirna-seq.parquet
+8fe44099-b313-4bfd-a94a-27e72f2a818c	TCGA-OV	/content/TCGA6/TCGA-OV/8fe44099-b313-4bfd-a94a-27e72f2a818c/RNA-seq.parquet		/content/TCGA6/TCGA-OV/8fe44099-b313-4bfd-a94a-27e72f2a818c/mirna-seq.parquet
+90118207-8f11-4784-ac1b-0deec2e7af3a	TCGA-OV			/content/TCGA6/TCGA-OV/90118207-8f11-4784-ac1b-0deec2e7af3a/mirna-seq.parquet
+90f4b65c-cfd4-4066-a5b9-842885c172e2	TCGA-OV	/content/TCGA6/TCGA-OV/90f4b65c-cfd4-4066-a5b9-842885c172e2/RNA-seq.parquet		/content/TCGA6/TCGA-OV/90f4b65c-cfd4-4066-a5b9-842885c172e2/mirna-seq.parquet
+914d8613-3c25-4a10-be50-28b42f4d3a5d	TCGA-OV	/content/TCGA6/TCGA-OV/914d8613-3c25-4a10-be50-28b42f4d3a5d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/914d8613-3c25-4a10-be50-28b42f4d3a5d/mirna-seq.parquet
+914f84bf-578b-4f4d-93cb-378228ea58f6	TCGA-OV	/content/TCGA6/TCGA-OV/914f84bf-578b-4f4d-93cb-378228ea58f6/RNA-seq.parquet		/content/TCGA6/TCGA-OV/914f84bf-578b-4f4d-93cb-378228ea58f6/mirna-seq.parquet
+91a17d40-c8cb-4cce-b306-966382a8fe4a	TCGA-OV	/content/TCGA6/TCGA-OV/91a17d40-c8cb-4cce-b306-966382a8fe4a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/91a17d40-c8cb-4cce-b306-966382a8fe4a/mirna-seq.parquet
+91a6f311-c758-4e40-9abb-cc0f6584b9c9	TCGA-OV			/content/TCGA6/TCGA-OV/91a6f311-c758-4e40-9abb-cc0f6584b9c9/mirna-seq.parquet
+91de8a74-a1e6-46b6-a06e-70aedf2c3eaf	TCGA-OV	/content/TCGA6/TCGA-OV/91de8a74-a1e6-46b6-a06e-70aedf2c3eaf/RNA-seq.parquet		/content/TCGA6/TCGA-OV/91de8a74-a1e6-46b6-a06e-70aedf2c3eaf/mirna-seq.parquet
+92badeb5-a50e-4a62-a67e-6a8a59c948ab	TCGA-OV	/content/TCGA6/TCGA-OV/92badeb5-a50e-4a62-a67e-6a8a59c948ab/RNA-seq.parquet		/content/TCGA6/TCGA-OV/92badeb5-a50e-4a62-a67e-6a8a59c948ab/mirna-seq.parquet
+93095c36-2263-438f-a619-a4a4d6ae13c7	TCGA-OV	/content/TCGA6/TCGA-OV/93095c36-2263-438f-a619-a4a4d6ae13c7/RNA-seq.parquet		/content/TCGA6/TCGA-OV/93095c36-2263-438f-a619-a4a4d6ae13c7/mirna-seq.parquet
+931738a7-4b5b-46dc-b69f-72600862d8af	TCGA-OV	/content/TCGA6/TCGA-OV/931738a7-4b5b-46dc-b69f-72600862d8af/RNA-seq.parquet		/content/TCGA6/TCGA-OV/931738a7-4b5b-46dc-b69f-72600862d8af/mirna-seq.parquet
+933dbfbd-4697-403e-bd73-c17cb300c94b	TCGA-OV	/content/TCGA6/TCGA-OV/933dbfbd-4697-403e-bd73-c17cb300c94b/RNA-seq.parquet		/content/TCGA6/TCGA-OV/933dbfbd-4697-403e-bd73-c17cb300c94b/mirna-seq.parquet
+94030805-8beb-441a-af73-11a80768edb5	TCGA-OV	/content/TCGA6/TCGA-OV/94030805-8beb-441a-af73-11a80768edb5/RNA-seq.parquet		/content/TCGA6/TCGA-OV/94030805-8beb-441a-af73-11a80768edb5/mirna-seq.parquet
+9446e349-71e6-455a-aa8f-53ec96597146	TCGA-OV	/content/TCGA6/TCGA-OV/9446e349-71e6-455a-aa8f-53ec96597146/RNA-seq.parquet		/content/TCGA6/TCGA-OV/9446e349-71e6-455a-aa8f-53ec96597146/mirna-seq.parquet
+9471bc5e-18da-4356-bb0f-c78edd35ff99	TCGA-OV			/content/TCGA6/TCGA-OV/9471bc5e-18da-4356-bb0f-c78edd35ff99/mirna-seq.parquet
+94769f2c-b6fd-48ec-af34-b41165340b7c	TCGA-OV	/content/TCGA6/TCGA-OV/94769f2c-b6fd-48ec-af34-b41165340b7c/RNA-seq.parquet		/content/TCGA6/TCGA-OV/94769f2c-b6fd-48ec-af34-b41165340b7c/mirna-seq.parquet
+94bd4c68-4bfc-4db3-9365-97c867747133	TCGA-OV	/content/TCGA6/TCGA-OV/94bd4c68-4bfc-4db3-9365-97c867747133/RNA-seq.parquet		/content/TCGA6/TCGA-OV/94bd4c68-4bfc-4db3-9365-97c867747133/mirna-seq.parquet
+94efd4f9-69b0-4efa-8a0c-61106e898fdd	TCGA-OV	/content/TCGA6/TCGA-OV/94efd4f9-69b0-4efa-8a0c-61106e898fdd/RNA-seq.parquet		/content/TCGA6/TCGA-OV/94efd4f9-69b0-4efa-8a0c-61106e898fdd/mirna-seq.parquet
+955c80be-53df-4565-9303-a7abf96a2f81	TCGA-OV	/content/TCGA6/TCGA-OV/955c80be-53df-4565-9303-a7abf96a2f81/RNA-seq.parquet		/content/TCGA6/TCGA-OV/955c80be-53df-4565-9303-a7abf96a2f81/mirna-seq.parquet
+95e58015-a7c0-4bdc-bf64-7617d24d0784	TCGA-OV	/content/TCGA6/TCGA-OV/95e58015-a7c0-4bdc-bf64-7617d24d0784/RNA-seq.parquet		/content/TCGA6/TCGA-OV/95e58015-a7c0-4bdc-bf64-7617d24d0784/mirna-seq.parquet
+97ad0360-3be4-401a-a94c-7f2800a1b519	TCGA-OV	/content/TCGA6/TCGA-OV/97ad0360-3be4-401a-a94c-7f2800a1b519/RNA-seq.parquet		/content/TCGA6/TCGA-OV/97ad0360-3be4-401a-a94c-7f2800a1b519/mirna-seq.parquet
+97efb80d-4f46-4aef-b95e-20d260de01b2	TCGA-OV			/content/TCGA6/TCGA-OV/97efb80d-4f46-4aef-b95e-20d260de01b2/mirna-seq.parquet
+99a61986-7b23-46b5-99a4-efba6bad3766	TCGA-OV	/content/TCGA6/TCGA-OV/99a61986-7b23-46b5-99a4-efba6bad3766/RNA-seq.parquet		/content/TCGA6/TCGA-OV/99a61986-7b23-46b5-99a4-efba6bad3766/mirna-seq.parquet
+99f1ae02-86ec-4d93-8cd4-650bf6f02c10	TCGA-OV			/content/TCGA6/TCGA-OV/99f1ae02-86ec-4d93-8cd4-650bf6f02c10/mirna-seq.parquet
+9a30dee8-962a-49db-a85a-c39515c91b68	TCGA-OV	/content/TCGA6/TCGA-OV/9a30dee8-962a-49db-a85a-c39515c91b68/RNA-seq.parquet		/content/TCGA6/TCGA-OV/9a30dee8-962a-49db-a85a-c39515c91b68/mirna-seq.parquet
+9af2248a-d86a-4277-93b4-8eba5a39bd3c	TCGA-OV	/content/TCGA6/TCGA-OV/9af2248a-d86a-4277-93b4-8eba5a39bd3c/RNA-seq.parquet		/content/TCGA6/TCGA-OV/9af2248a-d86a-4277-93b4-8eba5a39bd3c/mirna-seq.parquet
+9bbc01b4-056c-4ddc-aca4-ff20718646d0	TCGA-OV	/content/TCGA6/TCGA-OV/9bbc01b4-056c-4ddc-aca4-ff20718646d0/RNA-seq.parquet		/content/TCGA6/TCGA-OV/9bbc01b4-056c-4ddc-aca4-ff20718646d0/mirna-seq.parquet
+9bdbaccf-b43b-4ec3-8b9b-dff65215eb00	TCGA-OV			/content/TCGA6/TCGA-OV/9bdbaccf-b43b-4ec3-8b9b-dff65215eb00/mirna-seq.parquet
+9bf16a89-2fc7-4c08-93bc-3105eec5c3cc	TCGA-OV	/content/TCGA6/TCGA-OV/9bf16a89-2fc7-4c08-93bc-3105eec5c3cc/RNA-seq.parquet		/content/TCGA6/TCGA-OV/9bf16a89-2fc7-4c08-93bc-3105eec5c3cc/mirna-seq.parquet
+9c744ff8-1cde-4176-b6d7-0ab62bf42620	TCGA-OV	/content/TCGA6/TCGA-OV/9c744ff8-1cde-4176-b6d7-0ab62bf42620/RNA-seq.parquet		/content/TCGA6/TCGA-OV/9c744ff8-1cde-4176-b6d7-0ab62bf42620/mirna-seq.parquet
+9d25cd0e-0a3e-4ee0-b1a3-58ffab348c9d	TCGA-OV	/content/TCGA6/TCGA-OV/9d25cd0e-0a3e-4ee0-b1a3-58ffab348c9d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/9d25cd0e-0a3e-4ee0-b1a3-58ffab348c9d/mirna-seq.parquet
+9e18238f-ae85-4b75-ae87-d92da9731a40	TCGA-OV	/content/TCGA6/TCGA-OV/9e18238f-ae85-4b75-ae87-d92da9731a40/RNA-seq.parquet		/content/TCGA6/TCGA-OV/9e18238f-ae85-4b75-ae87-d92da9731a40/mirna-seq.parquet
+9e48a4b1-6917-4625-9d78-e4832eb816a5	TCGA-OV	/content/TCGA6/TCGA-OV/9e48a4b1-6917-4625-9d78-e4832eb816a5/RNA-seq.parquet		/content/TCGA6/TCGA-OV/9e48a4b1-6917-4625-9d78-e4832eb816a5/mirna-seq.parquet
+9e7d3dea-5d81-4f10-819c-1c2a68ddd150	TCGA-OV	/content/TCGA6/TCGA-OV/9e7d3dea-5d81-4f10-819c-1c2a68ddd150/RNA-seq.parquet		/content/TCGA6/TCGA-OV/9e7d3dea-5d81-4f10-819c-1c2a68ddd150/mirna-seq.parquet
+9ec86cbd-8c74-4697-90da-529ab91ab835	TCGA-OV	/content/TCGA6/TCGA-OV/9ec86cbd-8c74-4697-90da-529ab91ab835/RNA-seq.parquet		/content/TCGA6/TCGA-OV/9ec86cbd-8c74-4697-90da-529ab91ab835/mirna-seq.parquet
+9fb1ba57-2007-4477-b000-2d36f163efd2	TCGA-OV	/content/TCGA6/TCGA-OV/9fb1ba57-2007-4477-b000-2d36f163efd2/RNA-seq.parquet		/content/TCGA6/TCGA-OV/9fb1ba57-2007-4477-b000-2d36f163efd2/mirna-seq.parquet
+a09f0626-002a-48fd-8b2d-c66b8285cf23	TCGA-OV	/content/TCGA6/TCGA-OV/a09f0626-002a-48fd-8b2d-c66b8285cf23/RNA-seq.parquet		/content/TCGA6/TCGA-OV/a09f0626-002a-48fd-8b2d-c66b8285cf23/mirna-seq.parquet
+a2319490-b85d-4219-a1b0-fa1ec432d5c8	TCGA-OV	/content/TCGA6/TCGA-OV/a2319490-b85d-4219-a1b0-fa1ec432d5c8/RNA-seq.parquet		/content/TCGA6/TCGA-OV/a2319490-b85d-4219-a1b0-fa1ec432d5c8/mirna-seq.parquet
+a285786d-120e-4c88-b48b-8111f4413988	TCGA-OV			/content/TCGA6/TCGA-OV/a285786d-120e-4c88-b48b-8111f4413988/mirna-seq.parquet
+a36a4440-15ef-4837-904b-380a964d16f1	TCGA-OV	/content/TCGA6/TCGA-OV/a36a4440-15ef-4837-904b-380a964d16f1/RNA-seq.parquet		/content/TCGA6/TCGA-OV/a36a4440-15ef-4837-904b-380a964d16f1/mirna-seq.parquet
+a3898640-0d85-441d-a000-b5b8ff857399	TCGA-OV	/content/TCGA6/TCGA-OV/a3898640-0d85-441d-a000-b5b8ff857399/RNA-seq.parquet		/content/TCGA6/TCGA-OV/a3898640-0d85-441d-a000-b5b8ff857399/mirna-seq.parquet
+a3e26259-732b-49fb-bc95-2f0ec7a0494e	TCGA-OV	/content/TCGA6/TCGA-OV/a3e26259-732b-49fb-bc95-2f0ec7a0494e/RNA-seq.parquet		/content/TCGA6/TCGA-OV/a3e26259-732b-49fb-bc95-2f0ec7a0494e/mirna-seq.parquet
+a5030259-cf9c-4a58-8710-b9da8ee59320	TCGA-OV	/content/TCGA6/TCGA-OV/a5030259-cf9c-4a58-8710-b9da8ee59320/RNA-seq.parquet		/content/TCGA6/TCGA-OV/a5030259-cf9c-4a58-8710-b9da8ee59320/mirna-seq.parquet
+a6aad7f9-8444-4c2f-8e4b-b19fd453544f	TCGA-OV	/content/TCGA6/TCGA-OV/a6aad7f9-8444-4c2f-8e4b-b19fd453544f/RNA-seq.parquet		/content/TCGA6/TCGA-OV/a6aad7f9-8444-4c2f-8e4b-b19fd453544f/mirna-seq.parquet
+a6eb0cd0-fe57-41b0-8593-776208684293	TCGA-OV	/content/TCGA6/TCGA-OV/a6eb0cd0-fe57-41b0-8593-776208684293/RNA-seq.parquet		/content/TCGA6/TCGA-OV/a6eb0cd0-fe57-41b0-8593-776208684293/mirna-seq.parquet
+a782352e-c4bb-4c3e-ba82-456a47c3689a	TCGA-OV	/content/TCGA6/TCGA-OV/a782352e-c4bb-4c3e-ba82-456a47c3689a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/a782352e-c4bb-4c3e-ba82-456a47c3689a/mirna-seq.parquet
+a85f6f9c-1e1d-44fc-85eb-3b2d96cfbc61	TCGA-OV	/content/TCGA6/TCGA-OV/a85f6f9c-1e1d-44fc-85eb-3b2d96cfbc61/RNA-seq.parquet		/content/TCGA6/TCGA-OV/a85f6f9c-1e1d-44fc-85eb-3b2d96cfbc61/mirna-seq.parquet
+a8c4a333-6b67-44c8-9000-516f8ccea788	TCGA-OV	/content/TCGA6/TCGA-OV/a8c4a333-6b67-44c8-9000-516f8ccea788/RNA-seq.parquet		/content/TCGA6/TCGA-OV/a8c4a333-6b67-44c8-9000-516f8ccea788/mirna-seq.parquet
+a9abe7a7-4126-414b-87d2-a6d25abcf1fa	TCGA-OV	/content/TCGA6/TCGA-OV/a9abe7a7-4126-414b-87d2-a6d25abcf1fa/RNA-seq.parquet		/content/TCGA6/TCGA-OV/a9abe7a7-4126-414b-87d2-a6d25abcf1fa/mirna-seq.parquet
+a9d3a7b0-faf8-4e56-8600-d9e6882a4f23	TCGA-OV	/content/TCGA6/TCGA-OV/a9d3a7b0-faf8-4e56-8600-d9e6882a4f23/RNA-seq.parquet		/content/TCGA6/TCGA-OV/a9d3a7b0-faf8-4e56-8600-d9e6882a4f23/mirna-seq.parquet
+ac2e88ff-8b1e-4691-9a96-5a581f98d827	TCGA-OV	/content/TCGA6/TCGA-OV/ac2e88ff-8b1e-4691-9a96-5a581f98d827/RNA-seq.parquet		/content/TCGA6/TCGA-OV/ac2e88ff-8b1e-4691-9a96-5a581f98d827/mirna-seq.parquet
+acb7ec56-8a47-495f-a11b-2c9fb5d8fe95	TCGA-OV	/content/TCGA6/TCGA-OV/acb7ec56-8a47-495f-a11b-2c9fb5d8fe95/RNA-seq.parquet		/content/TCGA6/TCGA-OV/acb7ec56-8a47-495f-a11b-2c9fb5d8fe95/mirna-seq.parquet
+ad2939e6-b8b8-475a-90e2-6a369c3d3167	TCGA-OV	/content/TCGA6/TCGA-OV/ad2939e6-b8b8-475a-90e2-6a369c3d3167/RNA-seq.parquet		/content/TCGA6/TCGA-OV/ad2939e6-b8b8-475a-90e2-6a369c3d3167/mirna-seq.parquet
+ad2b1a0a-153f-483d-b228-5763eba3f6cc	TCGA-OV	/content/TCGA6/TCGA-OV/ad2b1a0a-153f-483d-b228-5763eba3f6cc/RNA-seq.parquet		/content/TCGA6/TCGA-OV/ad2b1a0a-153f-483d-b228-5763eba3f6cc/mirna-seq.parquet
+ae914f23-87b9-4169-a7f7-a3483078c902	TCGA-OV	/content/TCGA6/TCGA-OV/ae914f23-87b9-4169-a7f7-a3483078c902/RNA-seq.parquet		/content/TCGA6/TCGA-OV/ae914f23-87b9-4169-a7f7-a3483078c902/mirna-seq.parquet
+afd92922-b8dc-48bd-a9c0-bc8d95855eb7	TCGA-OV	/content/TCGA6/TCGA-OV/afd92922-b8dc-48bd-a9c0-bc8d95855eb7/RNA-seq.parquet		/content/TCGA6/TCGA-OV/afd92922-b8dc-48bd-a9c0-bc8d95855eb7/mirna-seq.parquet
+b0585c7a-7205-4dac-9d54-6da89674accb	TCGA-OV	/content/TCGA6/TCGA-OV/b0585c7a-7205-4dac-9d54-6da89674accb/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b0585c7a-7205-4dac-9d54-6da89674accb/mirna-seq.parquet
+b0839f46-8c82-4619-be3d-c857a1759463	TCGA-OV	/content/TCGA6/TCGA-OV/b0839f46-8c82-4619-be3d-c857a1759463/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b0839f46-8c82-4619-be3d-c857a1759463/mirna-seq.parquet
+b120b701-c194-43d7-a491-3206fac38ec1	TCGA-OV	/content/TCGA6/TCGA-OV/b120b701-c194-43d7-a491-3206fac38ec1/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b120b701-c194-43d7-a491-3206fac38ec1/mirna-seq.parquet
+b1c90c69-6149-4105-8182-ab9212f196be	TCGA-OV	/content/TCGA6/TCGA-OV/b1c90c69-6149-4105-8182-ab9212f196be/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b1c90c69-6149-4105-8182-ab9212f196be/mirna-seq.parquet
+b1e11e94-646b-4c44-9d33-1ca67d8356fb	TCGA-OV	/content/TCGA6/TCGA-OV/b1e11e94-646b-4c44-9d33-1ca67d8356fb/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b1e11e94-646b-4c44-9d33-1ca67d8356fb/mirna-seq.parquet
+b25570ed-baca-4e3f-87c6-2ef18119ba49	TCGA-OV	/content/TCGA6/TCGA-OV/b25570ed-baca-4e3f-87c6-2ef18119ba49/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b25570ed-baca-4e3f-87c6-2ef18119ba49/mirna-seq.parquet
+b31d85cc-d2e2-4bd1-9986-d6bbe30e657f	TCGA-OV	/content/TCGA6/TCGA-OV/b31d85cc-d2e2-4bd1-9986-d6bbe30e657f/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b31d85cc-d2e2-4bd1-9986-d6bbe30e657f/mirna-seq.parquet
+b3511675-fd68-4745-8020-e290ca0fd115	TCGA-OV	/content/TCGA6/TCGA-OV/b3511675-fd68-4745-8020-e290ca0fd115/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b3511675-fd68-4745-8020-e290ca0fd115/mirna-seq.parquet
+b4225c44-b9b6-46c5-aabf-7b0d9a9fe20b	TCGA-OV	/content/TCGA6/TCGA-OV/b4225c44-b9b6-46c5-aabf-7b0d9a9fe20b/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b4225c44-b9b6-46c5-aabf-7b0d9a9fe20b/mirna-seq.parquet
+b45c543a-40d9-423a-a7fa-98e4b325b487	TCGA-OV	/content/TCGA6/TCGA-OV/b45c543a-40d9-423a-a7fa-98e4b325b487/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b45c543a-40d9-423a-a7fa-98e4b325b487/mirna-seq.parquet
+b46263ab-c3ca-4fda-a895-74c7e6e6fe22	TCGA-OV	/content/TCGA6/TCGA-OV/b46263ab-c3ca-4fda-a895-74c7e6e6fe22/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b46263ab-c3ca-4fda-a895-74c7e6e6fe22/mirna-seq.parquet
+b4b49027-7815-4813-9769-a3fe3a26a37a	TCGA-OV	/content/TCGA6/TCGA-OV/b4b49027-7815-4813-9769-a3fe3a26a37a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b4b49027-7815-4813-9769-a3fe3a26a37a/mirna-seq.parquet
+b520aae5-65a6-4b27-bc2a-10b02c7b1aeb	TCGA-OV	/content/TCGA6/TCGA-OV/b520aae5-65a6-4b27-bc2a-10b02c7b1aeb/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b520aae5-65a6-4b27-bc2a-10b02c7b1aeb/mirna-seq.parquet
+b63cad1b-b4c7-4e50-8acb-5cee4e9ce4a9	TCGA-OV			/content/TCGA6/TCGA-OV/b63cad1b-b4c7-4e50-8acb-5cee4e9ce4a9/mirna-seq.parquet
+b6b607cd-67b8-4c04-a212-a4e8c0743f05	TCGA-OV	/content/TCGA6/TCGA-OV/b6b607cd-67b8-4c04-a212-a4e8c0743f05/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b6b607cd-67b8-4c04-a212-a4e8c0743f05/mirna-seq.parquet
+b7715ff6-57a6-4513-9447-aa8bc93f16d4	TCGA-OV	/content/TCGA6/TCGA-OV/b7715ff6-57a6-4513-9447-aa8bc93f16d4/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b7715ff6-57a6-4513-9447-aa8bc93f16d4/mirna-seq.parquet
+b783f33b-734a-4801-bf39-b559a2035c6f	TCGA-OV			/content/TCGA6/TCGA-OV/b783f33b-734a-4801-bf39-b559a2035c6f/mirna-seq.parquet
+b8023162-5e82-40e6-ad8c-8acf81821f01	TCGA-OV	/content/TCGA6/TCGA-OV/b8023162-5e82-40e6-ad8c-8acf81821f01/RNA-seq.parquet	/content/TCGA6/TCGA-OV/b8023162-5e82-40e6-ad8c-8acf81821f01/DNA-methylation.parquet	/content/TCGA6/TCGA-OV/b8023162-5e82-40e6-ad8c-8acf81821f01/mirna-seq.parquet
+b867e933-e3e3-4491-9bb6-b18c48d6f173	TCGA-OV	/content/TCGA6/TCGA-OV/b867e933-e3e3-4491-9bb6-b18c48d6f173/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b867e933-e3e3-4491-9bb6-b18c48d6f173/mirna-seq.parquet
+b8c3d99c-429b-42a3-b486-6fbcb90cc2e0	TCGA-OV	/content/TCGA6/TCGA-OV/b8c3d99c-429b-42a3-b486-6fbcb90cc2e0/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b8c3d99c-429b-42a3-b486-6fbcb90cc2e0/mirna-seq.parquet
+b923ac70-70ea-4a82-8466-46350c5803bf	TCGA-OV	/content/TCGA6/TCGA-OV/b923ac70-70ea-4a82-8466-46350c5803bf/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b923ac70-70ea-4a82-8466-46350c5803bf/mirna-seq.parquet
+b9418c6d-94f7-4db4-a1e4-f384b09d54cb	TCGA-OV	/content/TCGA6/TCGA-OV/b9418c6d-94f7-4db4-a1e4-f384b09d54cb/RNA-seq.parquet		/content/TCGA6/TCGA-OV/b9418c6d-94f7-4db4-a1e4-f384b09d54cb/mirna-seq.parquet
+ba68f2cf-9271-41fd-9655-1fac7681f588	TCGA-OV	/content/TCGA6/TCGA-OV/ba68f2cf-9271-41fd-9655-1fac7681f588/RNA-seq.parquet		/content/TCGA6/TCGA-OV/ba68f2cf-9271-41fd-9655-1fac7681f588/mirna-seq.parquet
+bbad2efe-e9c7-4f8f-924b-ebbbe4c181d4	TCGA-OV	/content/TCGA6/TCGA-OV/bbad2efe-e9c7-4f8f-924b-ebbbe4c181d4/RNA-seq.parquet		/content/TCGA6/TCGA-OV/bbad2efe-e9c7-4f8f-924b-ebbbe4c181d4/mirna-seq.parquet
+bbbf1184-1e19-479a-b31f-daa692d52e02	TCGA-OV			/content/TCGA6/TCGA-OV/bbbf1184-1e19-479a-b31f-daa692d52e02/mirna-seq.parquet
+bc2591b0-65d7-48c3-a5cc-783f67b65869	TCGA-OV	/content/TCGA6/TCGA-OV/bc2591b0-65d7-48c3-a5cc-783f67b65869/RNA-seq.parquet		/content/TCGA6/TCGA-OV/bc2591b0-65d7-48c3-a5cc-783f67b65869/mirna-seq.parquet
+bc3e0b74-ea09-46a5-9f61-16bd15ffd883	TCGA-OV	/content/TCGA6/TCGA-OV/bc3e0b74-ea09-46a5-9f61-16bd15ffd883/RNA-seq.parquet		/content/TCGA6/TCGA-OV/bc3e0b74-ea09-46a5-9f61-16bd15ffd883/mirna-seq.parquet
+bc4bc342-20bf-40c3-af26-2c6f942da93d	TCGA-OV	/content/TCGA6/TCGA-OV/bc4bc342-20bf-40c3-af26-2c6f942da93d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/bc4bc342-20bf-40c3-af26-2c6f942da93d/mirna-seq.parquet
+bc84c5c5-1785-4edd-b732-8987f862063e	TCGA-OV	/content/TCGA6/TCGA-OV/bc84c5c5-1785-4edd-b732-8987f862063e/RNA-seq.parquet	/content/TCGA6/TCGA-OV/bc84c5c5-1785-4edd-b732-8987f862063e/DNA-methylation.parquet	/content/TCGA6/TCGA-OV/bc84c5c5-1785-4edd-b732-8987f862063e/mirna-seq.parquet
+bc873b2a-35b7-4365-a2cc-e6a83063556e	TCGA-OV			/content/TCGA6/TCGA-OV/bc873b2a-35b7-4365-a2cc-e6a83063556e/mirna-seq.parquet
+bdd792e7-d75f-4aa3-b38e-f0708e112075	TCGA-OV	/content/TCGA6/TCGA-OV/bdd792e7-d75f-4aa3-b38e-f0708e112075/RNA-seq.parquet		/content/TCGA6/TCGA-OV/bdd792e7-d75f-4aa3-b38e-f0708e112075/mirna-seq.parquet
+c0c3caab-9277-4a31-a96c-c607e38d5ccc	TCGA-OV	/content/TCGA6/TCGA-OV/c0c3caab-9277-4a31-a96c-c607e38d5ccc/RNA-seq.parquet		/content/TCGA6/TCGA-OV/c0c3caab-9277-4a31-a96c-c607e38d5ccc/mirna-seq.parquet
+c11cae7e-91cd-4470-a9d8-188a4f6b8fa1	TCGA-OV			/content/TCGA6/TCGA-OV/c11cae7e-91cd-4470-a9d8-188a4f6b8fa1/mirna-seq.parquet
+c183d3fb-2eee-44f8-890e-b9bf907141e6	TCGA-OV	/content/TCGA6/TCGA-OV/c183d3fb-2eee-44f8-890e-b9bf907141e6/RNA-seq.parquet		/content/TCGA6/TCGA-OV/c183d3fb-2eee-44f8-890e-b9bf907141e6/mirna-seq.parquet
+c3e443b9-5dc5-4793-91e3-534f21485268	TCGA-OV	/content/TCGA6/TCGA-OV/c3e443b9-5dc5-4793-91e3-534f21485268/RNA-seq.parquet		/content/TCGA6/TCGA-OV/c3e443b9-5dc5-4793-91e3-534f21485268/mirna-seq.parquet
+c3f9ee36-d34f-472b-ac7f-801a0d400aa4	TCGA-OV	/content/TCGA6/TCGA-OV/c3f9ee36-d34f-472b-ac7f-801a0d400aa4/RNA-seq.parquet		/content/TCGA6/TCGA-OV/c3f9ee36-d34f-472b-ac7f-801a0d400aa4/mirna-seq.parquet
+c435627c-159d-4a6d-a819-30abac24bf4d	TCGA-OV	/content/TCGA6/TCGA-OV/c435627c-159d-4a6d-a819-30abac24bf4d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/c435627c-159d-4a6d-a819-30abac24bf4d/mirna-seq.parquet
+c5355491-e1e8-46a4-a05e-bafcaf2e7459	TCGA-OV	/content/TCGA6/TCGA-OV/c5355491-e1e8-46a4-a05e-bafcaf2e7459/RNA-seq.parquet		/content/TCGA6/TCGA-OV/c5355491-e1e8-46a4-a05e-bafcaf2e7459/mirna-seq.parquet
+c6ede8ae-881c-47a0-a0ef-745ed4b7764a	TCGA-OV	/content/TCGA6/TCGA-OV/c6ede8ae-881c-47a0-a0ef-745ed4b7764a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/c6ede8ae-881c-47a0-a0ef-745ed4b7764a/mirna-seq.parquet
+c70228cc-79c0-4c00-8926-6671c1474701	TCGA-OV			/content/TCGA6/TCGA-OV/c70228cc-79c0-4c00-8926-6671c1474701/mirna-seq.parquet
+c73244fd-d486-439f-a94f-fb0bd4e9ac8f	TCGA-OV	/content/TCGA6/TCGA-OV/c73244fd-d486-439f-a94f-fb0bd4e9ac8f/RNA-seq.parquet		/content/TCGA6/TCGA-OV/c73244fd-d486-439f-a94f-fb0bd4e9ac8f/mirna-seq.parquet
+c75c915f-ef4b-4c19-8ace-995e6c6015fd	TCGA-OV			/content/TCGA6/TCGA-OV/c75c915f-ef4b-4c19-8ace-995e6c6015fd/mirna-seq.parquet
+c7cf6755-8856-435b-a443-174b22a25b07	TCGA-OV	/content/TCGA6/TCGA-OV/c7cf6755-8856-435b-a443-174b22a25b07/RNA-seq.parquet	/content/TCGA6/TCGA-OV/c7cf6755-8856-435b-a443-174b22a25b07/DNA-methylation.parquet	/content/TCGA6/TCGA-OV/c7cf6755-8856-435b-a443-174b22a25b07/mirna-seq.parquet
+c8acee1b-6854-409b-86ab-bf69dbe22ab6	TCGA-OV	/content/TCGA6/TCGA-OV/c8acee1b-6854-409b-86ab-bf69dbe22ab6/RNA-seq.parquet		/content/TCGA6/TCGA-OV/c8acee1b-6854-409b-86ab-bf69dbe22ab6/mirna-seq.parquet
+c8e0008e-00e9-4868-8b38-227fea246885	TCGA-OV			/content/TCGA6/TCGA-OV/c8e0008e-00e9-4868-8b38-227fea246885/mirna-seq.parquet
+c8febeef-8e7e-459e-88cb-8086692dc559	TCGA-OV			/content/TCGA6/TCGA-OV/c8febeef-8e7e-459e-88cb-8086692dc559/mirna-seq.parquet
+c9226204-cb61-40b8-8a94-a7e71c14ea3a	TCGA-OV	/content/TCGA6/TCGA-OV/c9226204-cb61-40b8-8a94-a7e71c14ea3a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/c9226204-cb61-40b8-8a94-a7e71c14ea3a/mirna-seq.parquet
+c9524775-6b50-4793-8858-24b6a6d3e4e6	TCGA-OV			/content/TCGA6/TCGA-OV/c9524775-6b50-4793-8858-24b6a6d3e4e6/mirna-seq.parquet
+c9e28934-8379-4511-817c-d787f2c4ca3a	TCGA-OV	/content/TCGA6/TCGA-OV/c9e28934-8379-4511-817c-d787f2c4ca3a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/c9e28934-8379-4511-817c-d787f2c4ca3a/mirna-seq.parquet
+c9e58844-9d61-44a2-aee6-1760bc19711b	TCGA-OV	/content/TCGA6/TCGA-OV/c9e58844-9d61-44a2-aee6-1760bc19711b/RNA-seq.parquet		/content/TCGA6/TCGA-OV/c9e58844-9d61-44a2-aee6-1760bc19711b/mirna-seq.parquet
+cbc5b936-ead5-4858-ab90-e639402789b0	TCGA-OV	/content/TCGA6/TCGA-OV/cbc5b936-ead5-4858-ab90-e639402789b0/RNA-seq.parquet		/content/TCGA6/TCGA-OV/cbc5b936-ead5-4858-ab90-e639402789b0/mirna-seq.parquet
+cbc7f427-5f7b-4267-ad56-055d8880a4cc	TCGA-OV	/content/TCGA6/TCGA-OV/cbc7f427-5f7b-4267-ad56-055d8880a4cc/RNA-seq.parquet		/content/TCGA6/TCGA-OV/cbc7f427-5f7b-4267-ad56-055d8880a4cc/mirna-seq.parquet
+cbcf6922-a3c0-43a1-826e-642918b0a635	TCGA-OV	/content/TCGA6/TCGA-OV/cbcf6922-a3c0-43a1-826e-642918b0a635/RNA-seq.parquet		/content/TCGA6/TCGA-OV/cbcf6922-a3c0-43a1-826e-642918b0a635/mirna-seq.parquet
+cbd87697-7708-4b69-9e50-9ee474feabe1	TCGA-OV	/content/TCGA6/TCGA-OV/cbd87697-7708-4b69-9e50-9ee474feabe1/RNA-seq.parquet		/content/TCGA6/TCGA-OV/cbd87697-7708-4b69-9e50-9ee474feabe1/mirna-seq.parquet
+cbe3309e-9b7b-4f62-87b5-0f5ed4218ada	TCGA-OV	/content/TCGA6/TCGA-OV/cbe3309e-9b7b-4f62-87b5-0f5ed4218ada/RNA-seq.parquet		/content/TCGA6/TCGA-OV/cbe3309e-9b7b-4f62-87b5-0f5ed4218ada/mirna-seq.parquet
+cd49126a-ec15-43fa-9e43-3f7460d43f2b	TCGA-OV			/content/TCGA6/TCGA-OV/cd49126a-ec15-43fa-9e43-3f7460d43f2b/mirna-seq.parquet
+cd6e5d3d-1c86-40dd-9cb3-b2e2075dec56	TCGA-OV	/content/TCGA6/TCGA-OV/cd6e5d3d-1c86-40dd-9cb3-b2e2075dec56/RNA-seq.parquet		/content/TCGA6/TCGA-OV/cd6e5d3d-1c86-40dd-9cb3-b2e2075dec56/mirna-seq.parquet
+cddce77f-21e6-4124-9f03-96fb5ca7cefa	TCGA-OV	/content/TCGA6/TCGA-OV/cddce77f-21e6-4124-9f03-96fb5ca7cefa/RNA-seq.parquet		/content/TCGA6/TCGA-OV/cddce77f-21e6-4124-9f03-96fb5ca7cefa/mirna-seq.parquet
+ce871097-a6e9-4139-897e-642ee24ee123	TCGA-OV	/content/TCGA6/TCGA-OV/ce871097-a6e9-4139-897e-642ee24ee123/RNA-seq.parquet		/content/TCGA6/TCGA-OV/ce871097-a6e9-4139-897e-642ee24ee123/mirna-seq.parquet
+ceb19678-b453-4529-b6cb-d02f9cb101b4	TCGA-OV	/content/TCGA6/TCGA-OV/ceb19678-b453-4529-b6cb-d02f9cb101b4/RNA-seq.parquet		/content/TCGA6/TCGA-OV/ceb19678-b453-4529-b6cb-d02f9cb101b4/mirna-seq.parquet
+cf1e86ec-4bcb-403c-831b-d67bddef14eb	TCGA-OV	/content/TCGA6/TCGA-OV/cf1e86ec-4bcb-403c-831b-d67bddef14eb/RNA-seq.parquet		/content/TCGA6/TCGA-OV/cf1e86ec-4bcb-403c-831b-d67bddef14eb/mirna-seq.parquet
+d0673efd-3315-4dd5-8ab6-912bfa07dceb	TCGA-OV	/content/TCGA6/TCGA-OV/d0673efd-3315-4dd5-8ab6-912bfa07dceb/RNA-seq.parquet		/content/TCGA6/TCGA-OV/d0673efd-3315-4dd5-8ab6-912bfa07dceb/mirna-seq.parquet
+d1976840-35f7-4423-8458-12fb32a52b33	TCGA-OV	/content/TCGA6/TCGA-OV/d1976840-35f7-4423-8458-12fb32a52b33/RNA-seq.parquet		/content/TCGA6/TCGA-OV/d1976840-35f7-4423-8458-12fb32a52b33/mirna-seq.parquet
+d1e974e7-dd68-40cc-ad06-2b57d964e5a1	TCGA-OV	/content/TCGA6/TCGA-OV/d1e974e7-dd68-40cc-ad06-2b57d964e5a1/RNA-seq.parquet		/content/TCGA6/TCGA-OV/d1e974e7-dd68-40cc-ad06-2b57d964e5a1/mirna-seq.parquet
+d2c0d320-d1c5-4eed-af4f-15540e60db0b	TCGA-OV	/content/TCGA6/TCGA-OV/d2c0d320-d1c5-4eed-af4f-15540e60db0b/RNA-seq.parquet		/content/TCGA6/TCGA-OV/d2c0d320-d1c5-4eed-af4f-15540e60db0b/mirna-seq.parquet
+d2ccefea-c1d6-465f-97b1-e51e29c5f1f8	TCGA-OV			/content/TCGA6/TCGA-OV/d2ccefea-c1d6-465f-97b1-e51e29c5f1f8/mirna-seq.parquet
+d3164236-c14a-4230-b527-ecd1a3992f02	TCGA-OV			/content/TCGA6/TCGA-OV/d3164236-c14a-4230-b527-ecd1a3992f02/mirna-seq.parquet
+d38ca631-ed5c-4182-a647-625060726fa7	TCGA-OV			/content/TCGA6/TCGA-OV/d38ca631-ed5c-4182-a647-625060726fa7/mirna-seq.parquet
+d3dd5e69-9752-4b50-9b1f-814afbc2c3dd	TCGA-OV	/content/TCGA6/TCGA-OV/d3dd5e69-9752-4b50-9b1f-814afbc2c3dd/RNA-seq.parquet		/content/TCGA6/TCGA-OV/d3dd5e69-9752-4b50-9b1f-814afbc2c3dd/mirna-seq.parquet
+d73a0a33-e4e8-44bd-9580-2038ab06583a	TCGA-OV	/content/TCGA6/TCGA-OV/d73a0a33-e4e8-44bd-9580-2038ab06583a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/d73a0a33-e4e8-44bd-9580-2038ab06583a/mirna-seq.parquet
+d77ef9cf-f8e6-4ee9-8d4f-1106885f6b06	TCGA-OV	/content/TCGA6/TCGA-OV/d77ef9cf-f8e6-4ee9-8d4f-1106885f6b06/RNA-seq.parquet		/content/TCGA6/TCGA-OV/d77ef9cf-f8e6-4ee9-8d4f-1106885f6b06/mirna-seq.parquet
+d7925dfc-18ce-46ab-a47b-9d06eacc96d0	TCGA-OV	/content/TCGA6/TCGA-OV/d7925dfc-18ce-46ab-a47b-9d06eacc96d0/RNA-seq.parquet		/content/TCGA6/TCGA-OV/d7925dfc-18ce-46ab-a47b-9d06eacc96d0/mirna-seq.parquet
+d7b3156d-672a-4a55-868d-9ca6a09fcb0f	TCGA-OV	/content/TCGA6/TCGA-OV/d7b3156d-672a-4a55-868d-9ca6a09fcb0f/RNA-seq.parquet		/content/TCGA6/TCGA-OV/d7b3156d-672a-4a55-868d-9ca6a09fcb0f/mirna-seq.parquet
+d86adfac-56be-4a69-9315-5a90b4113e65	TCGA-OV			/content/TCGA6/TCGA-OV/d86adfac-56be-4a69-9315-5a90b4113e65/mirna-seq.parquet
+d8d13aa4-45d5-4e1a-a6cf-895bdf05e7b2	TCGA-OV	/content/TCGA6/TCGA-OV/d8d13aa4-45d5-4e1a-a6cf-895bdf05e7b2/RNA-seq.parquet		/content/TCGA6/TCGA-OV/d8d13aa4-45d5-4e1a-a6cf-895bdf05e7b2/mirna-seq.parquet
+da274941-3edd-420b-9262-bbd959923c67	TCGA-OV	/content/TCGA6/TCGA-OV/da274941-3edd-420b-9262-bbd959923c67/RNA-seq.parquet		/content/TCGA6/TCGA-OV/da274941-3edd-420b-9262-bbd959923c67/mirna-seq.parquet
+dac8d825-dd47-47ed-a426-0ee75feb76f3	TCGA-OV			/content/TCGA6/TCGA-OV/dac8d825-dd47-47ed-a426-0ee75feb76f3/mirna-seq.parquet
+dac96910-0cb2-44ea-b108-2d6d51b07112	TCGA-OV	/content/TCGA6/TCGA-OV/dac96910-0cb2-44ea-b108-2d6d51b07112/RNA-seq.parquet		/content/TCGA6/TCGA-OV/dac96910-0cb2-44ea-b108-2d6d51b07112/mirna-seq.parquet
+dc5a6ce7-01e5-408d-812e-e3e0ddc1cde5	TCGA-OV	/content/TCGA6/TCGA-OV/dc5a6ce7-01e5-408d-812e-e3e0ddc1cde5/RNA-seq.parquet		/content/TCGA6/TCGA-OV/dc5a6ce7-01e5-408d-812e-e3e0ddc1cde5/mirna-seq.parquet
+dce71741-ccbe-40b7-a0b8-2048d07187a4	TCGA-OV	/content/TCGA6/TCGA-OV/dce71741-ccbe-40b7-a0b8-2048d07187a4/RNA-seq.parquet		/content/TCGA6/TCGA-OV/dce71741-ccbe-40b7-a0b8-2048d07187a4/mirna-seq.parquet
+de548bdd-14ca-486b-bd16-a6fbdd5b50d2	TCGA-OV	/content/TCGA6/TCGA-OV/de548bdd-14ca-486b-bd16-a6fbdd5b50d2/RNA-seq.parquet		/content/TCGA6/TCGA-OV/de548bdd-14ca-486b-bd16-a6fbdd5b50d2/mirna-seq.parquet
+df53c3c0-3605-4d2b-bdc7-96d9beab27ea	TCGA-OV	/content/TCGA6/TCGA-OV/df53c3c0-3605-4d2b-bdc7-96d9beab27ea/RNA-seq.parquet		/content/TCGA6/TCGA-OV/df53c3c0-3605-4d2b-bdc7-96d9beab27ea/mirna-seq.parquet
+e07a61e2-bcd2-4a96-80df-97e04aafbd32	TCGA-OV	/content/TCGA6/TCGA-OV/e07a61e2-bcd2-4a96-80df-97e04aafbd32/RNA-seq.parquet		/content/TCGA6/TCGA-OV/e07a61e2-bcd2-4a96-80df-97e04aafbd32/mirna-seq.parquet
+e1158102-06f2-47bb-9fe0-49b57f070755	TCGA-OV	/content/TCGA6/TCGA-OV/e1158102-06f2-47bb-9fe0-49b57f070755/RNA-seq.parquet		/content/TCGA6/TCGA-OV/e1158102-06f2-47bb-9fe0-49b57f070755/mirna-seq.parquet
+e20ea417-7296-4da8-9fdb-71cd1f45153a	TCGA-OV	/content/TCGA6/TCGA-OV/e20ea417-7296-4da8-9fdb-71cd1f45153a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/e20ea417-7296-4da8-9fdb-71cd1f45153a/mirna-seq.parquet
+e294b940-2828-499c-be24-47ef6c2e9035	TCGA-OV	/content/TCGA6/TCGA-OV/e294b940-2828-499c-be24-47ef6c2e9035/RNA-seq.parquet		/content/TCGA6/TCGA-OV/e294b940-2828-499c-be24-47ef6c2e9035/mirna-seq.parquet
+e35b2813-427e-4e83-95f6-4f0281f42a59	TCGA-OV	/content/TCGA6/TCGA-OV/e35b2813-427e-4e83-95f6-4f0281f42a59/RNA-seq.parquet	/content/TCGA6/TCGA-OV/e35b2813-427e-4e83-95f6-4f0281f42a59/DNA-methylation.parquet	/content/TCGA6/TCGA-OV/e35b2813-427e-4e83-95f6-4f0281f42a59/mirna-seq.parquet
+e3712e5a-4575-440f-89d1-8db9498baa88	TCGA-OV			/content/TCGA6/TCGA-OV/e3712e5a-4575-440f-89d1-8db9498baa88/mirna-seq.parquet
+e3ea5137-76b8-4afc-9b80-ed74714e7172	TCGA-OV			/content/TCGA6/TCGA-OV/e3ea5137-76b8-4afc-9b80-ed74714e7172/mirna-seq.parquet
+e43d3769-e25f-4fb7-9080-ea26defaf094	TCGA-OV	/content/TCGA6/TCGA-OV/e43d3769-e25f-4fb7-9080-ea26defaf094/RNA-seq.parquet		/content/TCGA6/TCGA-OV/e43d3769-e25f-4fb7-9080-ea26defaf094/mirna-seq.parquet
+e5a329ec-e50e-4786-901d-b58474f8ea65	TCGA-OV	/content/TCGA6/TCGA-OV/e5a329ec-e50e-4786-901d-b58474f8ea65/RNA-seq.parquet		/content/TCGA6/TCGA-OV/e5a329ec-e50e-4786-901d-b58474f8ea65/mirna-seq.parquet
+e641aed9-1dd8-4c30-b231-f12b20a76df0	TCGA-OV	/content/TCGA6/TCGA-OV/e641aed9-1dd8-4c30-b231-f12b20a76df0/RNA-seq.parquet		/content/TCGA6/TCGA-OV/e641aed9-1dd8-4c30-b231-f12b20a76df0/mirna-seq.parquet
+e732f81c-9b7d-44bd-a905-ff53fbed5009	TCGA-OV	/content/TCGA6/TCGA-OV/e732f81c-9b7d-44bd-a905-ff53fbed5009/RNA-seq.parquet		/content/TCGA6/TCGA-OV/e732f81c-9b7d-44bd-a905-ff53fbed5009/mirna-seq.parquet
+e8372916-7ac7-4535-ae97-0248208224f5	TCGA-OV			/content/TCGA6/TCGA-OV/e8372916-7ac7-4535-ae97-0248208224f5/mirna-seq.parquet
+e9483296-cb91-497a-b955-39a3c3289dac	TCGA-OV	/content/TCGA6/TCGA-OV/e9483296-cb91-497a-b955-39a3c3289dac/RNA-seq.parquet		/content/TCGA6/TCGA-OV/e9483296-cb91-497a-b955-39a3c3289dac/mirna-seq.parquet
+e978a457-92ff-4eab-b759-ec6e74d973e8	TCGA-OV	/content/TCGA6/TCGA-OV/e978a457-92ff-4eab-b759-ec6e74d973e8/RNA-seq.parquet		/content/TCGA6/TCGA-OV/e978a457-92ff-4eab-b759-ec6e74d973e8/mirna-seq.parquet
+e9b5336e-d724-4e7d-8c81-1147abd0a80d	TCGA-OV	/content/TCGA6/TCGA-OV/e9b5336e-d724-4e7d-8c81-1147abd0a80d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/e9b5336e-d724-4e7d-8c81-1147abd0a80d/mirna-seq.parquet
+ea605be2-6578-4e01-8ec3-bbd84c0b7f1d	TCGA-OV	/content/TCGA6/TCGA-OV/ea605be2-6578-4e01-8ec3-bbd84c0b7f1d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/ea605be2-6578-4e01-8ec3-bbd84c0b7f1d/mirna-seq.parquet
+ea6405c4-0fe4-4f37-bef2-275072f91e39	TCGA-OV	/content/TCGA6/TCGA-OV/ea6405c4-0fe4-4f37-bef2-275072f91e39/RNA-seq.parquet		/content/TCGA6/TCGA-OV/ea6405c4-0fe4-4f37-bef2-275072f91e39/mirna-seq.parquet
+ead71c90-cc5e-42ce-8754-c3cf15a41134	TCGA-OV			/content/TCGA6/TCGA-OV/ead71c90-cc5e-42ce-8754-c3cf15a41134/mirna-seq.parquet
+eb7c3b35-7a5e-4621-b31f-9775c51f9a23	TCGA-OV	/content/TCGA6/TCGA-OV/eb7c3b35-7a5e-4621-b31f-9775c51f9a23/RNA-seq.parquet		/content/TCGA6/TCGA-OV/eb7c3b35-7a5e-4621-b31f-9775c51f9a23/mirna-seq.parquet
+ebe677e6-94b6-45be-a58d-eaae4cf63d12	TCGA-OV	/content/TCGA6/TCGA-OV/ebe677e6-94b6-45be-a58d-eaae4cf63d12/RNA-seq.parquet		/content/TCGA6/TCGA-OV/ebe677e6-94b6-45be-a58d-eaae4cf63d12/mirna-seq.parquet
+ed21615c-0de3-421c-9e8d-8996026c4431	TCGA-OV	/content/TCGA6/TCGA-OV/ed21615c-0de3-421c-9e8d-8996026c4431/RNA-seq.parquet		/content/TCGA6/TCGA-OV/ed21615c-0de3-421c-9e8d-8996026c4431/mirna-seq.parquet
+ee0a4a13-613e-4c5d-96c3-8083a013702d	TCGA-OV	/content/TCGA6/TCGA-OV/ee0a4a13-613e-4c5d-96c3-8083a013702d/RNA-seq.parquet		/content/TCGA6/TCGA-OV/ee0a4a13-613e-4c5d-96c3-8083a013702d/mirna-seq.parquet
+eeb9d147-608d-4692-8adf-2f601d23a8ff	TCGA-OV	/content/TCGA6/TCGA-OV/eeb9d147-608d-4692-8adf-2f601d23a8ff/RNA-seq.parquet		/content/TCGA6/TCGA-OV/eeb9d147-608d-4692-8adf-2f601d23a8ff/mirna-seq.parquet
+eec69ea9-ceb8-456a-aff4-41fb8a261e36	TCGA-OV	/content/TCGA6/TCGA-OV/eec69ea9-ceb8-456a-aff4-41fb8a261e36/RNA-seq.parquet		/content/TCGA6/TCGA-OV/eec69ea9-ceb8-456a-aff4-41fb8a261e36/mirna-seq.parquet
+ef57bc45-858f-4d4e-8407-b7eadfa43be5	TCGA-OV	/content/TCGA6/TCGA-OV/ef57bc45-858f-4d4e-8407-b7eadfa43be5/RNA-seq.parquet		/content/TCGA6/TCGA-OV/ef57bc45-858f-4d4e-8407-b7eadfa43be5/mirna-seq.parquet
+ef5e85cf-2d82-4d52-a02c-fed5c76e4cec	TCGA-OV	/content/TCGA6/TCGA-OV/ef5e85cf-2d82-4d52-a02c-fed5c76e4cec/RNA-seq.parquet		/content/TCGA6/TCGA-OV/ef5e85cf-2d82-4d52-a02c-fed5c76e4cec/mirna-seq.parquet
+ef653772-e5d2-46ec-8610-f81d75d7353c	TCGA-OV	/content/TCGA6/TCGA-OV/ef653772-e5d2-46ec-8610-f81d75d7353c/RNA-seq.parquet		/content/TCGA6/TCGA-OV/ef653772-e5d2-46ec-8610-f81d75d7353c/mirna-seq.parquet
+f007fa7a-7da9-4cb0-8aea-623af1a122c5	TCGA-OV	/content/TCGA6/TCGA-OV/f007fa7a-7da9-4cb0-8aea-623af1a122c5/RNA-seq.parquet		/content/TCGA6/TCGA-OV/f007fa7a-7da9-4cb0-8aea-623af1a122c5/mirna-seq.parquet
+f0c353fd-947c-41e2-b643-3ecc0d69796c	TCGA-OV	/content/TCGA6/TCGA-OV/f0c353fd-947c-41e2-b643-3ecc0d69796c/RNA-seq.parquet		/content/TCGA6/TCGA-OV/f0c353fd-947c-41e2-b643-3ecc0d69796c/mirna-seq.parquet
+f1cb3d48-1415-408d-89d1-dfdcc5924963	TCGA-OV	/content/TCGA6/TCGA-OV/f1cb3d48-1415-408d-89d1-dfdcc5924963/RNA-seq.parquet	/content/TCGA6/TCGA-OV/f1cb3d48-1415-408d-89d1-dfdcc5924963/DNA-methylation.parquet	/content/TCGA6/TCGA-OV/f1cb3d48-1415-408d-89d1-dfdcc5924963/mirna-seq.parquet
+f2ce00e4-0d4f-4faa-bee1-ddf1b306e97b	TCGA-OV			/content/TCGA6/TCGA-OV/f2ce00e4-0d4f-4faa-bee1-ddf1b306e97b/mirna-seq.parquet
+f2dcf4cc-609d-4532-a90d-6ae2bbb53365	TCGA-OV	/content/TCGA6/TCGA-OV/f2dcf4cc-609d-4532-a90d-6ae2bbb53365/RNA-seq.parquet		/content/TCGA6/TCGA-OV/f2dcf4cc-609d-4532-a90d-6ae2bbb53365/mirna-seq.parquet
+f2ec64f5-a414-4c34-99c7-d59bc4e831e0	TCGA-OV	/content/TCGA6/TCGA-OV/f2ec64f5-a414-4c34-99c7-d59bc4e831e0/RNA-seq.parquet		/content/TCGA6/TCGA-OV/f2ec64f5-a414-4c34-99c7-d59bc4e831e0/mirna-seq.parquet
+f34aa3b6-e966-49c6-bc55-130545772c53	TCGA-OV	/content/TCGA6/TCGA-OV/f34aa3b6-e966-49c6-bc55-130545772c53/RNA-seq.parquet		/content/TCGA6/TCGA-OV/f34aa3b6-e966-49c6-bc55-130545772c53/mirna-seq.parquet
+f3618472-32dc-4c90-a407-90050f68be85	TCGA-OV	/content/TCGA6/TCGA-OV/f3618472-32dc-4c90-a407-90050f68be85/RNA-seq.parquet	/content/TCGA6/TCGA-OV/f3618472-32dc-4c90-a407-90050f68be85/DNA-methylation.parquet	/content/TCGA6/TCGA-OV/f3618472-32dc-4c90-a407-90050f68be85/mirna-seq.parquet
+f3af727e-b592-4828-94f5-22008666cf8c	TCGA-OV	/content/TCGA6/TCGA-OV/f3af727e-b592-4828-94f5-22008666cf8c/RNA-seq.parquet		/content/TCGA6/TCGA-OV/f3af727e-b592-4828-94f5-22008666cf8c/mirna-seq.parquet
+f4d95c8e-fb84-46ca-acc0-827015cc9d0a	TCGA-OV	/content/TCGA6/TCGA-OV/f4d95c8e-fb84-46ca-acc0-827015cc9d0a/RNA-seq.parquet		/content/TCGA6/TCGA-OV/f4d95c8e-fb84-46ca-acc0-827015cc9d0a/mirna-seq.parquet
+f5033d52-ec36-4e67-88d8-b6d898b81b2f	TCGA-OV	/content/TCGA6/TCGA-OV/f5033d52-ec36-4e67-88d8-b6d898b81b2f/RNA-seq.parquet		/content/TCGA6/TCGA-OV/f5033d52-ec36-4e67-88d8-b6d898b81b2f/mirna-seq.parquet
+f50ee039-1da9-43d9-ac01-657ec77a7f32	TCGA-OV			/content/TCGA6/TCGA-OV/f50ee039-1da9-43d9-ac01-657ec77a7f32/mirna-seq.parquet
+f553e953-6464-421f-8933-26ca82cb79d3	TCGA-OV			/content/TCGA6/TCGA-OV/f553e953-6464-421f-8933-26ca82cb79d3/mirna-seq.parquet
+f58e49fc-9641-4b46-be4c-766445ec70a3	TCGA-OV	/content/TCGA6/TCGA-OV/f58e49fc-9641-4b46-be4c-766445ec70a3/RNA-seq.parquet		/content/TCGA6/TCGA-OV/f58e49fc-9641-4b46-be4c-766445ec70a3/mirna-seq.parquet
+f64ebc7f-0e5a-42b4-af57-6cdb90d24f90	TCGA-OV	/content/TCGA6/TCGA-OV/f64ebc7f-0e5a-42b4-af57-6cdb90d24f90/RNA-seq.parquet		/content/TCGA6/TCGA-OV/f64ebc7f-0e5a-42b4-af57-6cdb90d24f90/mirna-seq.parquet
+f65f2e78-c001-4ef3-ae88-3e4f83c7aceb	TCGA-OV	/content/TCGA6/TCGA-OV/f65f2e78-c001-4ef3-ae88-3e4f83c7aceb/RNA-seq.parquet		/content/TCGA6/TCGA-OV/f65f2e78-c001-4ef3-ae88-3e4f83c7aceb/mirna-seq.parquet
+f6ebf3a7-31c6-4f4c-9a0b-74cf35bfedf6	TCGA-OV	/content/TCGA6/TCGA-OV/f6ebf3a7-31c6-4f4c-9a0b-74cf35bfedf6/RNA-seq.parquet		/content/TCGA6/TCGA-OV/f6ebf3a7-31c6-4f4c-9a0b-74cf35bfedf6/mirna-seq.parquet
+f7752d6e-f9cd-4dc9-ab01-3ab87acb21e4	TCGA-OV	/content/TCGA6/TCGA-OV/f7752d6e-f9cd-4dc9-ab01-3ab87acb21e4/RNA-seq.parquet		/content/TCGA6/TCGA-OV/f7752d6e-f9cd-4dc9-ab01-3ab87acb21e4/mirna-seq.parquet
+f7e01929-733b-420a-ab2b-051dd4a992e5	TCGA-OV			/content/TCGA6/TCGA-OV/f7e01929-733b-420a-ab2b-051dd4a992e5/mirna-seq.parquet
+f8a5547f-f1bc-4c01-8b68-25b5ee0caeab	TCGA-OV	/content/TCGA6/TCGA-OV/f8a5547f-f1bc-4c01-8b68-25b5ee0caeab/RNA-seq.parquet		/content/TCGA6/TCGA-OV/f8a5547f-f1bc-4c01-8b68-25b5ee0caeab/mirna-seq.parquet
+f8e9d538-7291-4fe7-b3f2-d01676a027f9	TCGA-OV	/content/TCGA6/TCGA-OV/f8e9d538-7291-4fe7-b3f2-d01676a027f9/RNA-seq.parquet		/content/TCGA6/TCGA-OV/f8e9d538-7291-4fe7-b3f2-d01676a027f9/mirna-seq.parquet
+f9793a4b-c0e7-4475-bf80-69543b7ee2f6	TCGA-OV	/content/TCGA6/TCGA-OV/f9793a4b-c0e7-4475-bf80-69543b7ee2f6/RNA-seq.parquet		/content/TCGA6/TCGA-OV/f9793a4b-c0e7-4475-bf80-69543b7ee2f6/mirna-seq.parquet
+f9824a6e-7a97-445c-8846-df8d8cddedaa	TCGA-OV			/content/TCGA6/TCGA-OV/f9824a6e-7a97-445c-8846-df8d8cddedaa/mirna-seq.parquet
+f9c835db-2ab6-4bf5-826f-48723493c0ec	TCGA-OV	/content/TCGA6/TCGA-OV/f9c835db-2ab6-4bf5-826f-48723493c0ec/RNA-seq.parquet		/content/TCGA6/TCGA-OV/f9c835db-2ab6-4bf5-826f-48723493c0ec/mirna-seq.parquet
+f9f44f86-10c7-4473-b156-5afbfa9a2ad0	TCGA-OV	/content/TCGA6/TCGA-OV/f9f44f86-10c7-4473-b156-5afbfa9a2ad0/RNA-seq.parquet		/content/TCGA6/TCGA-OV/f9f44f86-10c7-4473-b156-5afbfa9a2ad0/mirna-seq.parquet
+fbb45305-de8d-4baf-8bd0-047b29c2e9d9	TCGA-OV	/content/TCGA6/TCGA-OV/fbb45305-de8d-4baf-8bd0-047b29c2e9d9/RNA-seq.parquet		/content/TCGA6/TCGA-OV/fbb45305-de8d-4baf-8bd0-047b29c2e9d9/mirna-seq.parquet
+fd4740db-76a8-4362-be71-7b609479bb67	TCGA-OV	/content/TCGA6/TCGA-OV/fd4740db-76a8-4362-be71-7b609479bb67/RNA-seq.parquet		/content/TCGA6/TCGA-OV/fd4740db-76a8-4362-be71-7b609479bb67/mirna-seq.parquet
+fdd4adb8-9295-480a-9352-305b5eb51187	TCGA-OV			/content/TCGA6/TCGA-OV/fdd4adb8-9295-480a-9352-305b5eb51187/mirna-seq.parquet
+fdf83fdf-dfbb-4306-9a1b-b4487d18b402	TCGA-OV	/content/TCGA6/TCGA-OV/fdf83fdf-dfbb-4306-9a1b-b4487d18b402/RNA-seq.parquet		/content/TCGA6/TCGA-OV/fdf83fdf-dfbb-4306-9a1b-b4487d18b402/mirna-seq.parquet
+fe0e3851-d8cb-4533-9536-b4826cd25f87	TCGA-OV	/content/TCGA6/TCGA-OV/fe0e3851-d8cb-4533-9536-b4826cd25f87/RNA-seq.parquet		/content/TCGA6/TCGA-OV/fe0e3851-d8cb-4533-9536-b4826cd25f87/mirna-seq.parquet
+fe402983-70da-44db-b7b1-c32702ddde26	TCGA-OV	/content/TCGA6/TCGA-OV/fe402983-70da-44db-b7b1-c32702ddde26/RNA-seq.parquet		/content/TCGA6/TCGA-OV/fe402983-70da-44db-b7b1-c32702ddde26/mirna-seq.parquet
+feda41d8-ca56-425d-b149-4d5485328107	TCGA-OV	/content/TCGA6/TCGA-OV/feda41d8-ca56-425d-b149-4d5485328107/RNA-seq.parquet		/content/TCGA6/TCGA-OV/feda41d8-ca56-425d-b149-4d5485328107/mirna-seq.parquet
+fef1696c-a8f4-4db6-8615-e486522baaaa	TCGA-OV	/content/TCGA6/TCGA-OV/fef1696c-a8f4-4db6-8615-e486522baaaa/RNA-seq.parquet		/content/TCGA6/TCGA-OV/fef1696c-a8f4-4db6-8615-e486522baaaa/mirna-seq.parquet
+ff33db70-91d4-4dbb-a4fc-d81a128d0f32	TCGA-OV			/content/TCGA6/TCGA-OV/ff33db70-91d4-4dbb-a4fc-d81a128d0f32/mirna-seq.parquet
+ff530f28-0ec0-4494-bb54-44bb055bae1c	TCGA-OV			/content/TCGA6/TCGA-OV/ff530f28-0ec0-4494-bb54-44bb055bae1c/mirna-seq.parquet
+ff844242-7559-4b07-b09e-69ea40e5ac6b	TCGA-OV	/content/TCGA6/TCGA-OV/ff844242-7559-4b07-b09e-69ea40e5ac6b/RNA-seq.parquet		/content/TCGA6/TCGA-OV/ff844242-7559-4b07-b09e-69ea40e5ac6b/mirna-seq.parquet
